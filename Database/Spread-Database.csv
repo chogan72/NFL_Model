@@ -1,102 +1,102 @@
 Year,Week,Home,Away,Spread,Total
 2010,1,New Orleans Saints,Minnesota Vikings,-5.5,49
 2010,1,New York Giants,Carolina Panthers,-5.5,41
-2010,1,Buffalo Bills,Miami Dolphins,-3,39
-2010,1,Pittsburgh Steelers,Atlanta Falcons,-1,39
+2010,1,Buffalo Bills,Miami Dolphins,3,39
+2010,1,Pittsburgh Steelers,Atlanta Falcons,1,39
 2010,1,Chicago Bears,Detroit Lions,-6.5,44.5
 2010,1,New England Patriots,Cincinnati Bengals,-5,45
 2010,1,Tampa Bay Buccaneers,Cleveland Browns,-3,37
 2010,1,Jacksonville Jaguars,Denver Broncos,-3,41
-2010,1,Houston Texans,Indianapolis Colts,-2,48
+2010,1,Houston Texans,Indianapolis Colts,2,48
 2010,1,Tennessee Titans,Oakland Raiders,-6.5,39.5
-2010,1,Philadelphia Eagles,Green Bay Packers,-3,48
-2010,1,Seattle Seahawks,San Francisco 49ers,-3,37
-2010,1,St. Louis Rams,Arizona Cardinals,-3,39
-2010,1,Washington Redskins,Dallas Cowboys,-3.5,40
+2010,1,Philadelphia Eagles,Green Bay Packers,3,48
+2010,1,Seattle Seahawks,San Francisco 49ers,3,37
+2010,1,St. Louis Rams,Arizona Cardinals,3,39
+2010,1,Washington Redskins,Dallas Cowboys,3.5,40
 2010,1,New York Jets,Baltimore Ravens,-1,36
-2010,1,Kansas City Chiefs,San Diego Chargers,-4,45.5
+2010,1,Kansas City Chiefs,San Diego Chargers,4,45.5
 2010,2,Cleveland Browns,Kansas City Chiefs,-3,38.5
 2010,2,Green Bay Packers,Buffalo Bills,-12.5,43
-2010,2,Cincinnati Bengals,Baltimore Ravens,-3,39
+2010,2,Cincinnati Bengals,Baltimore Ravens,3,39
 2010,2,Tennessee Titans,Pittsburgh Steelers,-6,37
-2010,2,Detroit Lions,Philadelphia Eagles,-6.5,41
+2010,2,Detroit Lions,Philadelphia Eagles,6.5,41
 2010,2,Dallas Cowboys,Chicago Bears,-7,41
 2010,2,Carolina Panthers,Tampa Bay Buccaneers,-4,38
 2010,2,Atlanta Falcons,Arizona Cardinals,-7,43
 2010,2,Minnesota Vikings,Miami Dolphins,-5.5,41
 2010,2,Oakland Raiders,St. Louis Rams,-3,37.5
 2010,2,Denver Broncos,Seattle Seahawks,-3.5,41
-2010,2,Washington Redskins,Houston Texans,-3,43
+2010,2,Washington Redskins,Houston Texans,3,43
 2010,2,San Diego Chargers,Jacksonville Jaguars,-7,45
-2010,2,New York Jets,New England Patriots,-3,39.5
+2010,2,New York Jets,New England Patriots,3,39.5
 2010,2,Indianapolis Colts,New York Giants,-4,48
-2010,2,San Francisco 49ers,New Orleans Saints,-4.5,44
+2010,2,San Francisco 49ers,New Orleans Saints,4.5,44
 2010,3,New York Giants,Tennessee Titans,-3,43.5
 2010,3,New England Patriots,Buffalo Bills,-14.5,42.5
 2010,3,Baltimore Ravens,Cleveland Browns,-12.5,36.5
-2010,3,Tampa Bay Buccaneers,Pittsburgh Steelers,-2.5,33
-2010,3,Carolina Panthers,Cincinnati Bengals,-3.5,37
+2010,3,Tampa Bay Buccaneers,Pittsburgh Steelers,2.5,33
+2010,3,Carolina Panthers,Cincinnati Bengals,3.5,37
 2010,3,New Orleans Saints,Atlanta Falcons,-3,49
-2010,3,Kansas City Chiefs,San Francisco 49ers,-3,38
+2010,3,Kansas City Chiefs,San Francisco 49ers,3,38
 2010,3,Minnesota Vikings,Detroit Lions,-13,43
 2010,3,Houston Texans,Dallas Cowboys,-2.5,47.5
-2010,3,St. Louis Rams,Washington Redskins,-5,39
-2010,3,Jacksonville Jaguars,Philadelphia Eagles,-3,44.5
-2010,3,Denver Broncos,Indianapolis Colts,-6,47
-2010,3,Seattle Seahawks,San Diego Chargers,-3.5,44
+2010,3,St. Louis Rams,Washington Redskins,5,39
+2010,3,Jacksonville Jaguars,Philadelphia Eagles,3,44.5
+2010,3,Denver Broncos,Indianapolis Colts,6,47
+2010,3,Seattle Seahawks,San Diego Chargers,3.5,44
 2010,3,Arizona Cardinals,Oakland Raiders,-5.5,39
 2010,3,Miami Dolphins,New York Jets,-2.5,35.5
-2010,3,Chicago Bears,Green Bay Packers,-3,45.5
+2010,3,Chicago Bears,Green Bay Packers,3,45.5
 2010,4,Tennessee Titans,Denver Broncos,-6.5,
 2010,4,Pittsburgh Steelers,Baltimore Ravens,-2.5,34.5
-2010,4,Cleveland Browns,Cincinnati Bengals,-2,37
+2010,4,Cleveland Browns,Cincinnati Bengals,2,37
 2010,4,Green Bay Packers,Detroit Lions,-14.5,46
 2010,4,New Orleans Saints,Carolina Panthers,-12.5,43.5
 2010,4,Atlanta Falcons,San Francisco 49ers,-7,42.5
-2010,4,St. Louis Rams,Seattle Seahawks,-2.5,40
-2010,4,Buffalo Bills,New York Jets,-5.5,36.5
-2010,4,Jacksonville Jaguars,Indianapolis Colts,-7,45.5
-2010,4,Oakland Raiders,Houston Texans,-3.5,43.5
+2010,4,St. Louis Rams,Seattle Seahawks,2.5,40
+2010,4,Buffalo Bills,New York Jets,5.5,36.5
+2010,4,Jacksonville Jaguars,Indianapolis Colts,7,45.5
+2010,4,Oakland Raiders,Houston Texans,3.5,43.5
 2010,4,San Diego Chargers,Arizona Cardinals,-10,47
 2010,4,Philadelphia Eagles,Washington Redskins,-5,44
 2010,4,New York Giants,Chicago Bears,-3.5,44
-2010,4,Miami Dolphins,New England Patriots,-1,48.5
+2010,4,Miami Dolphins,New England Patriots,1,48.5
 2010,5,Baltimore Ravens,Denver Broncos,-8,39.5
 2010,5,Buffalo Bills,Jacksonville Jaguars,-2.5,41.5
 2010,5,Indianapolis Colts,Kansas City Chiefs,-7.5,46.5
 2010,5,Detroit Lions,St. Louis Rams,-3,43.5
-2010,5,Cleveland Browns,Atlanta Falcons,-3,41.5
+2010,5,Cleveland Browns,Atlanta Falcons,3,41.5
 2010,5,Cincinnati Bengals,Tampa Bay Buccaneers,-6.5,38
 2010,5,Carolina Panthers,Chicago Bears,-3,33
-2010,5,Washington Redskins,Green Bay Packers,-3,45
+2010,5,Washington Redskins,Green Bay Packers,3,45
 2010,5,Houston Texans,New York Giants,-3,48.5
-2010,5,Arizona Cardinals,New Orleans Saints,-7,45.5
-2010,5,Oakland Raiders,San Diego Chargers,-7,44
+2010,5,Arizona Cardinals,New Orleans Saints,7,45.5
+2010,5,Oakland Raiders,San Diego Chargers,7,44
 2010,5,Dallas Cowboys,Tennessee Titans,-7,43.5
 2010,5,San Francisco 49ers,Philadelphia Eagles,-3.5,39.5
 2010,5,New York Jets,Minnesota Vikings,-4,38.5
-2010,6,St. Louis Rams,San Diego Chargers,-8.5,45
+2010,6,St. Louis Rams,San Diego Chargers,8.5,45
 2010,6,Houston Texans,Kansas City Chiefs,-4.5,46
 2010,6,New England Patriots,Baltimore Ravens,-3,44.5
-2010,6,Tampa Bay Buccaneers,New Orleans Saints,-5.5,43.5
+2010,6,Tampa Bay Buccaneers,New Orleans Saints,5.5,43.5
 2010,6,Philadelphia Eagles,Atlanta Falcons,-2,43
 2010,6,New York Giants,Detroit Lions,-10,45.5
 2010,6,Chicago Bears,Seattle Seahawks,-6,37.5
 2010,6,Green Bay Packers,Miami Dolphins,-3,44
 2010,6,Pittsburgh Steelers,Cleveland Browns,-14,37
-2010,6,Denver Broncos,New York Jets,-3.5,43
+2010,6,Denver Broncos,New York Jets,3.5,43
 2010,6,San Francisco 49ers,Oakland Raiders,-7.5,41
 2010,6,Minnesota Vikings,Dallas Cowboys,-1.5,43.5
-2010,6,Washington Redskins,Indianapolis Colts,-3,45
-2010,6,Jacksonville Jaguars,Tennessee Titans,-3,43.5
-2010,7,Miami Dolphins,Pittsburgh Steelers,-3,40.5
+2010,6,Washington Redskins,Indianapolis Colts,3,45
+2010,6,Jacksonville Jaguars,Tennessee Titans,3,43.5
+2010,7,Miami Dolphins,Pittsburgh Steelers,3,40.5
 2010,7,Atlanta Falcons,Cincinnati Bengals,-3.5,43
 2010,7,Kansas City Chiefs,Jacksonville Jaguars,-9,39
 2010,7,Tennessee Titans,Philadelphia Eagles,-3,41.5
 2010,7,Chicago Bears,Washington Redskins,-3,39.5
 2010,7,New Orleans Saints,Cleveland Browns,-12.5,44
 2010,7,Baltimore Ravens,Buffalo Bills,-12.5,39.5
-2010,7,Carolina Panthers,San Francisco 49ers,-2,35.5
+2010,7,Carolina Panthers,San Francisco 49ers,2,35.5
 2010,7,Tampa Bay Buccaneers,St. Louis Rams,-3,39
 2010,7,Seattle Seahawks,Arizona Cardinals,-6.5,40.5
 2010,7,San Diego Chargers,New England Patriots,-2.5,49
@@ -108,7 +108,7 @@ Year,Week,Home,Away,Spread,Total
 2010,8,Detroit Lions,Washington Redskins,-3,45
 2010,8,New York Jets,Green Bay Packers,-6.5,42
 2010,8,St. Louis Rams,Carolina Panthers,-2.5,37.5
-2010,8,Cincinnati Bengals,Miami Dolphins,-1,44
+2010,8,Cincinnati Bengals,Miami Dolphins,1,44
 2010,8,Kansas City Chiefs,Buffalo Bills,-7,45.5
 2010,8,San Diego Chargers,Tennessee Titans,-5.5,45
 2010,8,Arizona Cardinals,Tampa Bay Buccaneers,-3,38
@@ -116,97 +116,97 @@ Year,Week,Home,Away,Spread,Total
 2010,8,New England Patriots,Minnesota Vikings,-5,44.5
 2010,8,New Orleans Saints,Pittsburgh Steelers,-1.5,45
 2010,8,Indianapolis Colts,Houston Texans,-5.5,50.5
-2010,9,Buffalo Bills,Chicago Bears,-3,41.5
-2010,9,Houston Texans,San Diego Chargers,-3,50
-2010,9,Carolina Panthers,New Orleans Saints,-6.5,40
+2010,9,Buffalo Bills,Chicago Bears,3,41.5
+2010,9,Houston Texans,San Diego Chargers,3,50
+2010,9,Carolina Panthers,New Orleans Saints,6.5,40
 2010,9,Minnesota Vikings,Arizona Cardinals,-7.5,42.5
 2010,9,Atlanta Falcons,Tampa Bay Buccaneers,-10,45
-2010,9,Detroit Lions,New York Jets,-6,42.5
+2010,9,Detroit Lions,New York Jets,6,42.5
 2010,9,Baltimore Ravens,Miami Dolphins,-5.5,41
-2010,9,Cleveland Browns,New England Patriots,-4,44
-2010,9,Seattle Seahawks,New York Giants,-7,40.5
-2010,9,Oakland Raiders,Kansas City Chiefs,-1,41
+2010,9,Cleveland Browns,New England Patriots,4,44
+2010,9,Seattle Seahawks,New York Giants,7,40.5
+2010,9,Oakland Raiders,Kansas City Chiefs,1,41
 2010,9,Philadelphia Eagles,Indianapolis Colts,-3,46.5
 2010,9,Green Bay Packers,Dallas Cowboys,-7.5,46
-2010,9,Cincinnati Bengals,Pittsburgh Steelers,-5,41.5
+2010,9,Cincinnati Bengals,Pittsburgh Steelers,5,41.5
 2010,10,Atlanta Falcons,Baltimore Ravens,-1,44
 2010,10,Indianapolis Colts,Cincinnati Bengals,-7,47
 2010,10,Jacksonville Jaguars,Houston Texans,-1,49
 2010,10,Miami Dolphins,Tennessee Titans,-1,43
-2010,10,Chicago Bears,Minnesota Vikings,-1,40.5
+2010,10,Chicago Bears,Minnesota Vikings,1,40.5
 2010,10,Buffalo Bills,Detroit Lions,-1.5,45
-2010,10,Cleveland Browns,New York Jets,-3.5,37
+2010,10,Cleveland Browns,New York Jets,3.5,37
 2010,10,Tampa Bay Buccaneers,Carolina Panthers,-7,37
-2010,10,Denver Broncos,Kansas City Chiefs,-1,44.5
+2010,10,Denver Broncos,Kansas City Chiefs,1,44.5
 2010,10,San Francisco 49ers,St. Louis Rams,-5,38.5
 2010,10,Arizona Cardinals,Seattle Seahawks,-3.5,41
 2010,10,New York Giants,Dallas Cowboys,-12.5,46
 2010,10,Pittsburgh Steelers,New England Patriots,-4.5,45
-2010,10,Washington Redskins,Philadelphia Eagles,-3,44
+2010,10,Washington Redskins,Philadelphia Eagles,3,44
 2010,11,Miami Dolphins,Chicago Bears,-2.5,40
 2010,11,Pittsburgh Steelers,Oakland Raiders,-7,41
 2010,11,New York Jets,Houston Texans,-6.5,46
-2010,11,Carolina Panthers,Baltimore Ravens,-13.5,37
+2010,11,Carolina Panthers,Baltimore Ravens,13.5,37
 2010,11,Tennessee Titans,Washington Redskins,-7,44
 2010,11,Dallas Cowboys,Detroit Lions,-5.5,47
-2010,11,Minnesota Vikings,Green Bay Packers,-3,45
+2010,11,Minnesota Vikings,Green Bay Packers,3,45
 2010,11,Cincinnati Bengals,Buffalo Bills,-4.5,41.5
 2010,11,Jacksonville Jaguars,Cleveland Browns,-2.5,43
 2010,11,Kansas City Chiefs,Arizona Cardinals,-7,45
 2010,11,New Orleans Saints,Seattle Seahawks,-11,44.5
-2010,11,St. Louis Rams,Atlanta Falcons,-3.5,43
+2010,11,St. Louis Rams,Atlanta Falcons,3.5,43
 2010,11,San Francisco 49ers,Tampa Bay Buccaneers,-3.5,41.5
 2010,11,New England Patriots,Indianapolis Colts,-4,49.5
 2010,11,Philadelphia Eagles,New York Giants,-3.5,47.5
 2010,11,San Diego Chargers,Denver Broncos,-9,50.5
-2010,12,Detroit Lions,New England Patriots,-6.5,50.5
-2010,12,Dallas Cowboys,New Orleans Saints,-4.5,48
+2010,12,Detroit Lions,New England Patriots,6.5,50.5
+2010,12,Dallas Cowboys,New Orleans Saints,4.5,48
 2010,12,New York Jets,Cincinnati Bengals,-10,43.5
-2010,12,Washington Redskins,Minnesota Vikings,-2,43.5
-2010,12,Buffalo Bills,Pittsburgh Steelers,-6.5,43.5
+2010,12,Washington Redskins,Minnesota Vikings,2,43.5
+2010,12,Buffalo Bills,Pittsburgh Steelers,6.5,43.5
 2010,12,Houston Texans,Tennessee Titans,-5,46.5
 2010,12,New York Giants,Jacksonville Jaguars,-7.5,44
 2010,12,Cleveland Browns,Carolina Panthers,-8,37.5
 2010,12,Baltimore Ravens,Tampa Bay Buccaneers,-7.5,41.5
-2010,12,Chicago Bears,Philadelphia Eagles,-3,42.5
+2010,12,Chicago Bears,Philadelphia Eagles,3,42.5
 2010,12,Atlanta Falcons,Green Bay Packers,-2,47.5
 2010,12,Oakland Raiders,Miami Dolphins,-3,38
-2010,12,Seattle Seahawks,Kansas City Chiefs,-2,45.5
+2010,12,Seattle Seahawks,Kansas City Chiefs,2,45.5
 2010,12,Denver Broncos,St. Louis Rams,-3,46.5
 2010,12,Indianapolis Colts,San Diego Chargers,-2,50
-2010,12,Arizona Cardinals,San Francisco 49ers,-2,42
+2010,12,Arizona Cardinals,San Francisco 49ers,2,42
 2010,13,Philadelphia Eagles,Houston Texans,-8,51
 2010,13,Minnesota Vikings,Buffalo Bills,-5.5,43
 2010,13,Miami Dolphins,Cleveland Browns,-5.5,43.5
 2010,13,Tennessee Titans,Jacksonville Jaguars,-3,43.5
 2010,13,Kansas City Chiefs,Denver Broncos,-8.5,48
 2010,13,New York Giants,Washington Redskins,-7.5,43
-2010,13,Detroit Lions,Chicago Bears,-5.5,43.5
+2010,13,Detroit Lions,Chicago Bears,5.5,43.5
 2010,13,Green Bay Packers,San Francisco 49ers,-9,41
-2010,13,Cincinnati Bengals,New Orleans Saints,-6.5,45
-2010,13,Tampa Bay Buccaneers,Atlanta Falcons,-3,43
+2010,13,Cincinnati Bengals,New Orleans Saints,6.5,45
+2010,13,Tampa Bay Buccaneers,Atlanta Falcons,3,43
 2010,13,San Diego Chargers,Oakland Raiders,-13,45
 2010,13,Seattle Seahawks,Carolina Panthers,-5,40.5
 2010,13,Indianapolis Colts,Dallas Cowboys,-6,48
-2010,13,Arizona Cardinals,St. Louis Rams,-3.5,44
+2010,13,Arizona Cardinals,St. Louis Rams,3.5,44
 2010,13,Baltimore Ravens,Pittsburgh Steelers,-3,38.5
 2010,13,New England Patriots,New York Jets,-4,44.5
-2010,14,Tennessee Titans,Indianapolis Colts,-3.5,44
+2010,14,Tennessee Titans,Indianapolis Colts,3.5,44
 2010,14,Jacksonville Jaguars,Oakland Raiders,-3.5,41.5
 2010,14,Pittsburgh Steelers,Cincinnati Bengals,-8.5,40
-2010,14,Chicago Bears,New England Patriots,-3,37.5
+2010,14,Chicago Bears,New England Patriots,3,37.5
 2010,14,Buffalo Bills,Cleveland Browns,-1,39
-2010,14,Detroit Lions,Green Bay Packers,-7,46
-2010,14,Carolina Panthers,Atlanta Falcons,-7,41.5
-2010,14,Washington Redskins,Tampa Bay Buccaneers,-1,41
+2010,14,Detroit Lions,Green Bay Packers,7,46
+2010,14,Carolina Panthers,Atlanta Falcons,7,41.5
+2010,14,Washington Redskins,Tampa Bay Buccaneers,1,41
 2010,14,New Orleans Saints,St. Louis Rams,-9.5,47.5
 2010,14,San Francisco 49ers,Seattle Seahawks,-5,42.5
 2010,14,New York Jets,Miami Dolphins,-5.5,37.5
-2010,14,Arizona Cardinals,Denver Broncos,-4,44.5
+2010,14,Arizona Cardinals,Denver Broncos,4,44.5
 2010,14,San Diego Chargers,Kansas City Chiefs,-10,45.5
-2010,14,Dallas Cowboys,Philadelphia Eagles,-4,51
-2010,14,Houston Texans,Baltimore Ravens,-3,47
-2010,14,Minnesota Vikings,New York Giants,-5,43.5
+2010,14,Dallas Cowboys,Philadelphia Eagles,4,51
+2010,14,Houston Texans,Baltimore Ravens,3,47
+2010,14,Minnesota Vikings,New York Giants,5,43.5
 2010,15,San Diego Chargers,San Francisco 49ers,-10,44.5
 2010,15,St. Louis Rams,Kansas City Chiefs,-3,42.5
 2010,15,Tennessee Titans,Houston Texans,-1,47
@@ -218,108 +218,108 @@ Year,Week,Home,Away,Spread,Total
 2010,15,Dallas Cowboys,Washington Redskins,-9.5,44
 2010,15,Tampa Bay Buccaneers,Detroit Lions,-4,43
 2010,15,Baltimore Ravens,New Orleans Saints,-1.5,45
-2010,15,Seattle Seahawks,Atlanta Falcons,-5.5,46.5
+2010,15,Seattle Seahawks,Atlanta Falcons,5.5,46.5
 2010,15,Pittsburgh Steelers,New York Jets,-3.5,36
 2010,15,Oakland Raiders,Denver Broncos,-8,41.5
 2010,15,New England Patriots,Green Bay Packers,-14,43.5
-2010,15,Minnesota Vikings,Chicago Bears,-5.5,34.5
+2010,15,Minnesota Vikings,Chicago Bears,5.5,34.5
 2010,16,Pittsburgh Steelers,Carolina Panthers,-14.5,37.5
-2010,16,Arizona Cardinals,Dallas Cowboys,-7,45
+2010,16,Arizona Cardinals,Dallas Cowboys,7,45
 2010,16,Miami Dolphins,Detroit Lions,-3.5,41.5
 2010,16,Philadelphia Eagles,Minnesota Vikings,-14,37
 2010,16,Jacksonville Jaguars,Washington Redskins,-7,45
 2010,16,St. Louis Rams,San Francisco 49ers,-2.5,40
 2010,16,Tampa Bay Buccaneers,Seattle Seahawks,-5.5,43.5
-2010,16,Buffalo Bills,New England Patriots,-7,46
+2010,16,Buffalo Bills,New England Patriots,7,46
 2010,16,Chicago Bears,New York Jets,-2.5,35.5
-2010,16,Cleveland Browns,Baltimore Ravens,-3.5,39.5
+2010,16,Cleveland Browns,Baltimore Ravens,3.5,39.5
 2010,16,Kansas City Chiefs,Tennessee Titans,-4,42.5
-2010,16,Oakland Raiders,Indianapolis Colts,-2,46
-2010,16,Denver Broncos,Houston Texans,-2.5,49.5
+2010,16,Oakland Raiders,Indianapolis Colts,2,46
+2010,16,Denver Broncos,Houston Texans,2.5,49.5
 2010,16,Green Bay Packers,New York Giants,-3,43
-2010,16,Cincinnati Bengals,San Diego Chargers,-8,44
+2010,16,Cincinnati Bengals,San Diego Chargers,8,44
 2010,16,Atlanta Falcons,New Orleans Saints,-2.5,50
 2010,16,Philadelphia Eagles,Minnesota Vikings,-14,44
 2011,1,Green Bay Packers,New Orleans Saints,-5,47.5
 2011,1,Baltimore Ravens,Pittsburgh Steelers,-1.5,37
 2011,1,Tampa Bay Buccaneers,Detroit Lions,-1.5,43.5
-2011,1,Chicago Bears,Atlanta Falcons,-2,40.5
+2011,1,Chicago Bears,Atlanta Falcons,2,40.5
 2011,1,Kansas City Chiefs,Buffalo Bills,-4,39.5
 2011,1,Houston Texans,Indianapolis Colts,-9,44
-2011,1,St. Louis Rams,Philadelphia Eagles,-3.5,44
+2011,1,St. Louis Rams,Philadelphia Eagles,3.5,44
 2011,1,Cleveland Browns,Cincinnati Bengals,-7,36.5
-2011,1,Jacksonville Jaguars,Tennessee Titans,-1,38
-2011,1,Washington Redskins,New York Giants,-1.5,41
+2011,1,Jacksonville Jaguars,Tennessee Titans,1,38
+2011,1,Washington Redskins,New York Giants,1.5,41
 2011,1,Arizona Cardinals,Carolina Panthers,-7,37.5
 2011,1,San Francisco 49ers,Seattle Seahawks,-6,38
 2011,1,San Diego Chargers,Minnesota Vikings,-9,44
 2011,1,New York Jets,Dallas Cowboys,-6.5,41
-2011,1,Miami Dolphins,New England Patriots,-7,46.5
+2011,1,Miami Dolphins,New England Patriots,7,46.5
 2011,1,Denver Broncos,Oakland Raiders,-3,43
 2011,2,New Orleans Saints,Chicago Bears,-5,46.5
 2011,2,Detroit Lions,Kansas City Chiefs,-8,45
 2011,2,New York Jets,Jacksonville Jaguars,-9,38
 2011,2,Buffalo Bills,Oakland Raiders,-3.5,41
 2011,2,Washington Redskins,Arizona Cardinals,-4.5,45
-2011,2,Tennessee Titans,Baltimore Ravens,-5.5,39
+2011,2,Tennessee Titans,Baltimore Ravens,5.5,39
 2011,2,Pittsburgh Steelers,Seattle Seahawks,-14,40
-2011,2,Carolina Panthers,Green Bay Packers,-10.5,45
+2011,2,Carolina Panthers,Green Bay Packers,10.5,45
 2011,2,Minnesota Vikings,Tampa Bay Buccaneers,-1,41
-2011,2,Indianapolis Colts,Cleveland Browns,-1.5,39
-2011,2,San Francisco 49ers,Dallas Cowboys,-3,41
-2011,2,Miami Dolphins,Houston Texans,-3,47.5
+2011,2,Indianapolis Colts,Cleveland Browns,1.5,39
+2011,2,San Francisco 49ers,Dallas Cowboys,3,41
+2011,2,Miami Dolphins,Houston Texans,3,47.5
 2011,2,New England Patriots,San Diego Chargers,-6.5,53.5
 2011,2,Denver Broncos,Cincinnati Bengals,-3,40.5
-2011,2,Atlanta Falcons,Philadelphia Eagles,-2.5,49.5
+2011,2,Atlanta Falcons,Philadelphia Eagles,2.5,49.5
 2011,2,New York Giants,St. Louis Rams,-7,43.5
 2011,3,Cincinnati Bengals,San Francisco 49ers,-1,38.5
-2011,3,Buffalo Bills,New England Patriots,-7,54
+2011,3,Buffalo Bills,New England Patriots,7,54
 2011,3,New Orleans Saints,Houston Texans,-3.5,51
 2011,3,Philadelphia Eagles,New York Giants,-8,46.5
-2011,3,Cleveland Browns,Miami Dolphins,-1.5,42.5
+2011,3,Cleveland Browns,Miami Dolphins,1.5,42.5
 2011,3,Tennessee Titans,Denver Broncos,-7,44
-2011,3,Minnesota Vikings,Detroit Lions,-3,44.5
+2011,3,Minnesota Vikings,Detroit Lions,3,44.5
 2011,3,Carolina Panthers,Jacksonville Jaguars,-3.5,43
 2011,3,San Diego Chargers,Kansas City Chiefs,-14,44.5
-2011,3,Oakland Raiders,New York Jets,-2.5,40
-2011,3,St. Louis Rams,Baltimore Ravens,-6,42
+2011,3,Oakland Raiders,New York Jets,2.5,40
+2011,3,St. Louis Rams,Baltimore Ravens,6,42
 2011,3,Tampa Bay Buccaneers,Atlanta Falcons,-1,45
-2011,3,Seattle Seahawks,Arizona Cardinals,-3,43
-2011,3,Chicago Bears,Green Bay Packers,-4.5,45.5
-2011,3,Indianapolis Colts,Pittsburgh Steelers,-11,40
+2011,3,Seattle Seahawks,Arizona Cardinals,3,43
+2011,3,Chicago Bears,Green Bay Packers,4.5,45.5
+2011,3,Indianapolis Colts,Pittsburgh Steelers,11,40
 2011,3,Dallas Cowboys,Washington Redskins,-3.5,45
 2011,4,Dallas Cowboys,Detroit Lions,-2.5,46.5
-2011,4,Jacksonville Jaguars,New Orleans Saints,-8.5,45
+2011,4,Jacksonville Jaguars,New Orleans Saints,8.5,45
 2011,4,Philadelphia Eagles,San Francisco 49ers,-10,43.5
-2011,4,St. Louis Rams,Washington Redskins,-3,44
+2011,4,St. Louis Rams,Washington Redskins,3,44
 2011,4,Cleveland Browns,Tennessee Titans,-1.5,37.5
-2011,4,Cincinnati Bengals,Buffalo Bills,-3,43
-2011,4,Kansas City Chiefs,Minnesota Vikings,-3,40
+2011,4,Cincinnati Bengals,Buffalo Bills,3,43
+2011,4,Kansas City Chiefs,Minnesota Vikings,3,40
 2011,4,Chicago Bears,Carolina Panthers,-7,42
 2011,4,Houston Texans,Pittsburgh Steelers,-4,46.5
-2011,4,Seattle Seahawks,Atlanta Falcons,-6,39.5
-2011,4,Arizona Cardinals,New York Giants,-1.5,45.5
+2011,4,Seattle Seahawks,Atlanta Falcons,6,39.5
+2011,4,Arizona Cardinals,New York Giants,1.5,45.5
 2011,4,San Diego Chargers,Miami Dolphins,-6.5,45
 2011,4,Green Bay Packers,Denver Broncos,-12.5,46.5
-2011,4,Oakland Raiders,New England Patriots,-6.5,55.5
+2011,4,Oakland Raiders,New England Patriots,6.5,55.5
 2011,4,Baltimore Ravens,New York Jets,-5,43
 2011,4,Tampa Bay Buccaneers,Indianapolis Colts,-10,40.5
 2011,5,Indianapolis Colts,Kansas City Chiefs,-1.5,38
 2011,5,Minnesota Vikings,Arizona Cardinals,-3.5,45
-2011,5,Buffalo Bills,Philadelphia Eagles,-3,52.5
+2011,5,Buffalo Bills,Philadelphia Eagles,3,52.5
 2011,5,Houston Texans,Oakland Raiders,-4.5,48.5
-2011,5,Carolina Panthers,New Orleans Saints,-6.5,51.5
-2011,5,Jacksonville Jaguars,Cincinnati Bengals,-2.5,37
+2011,5,Carolina Panthers,New Orleans Saints,6.5,51.5
+2011,5,Jacksonville Jaguars,Cincinnati Bengals,2.5,37
 2011,5,Pittsburgh Steelers,Tennessee Titans,-3.5,40
 2011,5,New York Giants,Seattle Seahawks,-10,43.5
 2011,5,San Francisco 49ers,Tampa Bay Buccaneers,-3,41
 2011,5,New England Patriots,New York Jets,-7.5,50.5
-2011,5,Denver Broncos,San Diego Chargers,-3.5,47.5
-2011,5,Atlanta Falcons,Green Bay Packers,-6,54
+2011,5,Denver Broncos,San Diego Chargers,3.5,47.5
+2011,5,Atlanta Falcons,Green Bay Packers,6,54
 2011,5,Detroit Lions,Chicago Bears,-6.5,47
 2011,6,Green Bay Packers,St. Louis Rams,-14,47
 2011,6,Pittsburgh Steelers,Jacksonville Jaguars,-12.5,40
-2011,6,Washington Redskins,Philadelphia Eagles,-3,46.5
+2011,6,Washington Redskins,Philadelphia Eagles,3,46.5
 2011,6,Detroit Lions,San Francisco 49ers,-5,45
 2011,6,Atlanta Falcons,Carolina Panthers,-3.5,49.5
 2011,6,Cincinnati Bengals,Indianapolis Colts,-4.5,40.5
@@ -327,66 +327,66 @@ Year,Week,Home,Away,Spread,Total
 2011,6,Baltimore Ravens,Houston Texans,-7,44
 2011,6,Oakland Raiders,Cleveland Browns,-7,45
 2011,6,New England Patriots,Dallas Cowboys,-6.5,55
-2011,6,Tampa Bay Buccaneers,New Orleans Saints,-6.5,49.5
+2011,6,Tampa Bay Buccaneers,New Orleans Saints,6.5,49.5
 2011,6,Chicago Bears,Minnesota Vikings,-2.5,42
 2011,6,New York Jets,Miami Dolphins,-7,41.5
-2011,7,Tampa Bay Buccaneers,Chicago Bears,-1.5,44
+2011,7,Tampa Bay Buccaneers,Chicago Bears,1.5,44
 2011,7,Carolina Panthers,Washington Redskins,-2.5,44.5
-2011,7,New York Jets,San Diego Chargers,-1,43.5
+2011,7,New York Jets,San Diego Chargers,1,43.5
 2011,7,Cleveland Browns,Seattle Seahawks,-3,41
 2011,7,Tennessee Titans,Houston Texans,-2.5,44
-2011,7,Miami Dolphins,Denver Broncos,-1,41.5
+2011,7,Miami Dolphins,Denver Broncos,1,41.5
 2011,7,Detroit Lions,Atlanta Falcons,-4.5,47
 2011,7,Oakland Raiders,Kansas City Chiefs,-3.5,41.5
-2011,7,Arizona Cardinals,Pittsburgh Steelers,-4,46
+2011,7,Arizona Cardinals,Pittsburgh Steelers,4,46
 2011,7,Dallas Cowboys,St. Louis Rams,-14,43
-2011,7,Minnesota Vikings,Green Bay Packers,-10,47
+2011,7,Minnesota Vikings,Green Bay Packers,10,47
 2011,7,New Orleans Saints,Indianapolis Colts,-13.5,49
-2011,7,Jacksonville Jaguars,Baltimore Ravens,-10,38.5
+2011,7,Jacksonville Jaguars,Baltimore Ravens,10,38.5
 2011,8,Tennessee Titans,Indianapolis Colts,-7.5,43.5
 2011,8,Houston Texans,Jacksonville Jaguars,-10,41
 2011,8,Carolina Panthers,Minnesota Vikings,-3,47
-2011,8,St. Louis Rams,New Orleans Saints,-13.5,48.5
+2011,8,St. Louis Rams,New Orleans Saints,13.5,48.5
 2011,8,Baltimore Ravens,Arizona Cardinals,-11.5,43
 2011,8,New York Giants,Miami Dolphins,-9.5,43.5
 2011,8,Buffalo Bills,Washington Redskins,-4,46.5
-2011,8,Denver Broncos,Detroit Lions,-3,43
-2011,8,Pittsburgh Steelers,New England Patriots,-3,52
+2011,8,Denver Broncos,Detroit Lions,3,43
+2011,8,Pittsburgh Steelers,New England Patriots,3,52
 2011,8,San Francisco 49ers,Cleveland Browns,-9,38.5
-2011,8,Seattle Seahawks,Cincinnati Bengals,-1.5,37.5
+2011,8,Seattle Seahawks,Cincinnati Bengals,1.5,37.5
 2011,8,Philadelphia Eagles,Dallas Cowboys,-3,49
-2011,8,Kansas City Chiefs,San Diego Chargers,-3,44.5
-2011,9,Indianapolis Colts,Atlanta Falcons,-7,45
+2011,8,Kansas City Chiefs,San Diego Chargers,3,44.5
+2011,9,Indianapolis Colts,Atlanta Falcons,7,45
 2011,9,New Orleans Saints,Tampa Bay Buccaneers,-8.5,51
 2011,9,Houston Texans,Cleveland Browns,-10.5,42
 2011,9,Buffalo Bills,New York Jets,-2.5,45
 2011,9,Kansas City Chiefs,Miami Dolphins,-5.5,40.5
-2011,9,Washington Redskins,San Francisco 49ers,-5,37.5
+2011,9,Washington Redskins,San Francisco 49ers,5,37.5
 2011,9,Dallas Cowboys,Seattle Seahawks,-10.5,46
 2011,9,Oakland Raiders,Denver Broncos,-7,41.5
 2011,9,Tennessee Titans,Cincinnati Bengals,-2.5,41.5
 2011,9,Arizona Cardinals,St. Louis Rams,-1,42
 2011,9,New England Patriots,New York Giants,-9.5,51.5
-2011,9,San Diego Chargers,Green Bay Packers,-6,50.5
+2011,9,San Diego Chargers,Green Bay Packers,6,50.5
 2011,9,Pittsburgh Steelers,Baltimore Ravens,-3.5,41.5
 2011,9,Philadelphia Eagles,Chicago Bears,-8,47.5
 2011,10,San Diego Chargers,Oakland Raiders,-7,47.5
-2011,10,Cincinnati Bengals,Pittsburgh Steelers,-4,40.5
+2011,10,Cincinnati Bengals,Pittsburgh Steelers,4,40.5
 2011,10,Kansas City Chiefs,Denver Broncos,-3,42.5
-2011,10,Indianapolis Colts,Jacksonville Jaguars,-3,37.5
+2011,10,Indianapolis Colts,Jacksonville Jaguars,3,37.5
 2011,10,Dallas Cowboys,Buffalo Bills,-4.5,48.5
-2011,10,Tampa Bay Buccaneers,Houston Texans,-4,45.5
+2011,10,Tampa Bay Buccaneers,Houston Texans,4,45.5
 2011,10,Carolina Panthers,Tennessee Titans,-3.5,47
 2011,10,Miami Dolphins,Washington Redskins,-4,38
 2011,10,Atlanta Falcons,New Orleans Saints,-1,50
 2011,10,Chicago Bears,Detroit Lions,-3,42.5
 2011,10,Cleveland Browns,St. Louis Rams,-3,36.5
 2011,10,Philadelphia Eagles,Arizona Cardinals,-13,47
-2011,10,Seattle Seahawks,Baltimore Ravens,-7,39
+2011,10,Seattle Seahawks,Baltimore Ravens,7,39
 2011,10,San Francisco 49ers,New York Giants,-4,43
 2011,10,New York Jets,New England Patriots,-2.5,47
 2011,10,Green Bay Packers,Minnesota Vikings,-13,49.5
-2011,11,Denver Broncos,New York Jets,-6.5,39
+2011,11,Denver Broncos,New York Jets,6.5,39
 2011,11,Atlanta Falcons,Tennessee Titans,-6,44
 2011,11,Miami Dolphins,Buffalo Bills,-3,44
 2011,11,Baltimore Ravens,Cincinnati Bengals,-7,40
@@ -394,79 +394,79 @@ Year,Week,Home,Away,Spread,Total
 2011,11,Minnesota Vikings,Oakland Raiders,-2,46
 2011,11,Detroit Lions,Carolina Panthers,-7,47.5
 2011,11,Green Bay Packers,Tampa Bay Buccaneers,-13.5,48.5
-2011,11,Washington Redskins,Dallas Cowboys,-7,43
+2011,11,Washington Redskins,Dallas Cowboys,7,43
 2011,11,San Francisco 49ers,Arizona Cardinals,-10,40.5
 2011,11,St. Louis Rams,Seattle Seahawks,-3,40.5
 2011,11,Chicago Bears,San Diego Chargers,-4.5,45
 2011,11,New York Giants,Philadelphia Eagles,-6,45
 2011,11,New England Patriots,Kansas City Chiefs,-17,46.5
-2011,12,Detroit Lions,Green Bay Packers,-4,55
+2011,12,Detroit Lions,Green Bay Packers,4,55
 2011,12,Dallas Cowboys,Miami Dolphins,-7,45.5
 2011,12,Baltimore Ravens,San Francisco 49ers,-3.5,40
 2011,12,St. Louis Rams,Arizona Cardinals,-2.5,40
 2011,12,New York Jets,Buffalo Bills,-9.5,42.5
 2011,12,Cincinnati Bengals,Cleveland Browns,-6.5,38.5
-2011,12,Jacksonville Jaguars,Houston Texans,-6.5,37
-2011,12,Indianapolis Colts,Carolina Panthers,-3.5,46.5
+2011,12,Jacksonville Jaguars,Houston Texans,6.5,37
+2011,12,Indianapolis Colts,Carolina Panthers,3.5,46.5
 2011,12,Tennessee Titans,Tampa Bay Buccaneers,-3,43.5
 2011,12,Atlanta Falcons,Minnesota Vikings,-10,44
 2011,12,Oakland Raiders,Chicago Bears,-3,41
 2011,12,Seattle Seahawks,Washington Redskins,-3,37
-2011,12,Philadelphia Eagles,New England Patriots,-3,50.5
+2011,12,Philadelphia Eagles,New England Patriots,3,50.5
 2011,12,San Diego Chargers,Denver Broncos,-4.5,42
-2011,12,Kansas City Chiefs,Pittsburgh Steelers,-10.5,42
+2011,12,Kansas City Chiefs,Pittsburgh Steelers,10.5,42
 2011,12,New Orleans Saints,New York Giants,-7,51
-2011,13,Seattle Seahawks,Philadelphia Eagles,-3,43.5
+2011,13,Seattle Seahawks,Philadelphia Eagles,3,43.5
 2011,13,Buffalo Bills,Tennessee Titans,-1,43.5
 2011,13,Chicago Bears,Kansas City Chiefs,-8.5,36
 2011,13,Miami Dolphins,Oakland Raiders,-3,43
 2011,13,Pittsburgh Steelers,Cincinnati Bengals,-7,42.5
-2011,13,Cleveland Browns,Baltimore Ravens,-7,38
-2011,13,Washington Redskins,New York Jets,-3,38.5
-2011,13,Houston Texans,Atlanta Falcons,-2,38
-2011,13,Tampa Bay Buccaneers,Carolina Panthers,-1,46.5
+2011,13,Cleveland Browns,Baltimore Ravens,7,38
+2011,13,Washington Redskins,New York Jets,3,38.5
+2011,13,Houston Texans,Atlanta Falcons,2,38
+2011,13,Tampa Bay Buccaneers,Carolina Panthers,1,46.5
 2011,13,New Orleans Saints,Detroit Lions,-9,54.5
-2011,13,Minnesota Vikings,Denver Broncos,-1,37.5
+2011,13,Minnesota Vikings,Denver Broncos,1,37.5
 2011,13,San Francisco 49ers,St. Louis Rams,-14,38.5
-2011,13,Arizona Cardinals,Dallas Cowboys,-4.5,47
-2011,13,New York Giants,Green Bay Packers,-7,54
+2011,13,Arizona Cardinals,Dallas Cowboys,4.5,47
+2011,13,New York Giants,Green Bay Packers,7,54
 2011,13,New England Patriots,Indianapolis Colts,-20.5,48.5
-2011,13,Jacksonville Jaguars,San Diego Chargers,-3,40
+2011,13,Jacksonville Jaguars,San Diego Chargers,3,40
 2011,14,Pittsburgh Steelers,Cleveland Browns,-14,40
 2011,14,Baltimore Ravens,Indianapolis Colts,-16,41.5
 2011,14,Cincinnati Bengals,Houston Texans,-2.5,37.5
 2011,14,Green Bay Packers,Oakland Raiders,-12,50
 2011,14,New York Jets,Kansas City Chiefs,-10.5,35.5
 2011,14,Detroit Lions,Minnesota Vikings,-10,47
-2011,14,Tennessee Titans,New Orleans Saints,-3.5,48
+2011,14,Tennessee Titans,New Orleans Saints,3.5,48
 2011,14,Miami Dolphins,Philadelphia Eagles,-3,44.5
-2011,14,Washington Redskins,New England Patriots,-7.5,47
-2011,14,Carolina Panthers,Atlanta Falcons,-3,48
-2011,14,Jacksonville Jaguars,Tampa Bay Buccaneers,-3,42
-2011,14,Arizona Cardinals,San Francisco 49ers,-3.5,39.5
+2011,14,Washington Redskins,New England Patriots,7.5,47
+2011,14,Carolina Panthers,Atlanta Falcons,3,48
+2011,14,Jacksonville Jaguars,Tampa Bay Buccaneers,3,42
+2011,14,Arizona Cardinals,San Francisco 49ers,3.5,39.5
 2011,14,Denver Broncos,Chicago Bears,-3,35.5
 2011,14,San Diego Chargers,Buffalo Bills,-7,49.5
 2011,14,Dallas Cowboys,New York Giants,-4.5,49
 2011,14,Seattle Seahawks,St. Louis Rams,-8.5,38
 2011,15,Atlanta Falcons,Jacksonville Jaguars,-13.5,42
-2011,15,Tampa Bay Buccaneers,Dallas Cowboys,-7.5,47
+2011,15,Tampa Bay Buccaneers,Dallas Cowboys,7.5,47
 2011,15,New York Giants,Washington Redskins,-6,45.5
-2011,15,Kansas City Chiefs,Green Bay Packers,-11,46
-2011,15,Minnesota Vikings,New Orleans Saints,-7,53.5
+2011,15,Kansas City Chiefs,Green Bay Packers,11,46
+2011,15,Minnesota Vikings,New Orleans Saints,7,53.5
 2011,15,Chicago Bears,Seattle Seahawks,-3.5,35
-2011,15,Buffalo Bills,Miami Dolphins,-1,42
+2011,15,Buffalo Bills,Miami Dolphins,1,42
 2011,15,Houston Texans,Carolina Panthers,-5,45
-2011,15,Indianapolis Colts,Tennessee Titans,-6.5,41.5
-2011,15,St. Louis Rams,Cincinnati Bengals,-7,38.5
-2011,15,Oakland Raiders,Detroit Lions,-3,47.5
-2011,15,Denver Broncos,New England Patriots,-7,47.5
+2011,15,Indianapolis Colts,Tennessee Titans,6.5,41.5
+2011,15,St. Louis Rams,Cincinnati Bengals,7,38.5
+2011,15,Oakland Raiders,Detroit Lions,3,47.5
+2011,15,Denver Broncos,New England Patriots,7,47.5
 2011,15,Philadelphia Eagles,New York Jets,-3,44.5
 2011,15,Arizona Cardinals,Cleveland Browns,-6,37
-2011,15,San Diego Chargers,Baltimore Ravens,-1,45
+2011,15,San Diego Chargers,Baltimore Ravens,1,45
 2011,15,San Francisco 49ers,Pittsburgh Steelers,-3,37
-2011,16,Indianapolis Colts,Houston Texans,-7,40.5
+2011,16,Indianapolis Colts,Houston Texans,7,40.5
 2011,16,Kansas City Chiefs,Oakland Raiders,-3,43
-2011,16,Buffalo Bills,Denver Broncos,-3,43.5
+2011,16,Buffalo Bills,Denver Broncos,3,43.5
 2011,16,Tennessee Titans,Jacksonville Jaguars,-8,38.5
 2011,16,Cincinnati Bengals,Arizona Cardinals,-4,41
 2011,16,New England Patriots,Miami Dolphins,-7,49
@@ -475,21 +475,21 @@ Year,Week,Home,Away,Spread,Total
 2011,16,Washington Redskins,Minnesota Vikings,-6,43
 2011,16,Carolina Panthers,Tampa Bay Buccaneers,-7.5,48
 2011,16,Pittsburgh Steelers,St. Louis Rams,-10,34
-2011,16,Detroit Lions,San Diego Chargers,-1,52.5
-2011,16,Seattle Seahawks,San Francisco 49ers,-2.5,37
-2011,16,Dallas Cowboys,Philadelphia Eagles,-2.5,49.5
+2011,16,Detroit Lions,San Diego Chargers,1,52.5
+2011,16,Seattle Seahawks,San Francisco 49ers,2.5,37
+2011,16,Dallas Cowboys,Philadelphia Eagles,2.5,49.5
 2011,16,Green Bay Packers,Chicago Bears,-13.5,41
 2011,16,New Orleans Saints,Atlanta Falcons,-7,53
 2011,17,Philadelphia Eagles,Washington Redskins,-7,44.5
 2011,17,Atlanta Falcons,Tampa Bay Buccaneers,-10,45.5
-2011,17,St. Louis Rams,San Francisco 49ers,-12.5,34.5
+2011,17,St. Louis Rams,San Francisco 49ers,12.5,34.5
 2011,17,Minnesota Vikings,Chicago Bears,-2.5,41.5
-2011,17,Green Bay Packers,Detroit Lions,-6.5,41.5
+2011,17,Green Bay Packers,Detroit Lions,6.5,41.5
 2011,17,New York Giants,Dallas Cowboys,-3,48
 2011,17,New Orleans Saints,Carolina Panthers,-7,55
-2011,17,Houston Texans,Tennessee Titans,-2.5,38
-2011,17,Cincinnati Bengals,Baltimore Ravens,-3,37.5
-2011,17,Cleveland Browns,Pittsburgh Steelers,-7,33
+2011,17,Houston Texans,Tennessee Titans,2.5,38
+2011,17,Cincinnati Bengals,Baltimore Ravens,3,37.5
+2011,17,Cleveland Browns,Pittsburgh Steelers,7,33
 2011,17,Jacksonville Jaguars,Indianapolis Colts,-3,36.5
 2011,17,Miami Dolphins,New York Jets,-2,39
 2011,17,New England Patriots,Buffalo Bills,-10.5,50
@@ -498,32 +498,32 @@ Year,Week,Home,Away,Spread,Total
 2011,17,Arizona Cardinals,Seattle Seahawks,-2.5,40.5
 2012,1,New York Giants,Dallas Cowboys,-3.5,45.5
 2012,1,Chicago Bears,Indianapolis Colts,-10,42.5
-2012,1,Cleveland Browns,Philadelphia Eagles,-9,42.5
+2012,1,Cleveland Browns,Philadelphia Eagles,9,42.5
 2012,1,New York Jets,Buffalo Bills,-3,39.5
 2012,1,New Orleans Saints,Washington Redskins,-8.5,50
-2012,1,Tennessee Titans,New England Patriots,-5,48
+2012,1,Tennessee Titans,New England Patriots,5,48
 2012,1,Minnesota Vikings,Jacksonville Jaguars,-3.5,38
 2012,1,Houston Texans,Miami Dolphins,-13,41.5
 2012,1,Detroit Lions,St. Louis Rams,-8.5,46
-2012,1,Kansas City Chiefs,Atlanta Falcons,-2.5,43
+2012,1,Kansas City Chiefs,Atlanta Falcons,2.5,43
 2012,1,Green Bay Packers,San Francisco 49ers,-6,47
-2012,1,Tampa Bay Buccaneers,Carolina Panthers,-3,45.5
-2012,1,Arizona Cardinals,Seattle Seahawks,-3,41
+2012,1,Tampa Bay Buccaneers,Carolina Panthers,3,45.5
+2012,1,Arizona Cardinals,Seattle Seahawks,3,41
 2012,1,Denver Broncos,Pittsburgh Steelers,-1.5,45.5
 2012,1,Baltimore Ravens,Cincinnati Bengals,-7,43
 2012,1,Oakland Raiders,San Diego Chargers,-1,47.5
 2012,2,Green Bay Packers,Chicago Bears,-5,51
 2012,2,New York Giants,Tampa Bay Buccaneers,-7.5,43.5
 2012,2,New England Patriots,Arizona Cardinals,-13.5,47
-2012,2,Indianapolis Colts,Minnesota Vikings,-3,45.5
-2012,2,Carolina Panthers,New Orleans Saints,-3,53.5
+2012,2,Indianapolis Colts,Minnesota Vikings,3,45.5
+2012,2,Carolina Panthers,New Orleans Saints,3,53.5
 2012,2,Buffalo Bills,Kansas City Chiefs,-3,45
 2012,2,Philadelphia Eagles,Baltimore Ravens,-3,47
-2012,2,Miami Dolphins,Oakland Raiders,-1.5,41
+2012,2,Miami Dolphins,Oakland Raiders,1.5,41
 2012,2,Cincinnati Bengals,Cleveland Browns,-7,39.5
-2012,2,Jacksonville Jaguars,Houston Texans,-6.5,40
-2012,2,Seattle Seahawks,Dallas Cowboys,-3,43
-2012,2,St. Louis Rams,Washington Redskins,-4,42.5
+2012,2,Jacksonville Jaguars,Houston Texans,6.5,40
+2012,2,Seattle Seahawks,Dallas Cowboys,3,43
+2012,2,St. Louis Rams,Washington Redskins,4,42.5
 2012,2,Pittsburgh Steelers,New York Jets,-4.5,43
 2012,2,San Diego Chargers,Tennessee Titans,-6.5,43.5
 2012,2,San Francisco 49ers,Detroit Lions,-7,46
@@ -531,27 +531,27 @@ Year,Week,Home,Away,Spread,Total
 2012,3,Carolina Panthers,New York Giants,-3,49
 2012,3,Chicago Bears,St. Louis Rams,-7,42
 2012,3,Dallas Cowboys,Tampa Bay Buccaneers,-7.5,45.5
-2012,3,Minnesota Vikings,San Francisco 49ers,-7,43
-2012,3,Tennessee Titans,Detroit Lions,-4,47
+2012,3,Minnesota Vikings,San Francisco 49ers,7,43
+2012,3,Tennessee Titans,Detroit Lions,4,47
 2012,3,Washington Redskins,Cincinnati Bengals,-3,49.5
-2012,3,Miami Dolphins,New York Jets,-2.5,40.5
+2012,3,Miami Dolphins,New York Jets,2.5,40.5
 2012,3,New Orleans Saints,Kansas City Chiefs,-9,51.5
-2012,3,Cleveland Browns,Buffalo Bills,-3,45
+2012,3,Cleveland Browns,Buffalo Bills,3,45
 2012,3,Indianapolis Colts,Jacksonville Jaguars,-3,42
-2012,3,Arizona Cardinals,Philadelphia Eagles,-3,42
+2012,3,Arizona Cardinals,Philadelphia Eagles,3,42
 2012,3,San Diego Chargers,Atlanta Falcons,-3,47
-2012,3,Denver Broncos,Houston Texans,-1.5,43.5
-2012,3,Oakland Raiders,Pittsburgh Steelers,-3.5,45
+2012,3,Denver Broncos,Houston Texans,1.5,43.5
+2012,3,Oakland Raiders,Pittsburgh Steelers,3.5,45
 2012,3,Baltimore Ravens,New England Patriots,-3,48.5
-2012,3,Seattle Seahawks,Green Bay Packers,-3,45
+2012,3,Seattle Seahawks,Green Bay Packers,3,45
 2012,4,Baltimore Ravens,Cleveland Browns,-11,43.5
-2012,4,Buffalo Bills,New England Patriots,-3.5,48
+2012,4,Buffalo Bills,New England Patriots,3.5,48
 2012,4,Detroit Lions,Minnesota Vikings,-3.5,48.5
 2012,4,Atlanta Falcons,Carolina Panthers,-7,48
-2012,4,New York Jets,San Francisco 49ers,-4,41
-2012,4,Kansas City Chiefs,San Diego Chargers,-2.5,43
+2012,4,New York Jets,San Francisco 49ers,4,41
+2012,4,Kansas City Chiefs,San Diego Chargers,2.5,43
 2012,4,Houston Texans,Tennessee Titans,-13,44.5
-2012,4,St. Louis Rams,Seattle Seahawks,-2.5,39
+2012,4,St. Louis Rams,Seattle Seahawks,2.5,39
 2012,4,Arizona Cardinals,Miami Dolphins,-4,39.5
 2012,4,Denver Broncos,Oakland Raiders,-6.5,47.5
 2012,4,Jacksonville Jaguars,Cincinnati Bengals,-1,45.5
@@ -559,31 +559,31 @@ Year,Week,Home,Away,Spread,Total
 2012,4,Tampa Bay Buccaneers,Washington Redskins,-2,45
 2012,4,Philadelphia Eagles,New York Giants,-2,46.5
 2012,4,Dallas Cowboys,Chicago Bears,-3,41
-2012,5,St. Louis Rams,Arizona Cardinals,-1.5,38
-2012,5,Washington Redskins,Atlanta Falcons,-3,51
+2012,5,St. Louis Rams,Arizona Cardinals,1.5,38
+2012,5,Washington Redskins,Atlanta Falcons,3,51
 2012,5,Pittsburgh Steelers,Philadelphia Eagles,-4,44
-2012,5,Indianapolis Colts,Green Bay Packers,-6.5,49
+2012,5,Indianapolis Colts,Green Bay Packers,6.5,49
 2012,5,New York Giants,Cleveland Browns,-8,43.5
 2012,5,Minnesota Vikings,Tennessee Titans,-6,44
 2012,5,Cincinnati Bengals,Miami Dolphins,-3,45
-2012,5,Kansas City Chiefs,Baltimore Ravens,-6,47
+2012,5,Kansas City Chiefs,Baltimore Ravens,6,47
 2012,5,Carolina Panthers,Seattle Seahawks,-1.5,42.5
-2012,5,Jacksonville Jaguars,Chicago Bears,-6.5,39
+2012,5,Jacksonville Jaguars,Chicago Bears,6.5,39
 2012,5,New England Patriots,Denver Broncos,-6,51
 2012,5,San Francisco 49ers,Buffalo Bills,-10,45.5
 2012,5,New Orleans Saints,San Diego Chargers,-3.5,53.5
-2012,5,New York Jets,Houston Texans,-9.5,40.5
-2012,6,Tennessee Titans,Pittsburgh Steelers,-6,43
-2012,6,Cleveland Browns,Cincinnati Bengals,-1.5,42
+2012,5,New York Jets,Houston Texans,9.5,40.5
+2012,6,Tennessee Titans,Pittsburgh Steelers,6,43
+2012,6,Cleveland Browns,Cincinnati Bengals,1.5,42
 2012,6,New York Jets,Indianapolis Colts,-3.5,44
 2012,6,Tampa Bay Buccaneers,Kansas City Chiefs,-5,39.5
 2012,6,Atlanta Falcons,Oakland Raiders,-10,49
 2012,6,Baltimore Ravens,Dallas Cowboys,-3,45.5
 2012,6,Philadelphia Eagles,Detroit Lions,-3.5,47.5
 2012,6,Miami Dolphins,St. Louis Rams,-5.5,38
-2012,6,Seattle Seahawks,New England Patriots,-4,42.5
+2012,6,Seattle Seahawks,New England Patriots,4,42.5
 2012,6,Arizona Cardinals,Buffalo Bills,-5,44.5
-2012,6,Washington Redskins,Minnesota Vikings,-2,44
+2012,6,Washington Redskins,Minnesota Vikings,2,44
 2012,6,San Francisco 49ers,New York Giants,-7,47
 2012,6,Houston Texans,Green Bay Packers,-4,47
 2012,6,San Diego Chargers,Denver Broncos,0,48
@@ -592,110 +592,110 @@ Year,Week,Home,Away,Spread,Total
 2012,7,Minnesota Vikings,Arizona Cardinals,-7,39
 2012,7,Indianapolis Colts,Cleveland Browns,-1,46.5
 2012,7,Houston Texans,Baltimore Ravens,-6.5,47
-2012,7,St. Louis Rams,Green Bay Packers,-5,45
-2012,7,Carolina Panthers,Dallas Cowboys,-2.5,45
+2012,7,St. Louis Rams,Green Bay Packers,5,45
+2012,7,Carolina Panthers,Dallas Cowboys,2.5,45
 2012,7,New York Giants,Washington Redskins,-6.5,51.5
-2012,7,Tampa Bay Buccaneers,New Orleans Saints,-1.5,49.5
+2012,7,Tampa Bay Buccaneers,New Orleans Saints,1.5,49.5
 2012,7,New England Patriots,New York Jets,-11,48
 2012,7,Oakland Raiders,Jacksonville Jaguars,-6,44.5
-2012,7,Cincinnati Bengals,Pittsburgh Steelers,-1,47
+2012,7,Cincinnati Bengals,Pittsburgh Steelers,1,47
 2012,7,Chicago Bears,Detroit Lions,-6.5,45.5
 2012,8,Minnesota Vikings,Tampa Bay Buccaneers,-5.5,43.5
-2012,8,St. Louis Rams,New England Patriots,-7,46
+2012,8,St. Louis Rams,New England Patriots,7,46
 2012,8,Tennessee Titans,Indianapolis Colts,-3,46.5
 2012,8,Green Bay Packers,Jacksonville Jaguars,-16,45.5
-2012,8,Cleveland Browns,San Diego Chargers,-3,40.5
+2012,8,Cleveland Browns,San Diego Chargers,3,40.5
 2012,8,Philadelphia Eagles,Atlanta Falcons,-3,43
 2012,8,Detroit Lions,Seattle Seahawks,-3,43
 2012,8,New York Jets,Miami Dolphins,-1,39
 2012,8,Chicago Bears,Carolina Panthers,-7,41
 2012,8,Pittsburgh Steelers,Washington Redskins,-4.5,44.5
 2012,8,Kansas City Chiefs,Oakland Raiders,-1,41.5
-2012,8,Dallas Cowboys,New York Giants,-3,48
+2012,8,Dallas Cowboys,New York Giants,3,48
 2012,8,Denver Broncos,New Orleans Saints,-6,55
-2012,8,Arizona Cardinals,San Francisco 49ers,-7,37.5
+2012,8,Arizona Cardinals,San Francisco 49ers,7,37.5
 2012,9,San Diego Chargers,Kansas City Chiefs,-7,41
-2012,9,Cincinnati Bengals,Denver Broncos,-5,47.5
+2012,9,Cincinnati Bengals,Denver Broncos,5,47.5
 2012,9,Green Bay Packers,Arizona Cardinals,-10.5,43
-2012,9,Indianapolis Colts,Miami Dolphins,-2.5,43.5
-2012,9,Cleveland Browns,Baltimore Ravens,-3.5,44
+2012,9,Indianapolis Colts,Miami Dolphins,2.5,43.5
+2012,9,Cleveland Browns,Baltimore Ravens,3.5,44
 2012,9,Houston Texans,Buffalo Bills,-11,48
 2012,9,Washington Redskins,Carolina Panthers,-3,48.5
-2012,9,Jacksonville Jaguars,Detroit Lions,-6,44
-2012,9,Tennessee Titans,Chicago Bears,-5,43.5
+2012,9,Jacksonville Jaguars,Detroit Lions,6,44
+2012,9,Tennessee Titans,Chicago Bears,5,43.5
 2012,9,Seattle Seahawks,Minnesota Vikings,-4.5,38
 2012,9,Oakland Raiders,Tampa Bay Buccaneers,-1,47
 2012,9,New York Giants,Pittsburgh Steelers,-3.5,48
 2012,9,Atlanta Falcons,Dallas Cowboys,-4,47.5
 2012,9,New Orleans Saints,Philadelphia Eagles,-2.5,53
-2012,10,Jacksonville Jaguars,Indianapolis Colts,-3,43.5
+2012,10,Jacksonville Jaguars,Indianapolis Colts,3,43.5
 2012,10,New England Patriots,Buffalo Bills,-13.5,54
-2012,10,Cincinnati Bengals,New York Giants,-4,47
+2012,10,Cincinnati Bengals,New York Giants,4,47
 2012,10,Tampa Bay Buccaneers,San Diego Chargers,-3,46.5
-2012,10,Carolina Panthers,Denver Broncos,-3.5,46.5
+2012,10,Carolina Panthers,Denver Broncos,3.5,46.5
 2012,10,Miami Dolphins,Tennessee Titans,-7,44
 2012,10,Baltimore Ravens,Oakland Raiders,-7.5,48
-2012,10,New Orleans Saints,Atlanta Falcons,-1.5,54
-2012,10,Minnesota Vikings,Detroit Lions,-3,46
+2012,10,New Orleans Saints,Atlanta Falcons,1.5,54
+2012,10,Minnesota Vikings,Detroit Lions,3,46
 2012,10,Seattle Seahawks,New York Jets,-5,38.5
-2012,10,Philadelphia Eagles,Dallas Cowboys,-2.5,44
+2012,10,Philadelphia Eagles,Dallas Cowboys,2.5,44
 2012,10,San Francisco 49ers,St. Louis Rams,-13.5,38
 2012,10,Chicago Bears,Houston Texans,-1,37.5
 2012,10,Pittsburgh Steelers,Kansas City Chiefs,-12.5,39.5
 2012,11,Buffalo Bills,Miami Dolphins,-2.5,45.5
 2012,11,Washington Redskins,Philadelphia Eagles,-3.5,45.5
-2012,11,Detroit Lions,Green Bay Packers,-3,53.5
+2012,11,Detroit Lions,Green Bay Packers,3,53.5
 2012,11,Atlanta Falcons,Arizona Cardinals,-9.5,43.5
-2012,11,Carolina Panthers,Tampa Bay Buccaneers,-1,47
+2012,11,Carolina Panthers,Tampa Bay Buccaneers,1,47
 2012,11,Dallas Cowboys,Cleveland Browns,-7,43.5
 2012,11,St. Louis Rams,New York Jets,-3.5,39
 2012,11,New England Patriots,Indianapolis Colts,-10,54
 2012,11,Houston Texans,Jacksonville Jaguars,-15.5,40.5
-2012,11,Kansas City Chiefs,Cincinnati Bengals,-3,42
-2012,11,Oakland Raiders,New Orleans Saints,-6,56
+2012,11,Kansas City Chiefs,Cincinnati Bengals,3,42
+2012,11,Oakland Raiders,New Orleans Saints,6,56
 2012,11,Denver Broncos,San Diego Chargers,-7.5,48
-2012,11,Pittsburgh Steelers,Baltimore Ravens,-3,41
+2012,11,Pittsburgh Steelers,Baltimore Ravens,3,41
 2012,11,San Francisco 49ers,Chicago Bears,-3.5,34
-2012,12,Detroit Lions,Houston Texans,-3.5,49
+2012,12,Detroit Lions,Houston Texans,3.5,49
 2012,12,Dallas Cowboys,Washington Redskins,-3.5,47.5
-2012,12,New York Jets,New England Patriots,-7,48.5
+2012,12,New York Jets,New England Patriots,7,48.5
 2012,12,Cincinnati Bengals,Oakland Raiders,-7.5,50
-2012,12,Cleveland Browns,Pittsburgh Steelers,-1,33.5
+2012,12,Cleveland Browns,Pittsburgh Steelers,1,33.5
 2012,12,Indianapolis Colts,Buffalo Bills,-2,51
-2012,12,Kansas City Chiefs,Denver Broncos,-10.5,42.5
-2012,12,Jacksonville Jaguars,Tennessee Titans,-3.5,45
+2012,12,Kansas City Chiefs,Denver Broncos,10.5,42.5
+2012,12,Jacksonville Jaguars,Tennessee Titans,3.5,45
 2012,12,Chicago Bears,Minnesota Vikings,-6.5,38.5
-2012,12,Tampa Bay Buccaneers,Atlanta Falcons,-1,51
-2012,12,Miami Dolphins,Seattle Seahawks,-3,38
-2012,12,San Diego Chargers,Baltimore Ravens,-1,47
-2012,12,New Orleans Saints,San Francisco 49ers,-2,50
+2012,12,Tampa Bay Buccaneers,Atlanta Falcons,1,51
+2012,12,Miami Dolphins,Seattle Seahawks,3,38
+2012,12,San Diego Chargers,Baltimore Ravens,1,47
+2012,12,New Orleans Saints,San Francisco 49ers,2,50
 2012,12,Arizona Cardinals,St. Louis Rams,-1.5,36
 2012,12,New York Giants,Green Bay Packers,-2.5,50.5
-2012,12,Philadelphia Eagles,Carolina Panthers,-3,41.5
+2012,12,Philadelphia Eagles,Carolina Panthers,3,41.5
 2012,13,Atlanta Falcons,New Orleans Saints,-3.5,54.5
 2012,13,Chicago Bears,Seattle Seahawks,-3,37
 2012,13,Green Bay Packers,Minnesota Vikings,-7,47
-2012,13,St. Louis Rams,San Francisco 49ers,-7.5,41
+2012,13,St. Louis Rams,San Francisco 49ers,7.5,41
 2012,13,New York Jets,Arizona Cardinals,-6.5,37
-2012,13,Kansas City Chiefs,Carolina Panthers,-5.5,41
+2012,13,Kansas City Chiefs,Carolina Panthers,5.5,41
 2012,13,Detroit Lions,Indianapolis Colts,-7,51.5
 2012,13,Buffalo Bills,Jacksonville Jaguars,-6,41.5
-2012,13,Miami Dolphins,New England Patriots,-7.5,51
-2012,13,Tennessee Titans,Houston Texans,-7,48
+2012,13,Miami Dolphins,New England Patriots,7.5,51
+2012,13,Tennessee Titans,Houston Texans,7,48
 2012,13,Denver Broncos,Tampa Bay Buccaneers,-8,50
 2012,13,Baltimore Ravens,Pittsburgh Steelers,-7,37
-2012,13,Oakland Raiders,Cleveland Browns,-2.5,39.5
+2012,13,Oakland Raiders,Cleveland Browns,2.5,39.5
 2012,13,San Diego Chargers,Cincinnati Bengals,-1,46
 2012,13,Dallas Cowboys,Philadelphia Eagles,-10.5,44.5
-2012,13,Washington Redskins,New York Giants,-3,50.5
-2012,14,Oakland Raiders,Denver Broncos,-10,47.5
+2012,13,Washington Redskins,New York Giants,3,50.5
+2012,14,Oakland Raiders,Denver Broncos,10,47.5
 2012,14,Washington Redskins,Baltimore Ravens,-2,48
 2012,14,Cleveland Browns,Kansas City Chiefs,-7,38
 2012,14,Pittsburgh Steelers,San Diego Chargers,-7,38
 2012,14,Indianapolis Colts,Tennessee Titans,-3.5,47
-2012,14,Jacksonville Jaguars,New York Jets,-3,39
-2012,14,Minnesota Vikings,Chicago Bears,-1.5,40.5
-2012,14,Carolina Panthers,Atlanta Falcons,-3,46.5
+2012,14,Jacksonville Jaguars,New York Jets,3,39
+2012,14,Minnesota Vikings,Chicago Bears,1.5,40.5
+2012,14,Carolina Panthers,Atlanta Falcons,3,46.5
 2012,14,Tampa Bay Buccaneers,Philadelphia Eagles,-7,48
 2012,14,Buffalo Bills,St. Louis Rams,-3.5,42.5
 2012,14,Cincinnati Bengals,Dallas Cowboys,-3,46
@@ -704,48 +704,48 @@ Year,Week,Home,Away,Spread,Total
 2012,14,Seattle Seahawks,Arizona Cardinals,-10,36
 2012,14,Green Bay Packers,Detroit Lions,-6,49.5
 2012,14,New England Patriots,Houston Texans,-5.5,50.5
-2012,15,Philadelphia Eagles,Cincinnati Bengals,-5,45
-2012,15,Chicago Bears,Green Bay Packers,-3,43.5
+2012,15,Philadelphia Eagles,Cincinnati Bengals,5,45
+2012,15,Chicago Bears,Green Bay Packers,3,43.5
 2012,15,Atlanta Falcons,New York Giants,-1,50
 2012,15,New Orleans Saints,Tampa Bay Buccaneers,-3.5,55
 2012,15,St. Louis Rams,Minnesota Vikings,-2.5,39.5
 2012,15,Cleveland Browns,Washington Redskins,-4,40
 2012,15,Miami Dolphins,Jacksonville Jaguars,-7.5,38.5
-2012,15,Baltimore Ravens,Denver Broncos,-3,48
+2012,15,Baltimore Ravens,Denver Broncos,3,48
 2012,15,Houston Texans,Indianapolis Colts,-10.5,48
 2012,15,San Diego Chargers,Carolina Panthers,-3,45
-2012,15,Buffalo Bills,Seattle Seahawks,-4.5,44
-2012,15,Arizona Cardinals,Detroit Lions,-6.5,43.5
-2012,15,Dallas Cowboys,Pittsburgh Steelers,-2.5,46
+2012,15,Buffalo Bills,Seattle Seahawks,4.5,44
+2012,15,Arizona Cardinals,Detroit Lions,6.5,43.5
+2012,15,Dallas Cowboys,Pittsburgh Steelers,2.5,46
 2012,15,Oakland Raiders,Kansas City Chiefs,-4.5,43.5
 2012,15,New England Patriots,San Francisco 49ers,-4,47.5
-2012,15,Tennessee Titans,New York Jets,-1,40.5
-2012,16,Detroit Lions,Atlanta Falcons,-4,50
+2012,15,Tennessee Titans,New York Jets,1,40.5
+2012,16,Detroit Lions,Atlanta Falcons,4,50
 2012,16,Green Bay Packers,Tennessee Titans,-10.5,44.5
 2012,16,Carolina Panthers,Oakland Raiders,-9.5,47
 2012,16,Miami Dolphins,Buffalo Bills,-5,43
 2012,16,Pittsburgh Steelers,Cincinnati Bengals,-3.5,41
-2012,16,Jacksonville Jaguars,New England Patriots,-14,51.5
-2012,16,Kansas City Chiefs,Indianapolis Colts,-5,41.5
+2012,16,Jacksonville Jaguars,New England Patriots,14,51.5
+2012,16,Kansas City Chiefs,Indianapolis Colts,5,41.5
 2012,16,Dallas Cowboys,New Orleans Saints,-2.5,54.5
-2012,16,Philadelphia Eagles,Washington Redskins,-5,46
+2012,16,Philadelphia Eagles,Washington Redskins,5,46
 2012,16,Tampa Bay Buccaneers,St. Louis Rams,-3,43.5
-2012,16,Baltimore Ravens,New York Giants,-2.5,47.5
+2012,16,Baltimore Ravens,New York Giants,2.5,47.5
 2012,16,Houston Texans,Minnesota Vikings,-7.5,44.5
 2012,16,Denver Broncos,Cleveland Browns,-11,44
-2012,16,Arizona Cardinals,Chicago Bears,-7,36
+2012,16,Arizona Cardinals,Chicago Bears,7,36
 2012,16,Seattle Seahawks,San Francisco 49ers,-2.5,40.5
 2012,16,New York Jets,San Diego Chargers,-3,38
 2012,17,Buffalo Bills,New York Jets,-3.5,40.5
 2012,17,New England Patriots,Miami Dolphins,-11.5,48
 2012,17,Cincinnati Bengals,Baltimore Ravens,-4.5,42.5
 2012,17,Pittsburgh Steelers,Cleveland Browns,-10,36.5
-2012,17,Indianapolis Colts,Houston Texans,-6.5,47
+2012,17,Indianapolis Colts,Houston Texans,6.5,47
 2012,17,Tennessee Titans,Jacksonville Jaguars,-6,42
 2012,17,New York Giants,Philadelphia Eagles,-6.5,44
 2012,17,Washington Redskins,Dallas Cowboys,-3,49
-2012,17,Detroit Lions,Chicago Bears,-3,46
-2012,17,Minnesota Vikings,Green Bay Packers,-3,46
+2012,17,Detroit Lions,Chicago Bears,3,46
+2012,17,Minnesota Vikings,Green Bay Packers,3,46
 2012,17,Atlanta Falcons,Tampa Bay Buccaneers,-3,45.5
 2012,17,New Orleans Saints,Carolina Panthers,-4,54
 2012,17,Denver Broncos,Kansas City Chiefs,-17,41
@@ -753,35 +753,35 @@ Year,Week,Home,Away,Spread,Total
 2012,17,San Francisco 49ers,Arizona Cardinals,-16.5,38.5
 2012,17,Seattle Seahawks,St. Louis Rams,-11,42
 2013,1,Denver Broncos,Baltimore Ravens,-7.5,48
-2013,1,Buffalo Bills,New England Patriots,-10,51
+2013,1,Buffalo Bills,New England Patriots,10,51
 2013,1,Pittsburgh Steelers,Tennessee Titans,-6,42
 2013,1,New Orleans Saints,Atlanta Falcons,-3.5,54
-2013,1,New York Jets,Tampa Bay Buccaneers,-4,39.5
-2013,1,Jacksonville Jaguars,Kansas City Chiefs,-3.5,42.5
+2013,1,New York Jets,Tampa Bay Buccaneers,4,39.5
+2013,1,Jacksonville Jaguars,Kansas City Chiefs,3.5,42.5
 2013,1,Chicago Bears,Cincinnati Bengals,-3,42
 2013,1,Cleveland Browns,Miami Dolphins,-2.5,40.5
-2013,1,Carolina Panthers,Seattle Seahawks,-3,44.5
+2013,1,Carolina Panthers,Seattle Seahawks,3,44.5
 2013,1,Detroit Lions,Minnesota Vikings,-4,46.5
 2013,1,Indianapolis Colts,Oakland Raiders,-11,45.5
 2013,1,St. Louis Rams,Arizona Cardinals,-4,43
 2013,1,San Francisco 49ers,Green Bay Packers,-5,47
 2013,1,Dallas Cowboys,New York Giants,-3.5,49.5
 2013,1,Washington Redskins,Philadelphia Eagles,-4,52.5
-2013,1,San Diego Chargers,Houston Texans,-6,45
+2013,1,San Diego Chargers,Houston Texans,6,45
 2013,2,New England Patriots,New York Jets,-11,43
 2013,2,Philadelphia Eagles,San Diego Chargers,-7.5,52.5
 2013,2,Baltimore Ravens,Cleveland Browns,-6.5,43.5
 2013,2,Houston Texans,Tennessee Titans,-7.5,42
 2013,2,Indianapolis Colts,Miami Dolphins,-1.5,43.5
-2013,2,Buffalo Bills,Carolina Panthers,-3.5,43.5
+2013,2,Buffalo Bills,Carolina Panthers,3.5,43.5
 2013,2,Atlanta Falcons,St. Louis Rams,-4,47
 2013,2,Green Bay Packers,Washington Redskins,-7.5,49
 2013,2,Kansas City Chiefs,Dallas Cowboys,-3,45.5
 2013,2,Chicago Bears,Minnesota Vikings,-6,41.5
-2013,2,Tampa Bay Buccaneers,New Orleans Saints,-3,48.5
-2013,2,Arizona Cardinals,Detroit Lions,-2,47.5
+2013,2,Tampa Bay Buccaneers,New Orleans Saints,3,48.5
+2013,2,Arizona Cardinals,Detroit Lions,2,47.5
 2013,2,Oakland Raiders,Jacksonville Jaguars,-4,41
-2013,2,New York Giants,Denver Broncos,-3.5,54
+2013,2,New York Giants,Denver Broncos,3.5,54
 2013,2,Seattle Seahawks,San Francisco 49ers,-3,44
 2013,2,Cincinnati Bengals,Pittsburgh Steelers,-6.5,40.5
 2013,3,Philadelphia Eagles,Kansas City Chiefs,-3,51
@@ -791,148 +791,148 @@ Year,Week,Home,Away,Spread,Total
 2013,3,Baltimore Ravens,Houston Texans,0,45
 2013,3,Dallas Cowboys,St. Louis Rams,-3,47.5
 2013,3,New Orleans Saints,Arizona Cardinals,-7.5,48.5
-2013,3,Washington Redskins,Detroit Lions,-1,49
-2013,3,Cincinnati Bengals,Green Bay Packers,-3,50
-2013,3,Carolina Panthers,New York Giants,-2.5,47
+2013,3,Washington Redskins,Detroit Lions,1,49
+2013,3,Cincinnati Bengals,Green Bay Packers,3,50
+2013,3,Carolina Panthers,New York Giants,2.5,47
 2013,3,Miami Dolphins,Atlanta Falcons,-3,45.5
 2013,3,San Francisco 49ers,Indianapolis Colts,-10.5,46.5
 2013,3,Seattle Seahawks,Jacksonville Jaguars,-19.5,39
 2013,3,New York Jets,Buffalo Bills,-2.5,41
-2013,3,Pittsburgh Steelers,Chicago Bears,-2.5,40.5
+2013,3,Pittsburgh Steelers,Chicago Bears,2.5,40.5
 2013,3,Denver Broncos,Oakland Raiders,-14.5,49.5
-2013,4,St. Louis Rams,San Francisco 49ers,-3.5,43
-2013,4,Minnesota Vikings,Pittsburgh Steelers,-3,41.5
-2013,4,Buffalo Bills,Baltimore Ravens,-3.5,45
-2013,4,Cleveland Browns,Cincinnati Bengals,-3.5,42.5
-2013,4,Jacksonville Jaguars,Indianapolis Colts,-9,42.5
-2013,4,Houston Texans,Seattle Seahawks,-1.5,41
+2013,4,St. Louis Rams,San Francisco 49ers,3.5,43
+2013,4,Minnesota Vikings,Pittsburgh Steelers,3,41.5
+2013,4,Buffalo Bills,Baltimore Ravens,3.5,45
+2013,4,Cleveland Browns,Cincinnati Bengals,3.5,42.5
+2013,4,Jacksonville Jaguars,Indianapolis Colts,9,42.5
+2013,4,Houston Texans,Seattle Seahawks,1.5,41
 2013,4,Tampa Bay Buccaneers,Arizona Cardinals,-2.5,40.5
 2013,4,Detroit Lions,Chicago Bears,-3,48
 2013,4,Kansas City Chiefs,New York Giants,-3.5,44
 2013,4,Tennessee Titans,New York Jets,-3.5,40.5
-2013,4,San Diego Chargers,Dallas Cowboys,-1,47
-2013,4,Oakland Raiders,Washington Redskins,-3.5,45.5
+2013,4,San Diego Chargers,Dallas Cowboys,1,47
+2013,4,Oakland Raiders,Washington Redskins,3.5,45.5
 2013,4,Denver Broncos,Philadelphia Eagles,-10.5,58.5
 2013,4,Atlanta Falcons,New England Patriots,-3,50
 2013,4,New Orleans Saints,Miami Dolphins,-7,49
 2013,5,Cleveland Browns,Buffalo Bills,-3.5,41
-2013,5,Tennessee Titans,Kansas City Chiefs,-2.5,38
+2013,5,Tennessee Titans,Kansas City Chiefs,2.5,38
 2013,5,Miami Dolphins,Baltimore Ravens,-2.5,43
 2013,5,St. Louis Rams,Jacksonville Jaguars,-11,41
-2013,5,Cincinnati Bengals,New England Patriots,-2,45.5
-2013,5,Indianapolis Colts,Seattle Seahawks,-3,44
+2013,5,Cincinnati Bengals,New England Patriots,2,45.5
+2013,5,Indianapolis Colts,Seattle Seahawks,3,44
 2013,5,Green Bay Packers,Detroit Lions,-10,54
 2013,5,Chicago Bears,New Orleans Saints,0,50.5
-2013,5,New York Giants,Philadelphia Eagles,-1.5,54
-2013,5,Arizona Cardinals,Carolina Panthers,-3,41.5
-2013,5,Oakland Raiders,San Diego Chargers,-6,46.5
-2013,5,Dallas Cowboys,Denver Broncos,-7.5,57
+2013,5,New York Giants,Philadelphia Eagles,1.5,54
+2013,5,Arizona Cardinals,Carolina Panthers,3,41.5
+2013,5,Oakland Raiders,San Diego Chargers,6,46.5
+2013,5,Dallas Cowboys,Denver Broncos,7.5,57
 2013,5,San Francisco 49ers,Houston Texans,-4,44
 2013,5,Atlanta Falcons,New York Jets,-10,45
 2013,6,Chicago Bears,New York Giants,-8.5,47
 2013,6,Kansas City Chiefs,Oakland Raiders,-7.5,41
-2013,6,Tampa Bay Buccaneers,Philadelphia Eagles,-3,45
-2013,6,Baltimore Ravens,Green Bay Packers,-2.5,49
-2013,6,Cleveland Browns,Detroit Lions,-2,43.5
+2013,6,Tampa Bay Buccaneers,Philadelphia Eagles,3,45
+2013,6,Baltimore Ravens,Green Bay Packers,2.5,49
+2013,6,Cleveland Browns,Detroit Lions,2,43.5
 2013,6,Minnesota Vikings,Carolina Panthers,-2.5,45
 2013,6,Houston Texans,St. Louis Rams,-9,43
-2013,6,New York Jets,Pittsburgh Steelers,-1.5,41
-2013,6,Buffalo Bills,Cincinnati Bengals,-6,41
+2013,6,New York Jets,Pittsburgh Steelers,1.5,41
+2013,6,Buffalo Bills,Cincinnati Bengals,6,41
 2013,6,Seattle Seahawks,Tennessee Titans,-12.5,42
 2013,6,Denver Broncos,Jacksonville Jaguars,-27,53
 2013,6,San Francisco 49ers,Arizona Cardinals,-10,41
 2013,6,New England Patriots,New Orleans Saints,-1.5,51
 2013,6,Dallas Cowboys,Washington Redskins,-6,53.5
-2013,6,San Diego Chargers,Indianapolis Colts,-1.5,51
-2013,7,Arizona Cardinals,Seattle Seahawks,-5.5,41
-2013,7,New York Jets,New England Patriots,-3.5,43
-2013,7,Jacksonville Jaguars,San Diego Chargers,-7,45
+2013,6,San Diego Chargers,Indianapolis Colts,1.5,51
+2013,7,Arizona Cardinals,Seattle Seahawks,5.5,41
+2013,7,New York Jets,New England Patriots,3.5,43
+2013,7,Jacksonville Jaguars,San Diego Chargers,7,45
 2013,7,Kansas City Chiefs,Houston Texans,-6.5,39
 2013,7,Detroit Lions,Cincinnati Bengals,-2.5,47
 2013,7,Miami Dolphins,Buffalo Bills,-6,44
-2013,7,Washington Redskins,Chicago Bears,-1,48
+2013,7,Washington Redskins,Chicago Bears,1,48
 2013,7,Philadelphia Eagles,Dallas Cowboys,-3,56
 2013,7,Carolina Panthers,St. Louis Rams,-7.5,42.5
 2013,7,Atlanta Falcons,Tampa Bay Buccaneers,-6.5,43
-2013,7,Tennessee Titans,San Francisco 49ers,-3.5,41
+2013,7,Tennessee Titans,San Francisco 49ers,3.5,41
 2013,7,Green Bay Packers,Cleveland Browns,-8.5,45
 2013,7,Pittsburgh Steelers,Baltimore Ravens,-2,41
-2013,7,Indianapolis Colts,Denver Broncos,-6.5,56.5
+2013,7,Indianapolis Colts,Denver Broncos,6.5,56.5
 2013,7,New York Giants,Minnesota Vikings,-4,47.5
-2013,8,Tampa Bay Buccaneers,Carolina Panthers,-7,39.5
-2013,8,Jacksonville Jaguars,San Francisco 49ers,-16,40
+2013,8,Tampa Bay Buccaneers,Carolina Panthers,7,39.5
+2013,8,Jacksonville Jaguars,San Francisco 49ers,16,40
 2013,8,Detroit Lions,Dallas Cowboys,-3,52.5
 2013,8,Philadelphia Eagles,New York Giants,-5.5,49.5
 2013,8,Kansas City Chiefs,Cleveland Browns,-7,39
 2013,8,New Orleans Saints,Buffalo Bills,-10.5,48.5
 2013,8,New England Patriots,Miami Dolphins,-6.5,46
 2013,8,Cincinnati Bengals,New York Jets,-6,41
-2013,8,Oakland Raiders,Pittsburgh Steelers,-2.5,40.5
+2013,8,Oakland Raiders,Pittsburgh Steelers,2.5,40.5
 2013,8,Denver Broncos,Washington Redskins,-11,58.5
 2013,8,Arizona Cardinals,Atlanta Falcons,-2.5,45
-2013,8,Minnesota Vikings,Green Bay Packers,-7.5,47.5
-2013,8,St. Louis Rams,Seattle Seahawks,-14,43.5
-2013,9,Miami Dolphins,Cincinnati Bengals,-3,42.5
+2013,8,Minnesota Vikings,Green Bay Packers,7.5,47.5
+2013,8,St. Louis Rams,Seattle Seahawks,14,43.5
+2013,9,Miami Dolphins,Cincinnati Bengals,3,42.5
 2013,9,Carolina Panthers,Atlanta Falcons,-9,47
 2013,9,Dallas Cowboys,Minnesota Vikings,-9,51
-2013,9,New York Jets,New Orleans Saints,-6,46.5
-2013,9,St. Louis Rams,Tennessee Titans,-3,41
-2013,9,Buffalo Bills,Kansas City Chiefs,-5,41
+2013,9,New York Jets,New Orleans Saints,6,46.5
+2013,9,St. Louis Rams,Tennessee Titans,3,41
+2013,9,Buffalo Bills,Kansas City Chiefs,5,41
 2013,9,Washington Redskins,San Diego Chargers,-1,49.5
 2013,9,Oakland Raiders,Philadelphia Eagles,-1,45.5
 2013,9,Seattle Seahawks,Tampa Bay Buccaneers,-16.5,40.5
-2013,9,Cleveland Browns,Baltimore Ravens,-2,42
+2013,9,Cleveland Browns,Baltimore Ravens,2,42
 2013,9,New England Patriots,Pittsburgh Steelers,-6,43
-2013,9,Houston Texans,Indianapolis Colts,-1,42.5
+2013,9,Houston Texans,Indianapolis Colts,1,42.5
 2013,9,Green Bay Packers,Chicago Bears,-10,51
-2013,10,Minnesota Vikings,Washington Redskins,-1.5,49
+2013,10,Minnesota Vikings,Washington Redskins,1.5,49
 2013,10,Tennessee Titans,Jacksonville Jaguars,-11.5,42
-2013,10,Green Bay Packers,Philadelphia Eagles,-1,47
+2013,10,Green Bay Packers,Philadelphia Eagles,1,47
 2013,10,Pittsburgh Steelers,Buffalo Bills,-3,43
 2013,10,New York Giants,Oakland Raiders,-7,41.5
 2013,10,Indianapolis Colts,St. Louis Rams,-8,43.5
-2013,10,Atlanta Falcons,Seattle Seahawks,-3.5,47
+2013,10,Atlanta Falcons,Seattle Seahawks,3.5,47
 2013,10,Baltimore Ravens,Cincinnati Bengals,-1.5,44
-2013,10,Chicago Bears,Detroit Lions,-1,52.5
+2013,10,Chicago Bears,Detroit Lions,1,52.5
 2013,10,San Francisco 49ers,Carolina Panthers,-6,43.5
 2013,10,Arizona Cardinals,Houston Texans,-4,42
-2013,10,San Diego Chargers,Denver Broncos,-7,57.5
+2013,10,San Diego Chargers,Denver Broncos,7,57.5
 2013,10,New Orleans Saints,Dallas Cowboys,-6.5,55
-2013,10,Tampa Bay Buccaneers,Miami Dolphins,-2.5,40
-2013,11,Tennessee Titans,Indianapolis Colts,-3,42.5
+2013,10,Tampa Bay Buccaneers,Miami Dolphins,2.5,40
+2013,11,Tennessee Titans,Indianapolis Colts,3,42.5
 2013,11,Tampa Bay Buccaneers,Atlanta Falcons,-2,43.5
-2013,11,Buffalo Bills,New York Jets,-2,39
-2013,11,Pittsburgh Steelers,Detroit Lions,-3,45
+2013,11,Buffalo Bills,New York Jets,2,39
+2013,11,Pittsburgh Steelers,Detroit Lions,3,45
 2013,11,Philadelphia Eagles,Washington Redskins,-4.5,54.5
-2013,11,Miami Dolphins,San Diego Chargers,-2.5,45
+2013,11,Miami Dolphins,San Diego Chargers,2.5,45
 2013,11,Chicago Bears,Baltimore Ravens,-3,40.5
 2013,11,Cincinnati Bengals,Cleveland Browns,-4.5,40
 2013,11,Houston Texans,Oakland Raiders,-10.5,41
-2013,11,Jacksonville Jaguars,Arizona Cardinals,-9,40.5
+2013,11,Jacksonville Jaguars,Arizona Cardinals,9,40.5
 2013,11,Denver Broncos,Kansas City Chiefs,-7.5,49.5
 2013,11,Seattle Seahawks,Minnesota Vikings,-13,45.5
 2013,11,New Orleans Saints,San Francisco 49ers,-3,50
 2013,11,New York Giants,Green Bay Packers,-3.5,41
 2013,11,Carolina Panthers,New England Patriots,-3,47
-2013,12,Atlanta Falcons,New Orleans Saints,-7.5,53
+2013,12,Atlanta Falcons,New Orleans Saints,7.5,53
 2013,12,Detroit Lions,Tampa Bay Buccaneers,-7,48.5
 2013,12,Houston Texans,Jacksonville Jaguars,-10.5,43.5
 2013,12,Green Bay Packers,Minnesota Vikings,-6,44.5
 2013,12,Kansas City Chiefs,San Diego Chargers,-3.5,43
-2013,12,Miami Dolphins,Carolina Panthers,-4.5,40
+2013,12,Miami Dolphins,Carolina Panthers,4.5,40
 2013,12,Cleveland Browns,Pittsburgh Steelers,-2.5,40
 2013,12,St. Louis Rams,Chicago Bears,-2.5,46
 2013,12,Baltimore Ravens,New York Jets,-4,38
-2013,12,Oakland Raiders,Tennessee Titans,-2.5,42
+2013,12,Oakland Raiders,Tennessee Titans,2.5,42
 2013,12,Arizona Cardinals,Indianapolis Colts,-3,44.5
 2013,12,New York Giants,Dallas Cowboys,-2.5,44.5
-2013,12,New England Patriots,Denver Broncos,-1,54
-2013,12,Washington Redskins,San Francisco 49ers,-6,46
+2013,12,New England Patriots,Denver Broncos,1,54
+2013,12,Washington Redskins,San Francisco 49ers,6,46
 2013,13,Detroit Lions,Green Bay Packers,-6.5,48.5
 2013,13,Dallas Cowboys,Oakland Raiders,-9.5,49.5
 2013,13,Baltimore Ravens,Pittsburgh Steelers,-3,40.5
 2013,13,Indianapolis Colts,Tennessee Titans,-3.5,46.5
-2013,13,Kansas City Chiefs,Denver Broncos,-5,50.5
+2013,13,Kansas City Chiefs,Denver Broncos,5,50.5
 2013,13,Cleveland Browns,Jacksonville Jaguars,-7,39
 2013,13,Carolina Panthers,Tampa Bay Buccaneers,-7,41
 2013,13,Minnesota Vikings,Chicago Bears,-1.5,49.5
@@ -940,12 +940,12 @@ Year,Week,Home,Away,Spread,Total
 2013,13,New York Jets,Miami Dolphins,0,40
 2013,13,Buffalo Bills,Atlanta Falcons,-5,48
 2013,13,San Francisco 49ers,St. Louis Rams,-7.5,41
-2013,13,Houston Texans,New England Patriots,-7,49
-2013,13,San Diego Chargers,Cincinnati Bengals,-2,48.5
-2013,13,Washington Redskins,New York Giants,-1,45.5
+2013,13,Houston Texans,New England Patriots,7,49
+2013,13,San Diego Chargers,Cincinnati Bengals,2,48.5
+2013,13,Washington Redskins,New York Giants,1,45.5
 2013,13,Seattle Seahawks,New Orleans Saints,-6.5,48.5
-2013,14,Jacksonville Jaguars,Houston Texans,-3,43.5
-2013,14,Washington Redskins,Kansas City Chiefs,-3.5,44
+2013,14,Jacksonville Jaguars,Houston Texans,3,43.5
+2013,14,Washington Redskins,Kansas City Chiefs,3.5,44
 2013,14,Baltimore Ravens,Minnesota Vikings,-6,41.5
 2013,14,New England Patriots,Cleveland Browns,-10,47.5
 2013,14,New York Jets,Oakland Raiders,-3,39
@@ -962,54 +962,54 @@ Year,Week,Home,Away,Spread,Total
 2013,14,Chicago Bears,Dallas Cowboys,-1.5,49
 2013,15,Denver Broncos,San Diego Chargers,-10,58
 2013,15,Atlanta Falcons,Washington Redskins,-5.5,50
-2013,15,Tampa Bay Buccaneers,San Francisco 49ers,-4.5,41
-2013,15,Tennessee Titans,Arizona Cardinals,-3,43
-2013,15,St. Louis Rams,New Orleans Saints,-7,48
-2013,15,New York Giants,Seattle Seahawks,-9,43.5
-2013,15,Cleveland Browns,Chicago Bears,-1,44
+2013,15,Tampa Bay Buccaneers,San Francisco 49ers,4.5,41
+2013,15,Tennessee Titans,Arizona Cardinals,3,43
+2013,15,St. Louis Rams,New Orleans Saints,7,48
+2013,15,New York Giants,Seattle Seahawks,9,43.5
+2013,15,Cleveland Browns,Chicago Bears,1,44
 2013,15,Indianapolis Colts,Houston Texans,-6,47.5
-2013,15,Jacksonville Jaguars,Buffalo Bills,-4,43.5
+2013,15,Jacksonville Jaguars,Buffalo Bills,4,43.5
 2013,15,Miami Dolphins,New England Patriots,-2.5,46.5
-2013,15,Minnesota Vikings,Philadelphia Eagles,-7,53
+2013,15,Minnesota Vikings,Philadelphia Eagles,7,53
 2013,15,Carolina Panthers,New York Jets,-10,40.5
-2013,15,Oakland Raiders,Kansas City Chiefs,-6.5,44.5
+2013,15,Oakland Raiders,Kansas City Chiefs,6.5,44.5
 2013,15,Dallas Cowboys,Green Bay Packers,-4.5,50
-2013,15,Pittsburgh Steelers,Cincinnati Bengals,-2.5,44.5
+2013,15,Pittsburgh Steelers,Cincinnati Bengals,2.5,44.5
 2013,15,Detroit Lions,Baltimore Ravens,-5,50
 2013,16,Buffalo Bills,Miami Dolphins,0,42
 2013,16,Carolina Panthers,New Orleans Saints,-3.5,45
-2013,16,Washington Redskins,Dallas Cowboys,-3,52
+2013,16,Washington Redskins,Dallas Cowboys,3,52
 2013,16,St. Louis Rams,Tampa Bay Buccaneers,-3.5,43
 2013,16,Philadelphia Eagles,Chicago Bears,-3,53.5
 2013,16,New York Jets,Cleveland Browns,-2.5,41.5
 2013,16,Kansas City Chiefs,Indianapolis Colts,-7.5,47
 2013,16,Cincinnati Bengals,Minnesota Vikings,-7.5,48
-2013,16,Houston Texans,Denver Broncos,-10,54
-2013,16,Jacksonville Jaguars,Tennessee Titans,-4,44
+2013,16,Houston Texans,Denver Broncos,10,54
+2013,16,Jacksonville Jaguars,Tennessee Titans,4,44
 2013,16,Seattle Seahawks,Arizona Cardinals,-9.5,43
 2013,16,Detroit Lions,New York Giants,-9.5,47
 2013,16,San Diego Chargers,Oakland Raiders,-10,50.5
-2013,16,Green Bay Packers,Pittsburgh Steelers,-1,44
-2013,16,Baltimore Ravens,New England Patriots,-1.5,45.5
+2013,16,Green Bay Packers,Pittsburgh Steelers,1,44
+2013,16,Baltimore Ravens,New England Patriots,1.5,45.5
 2013,16,San Francisco 49ers,Atlanta Falcons,-14,46.5
-2013,17,Atlanta Falcons,Carolina Panthers,-6,46.5
-2013,17,Chicago Bears,Green Bay Packers,-3,51.5
+2013,17,Atlanta Falcons,Carolina Panthers,6,46.5
+2013,17,Chicago Bears,Green Bay Packers,3,51.5
 2013,17,Tennessee Titans,Houston Texans,-6.5,44.5
 2013,17,Pittsburgh Steelers,Cleveland Browns,-9.5,44.5
 2013,17,New York Giants,Washington Redskins,-3.5,44.5
 2013,17,Cincinnati Bengals,Baltimore Ravens,-7,43
 2013,17,Indianapolis Colts,Jacksonville Jaguars,-11.5,45
-2013,17,Dallas Cowboys,Philadelphia Eagles,-7.5,54
+2013,17,Dallas Cowboys,Philadelphia Eagles,7.5,54
 2013,17,Miami Dolphins,New York Jets,-7,41
-2013,17,Minnesota Vikings,Detroit Lions,-1.5,50
+2013,17,Minnesota Vikings,Detroit Lions,1.5,50
 2013,17,New England Patriots,Buffalo Bills,-7,46
 2013,17,New Orleans Saints,Tampa Bay Buccaneers,-10.5,47
-2013,17,Oakland Raiders,Denver Broncos,-10,54
+2013,17,Oakland Raiders,Denver Broncos,10,54
 2013,17,Arizona Cardinals,San Francisco 49ers,-3,41
 2013,17,San Diego Chargers,Kansas City Chiefs,-14.5,45
 2013,17,Seattle Seahawks,St. Louis Rams,-13,41
 2014,1,Seattle Seahawks,Green Bay Packers,-4.5,47
-2014,1,Atlanta Falcons,New Orleans Saints,-3,51.5
+2014,1,Atlanta Falcons,New Orleans Saints,3,51.5
 2014,1,St. Louis Rams,Minnesota Vikings,-3,43.5
 2014,1,Pittsburgh Steelers,Cleveland Browns,-6,41.5
 2014,1,Philadelphia Eagles,Jacksonville Jaguars,-10,49.5
@@ -1018,9 +1018,9 @@ Year,Week,Home,Away,Spread,Total
 2014,1,Chicago Bears,Buffalo Bills,-7,47.5
 2014,1,Houston Texans,Washington Redskins,-3,43.5
 2014,1,Kansas City Chiefs,Tennessee Titans,-3,45
-2014,1,Miami Dolphins,New England Patriots,-4,47.5
+2014,1,Miami Dolphins,New England Patriots,4,47.5
 2014,1,Tampa Bay Buccaneers,Carolina Panthers,-4.5,38.5
-2014,1,Dallas Cowboys,San Francisco 49ers,-3.5,49
+2014,1,Dallas Cowboys,San Francisco 49ers,3.5,49
 2014,1,Denver Broncos,Indianapolis Colts,-8,54.5
 2014,1,Detroit Lions,New York Giants,-6.5,46
 2014,1,Arizona Cardinals,San Diego Chargers,-3,46
@@ -1030,35 +1030,35 @@ Year,Week,Home,Away,Spread,Total
 2014,2,Washington Redskins,Jacksonville Jaguars,-5,43
 2014,2,Tennessee Titans,Dallas Cowboys,-3.5,49.5
 2014,2,New York Giants,Arizona Cardinals,-2,41.5
-2014,2,Minnesota Vikings,New England Patriots,-3,49
-2014,2,Cleveland Browns,New Orleans Saints,-5,49.5
+2014,2,Minnesota Vikings,New England Patriots,3,49
+2014,2,Cleveland Browns,New Orleans Saints,5,49.5
 2014,2,Cincinnati Bengals,Atlanta Falcons,-5.5,49
 2014,2,Tampa Bay Buccaneers,St. Louis Rams,-4.5,37.5
-2014,2,San Diego Chargers,Seattle Seahawks,-5,45
-2014,2,Oakland Raiders,Houston Texans,-3,41
+2014,2,San Diego Chargers,Seattle Seahawks,5,45
+2014,2,Oakland Raiders,Houston Texans,3,41
 2014,2,Green Bay Packers,New York Jets,-7,46.5
 2014,2,Denver Broncos,Kansas City Chiefs,-13,49
 2014,2,San Francisco 49ers,Chicago Bears,-7,47.5
 2014,2,Indianapolis Colts,Philadelphia Eagles,-3,54
 2014,3,Atlanta Falcons,Tampa Bay Buccaneers,-6.5,47
 2014,3,Buffalo Bills,San Diego Chargers,-2.5,45.5
-2014,3,St. Louis Rams,Dallas Cowboys,-2,45
+2014,3,St. Louis Rams,Dallas Cowboys,2,45
 2014,3,Philadelphia Eagles,Washington Redskins,-4,49.5
 2014,3,New York Giants,Houston Texans,-1,41.5
 2014,3,New Orleans Saints,Minnesota Vikings,-10,49.5
 2014,3,Cincinnati Bengals,Tennessee Titans,-6.5,44.5
-2014,3,Cleveland Browns,Baltimore Ravens,-2,43
+2014,3,Cleveland Browns,Baltimore Ravens,2,43
 2014,3,Detroit Lions,Green Bay Packers,-1,52
-2014,3,Jacksonville Jaguars,Indianapolis Colts,-6.5,45.5
+2014,3,Jacksonville Jaguars,Indianapolis Colts,6.5,45.5
 2014,3,New England Patriots,Oakland Raiders,-14,47
-2014,3,Arizona Cardinals,San Francisco 49ers,-3,41
+2014,3,Arizona Cardinals,San Francisco 49ers,3,41
 2014,3,Seattle Seahawks,Denver Broncos,-4,48
 2014,3,Miami Dolphins,Kansas City Chiefs,-5.5,43
 2014,3,Carolina Panthers,Pittsburgh Steelers,-3.5,43
 2014,3,New York Jets,Chicago Bears,-1.5,45
 2014,4,Washington Redskins,New York Giants,-3,45
-2014,4,Oakland Raiders,Miami Dolphins,-4,41
-2014,4,Chicago Bears,Green Bay Packers,-2,51
+2014,4,Oakland Raiders,Miami Dolphins,4,41
+2014,4,Chicago Bears,Green Bay Packers,2,51
 2014,4,Houston Texans,Buffalo Bills,-3,44
 2014,4,Indianapolis Colts,Tennessee Titans,-7.5,46
 2014,4,Baltimore Ravens,Carolina Panthers,-3,42.5
@@ -1066,91 +1066,91 @@ Year,Week,Home,Away,Spread,Total
 2014,4,Pittsburgh Steelers,Tampa Bay Buccaneers,-7,44.5
 2014,4,San Diego Chargers,Jacksonville Jaguars,-12.5,45
 2014,4,San Francisco 49ers,Philadelphia Eagles,-4,49.5
-2014,4,Minnesota Vikings,Atlanta Falcons,-6,48
-2014,4,Dallas Cowboys,New Orleans Saints,-3,54.5
-2014,4,Kansas City Chiefs,New England Patriots,-3,45.5
+2014,4,Minnesota Vikings,Atlanta Falcons,6,48
+2014,4,Dallas Cowboys,New Orleans Saints,3,54.5
+2014,4,Kansas City Chiefs,New England Patriots,3,45.5
 2014,5,Green Bay Packers,Minnesota Vikings,-9.5,46.5
 2014,5,Carolina Panthers,Chicago Bears,-1.5,47
-2014,5,Tennessee Titans,Cleveland Browns,-1,44
+2014,5,Tennessee Titans,Cleveland Browns,1,44
 2014,5,Philadelphia Eagles,St. Louis Rams,-4,48
 2014,5,New York Giants,Atlanta Falcons,-4,51
 2014,5,New Orleans Saints,Tampa Bay Buccaneers,-11,48
 2014,5,Dallas Cowboys,Houston Texans,-5,47.5
 2014,5,Detroit Lions,Buffalo Bills,-4.5,43
 2014,5,Indianapolis Colts,Baltimore Ravens,-3,49.5
-2014,5,Jacksonville Jaguars,Pittsburgh Steelers,-6,47
+2014,5,Jacksonville Jaguars,Pittsburgh Steelers,6,47
 2014,5,Denver Broncos,Arizona Cardinals,-8,47
 2014,5,San Francisco 49ers,Kansas City Chiefs,-4.5,43.5
 2014,5,San Diego Chargers,New York Jets,-7,44.5
-2014,5,New England Patriots,Cincinnati Bengals,-2.5,46
-2014,5,Washington Redskins,Seattle Seahawks,-7,45.5
-2014,6,Houston Texans,Indianapolis Colts,-2.5,46.5
-2014,6,New York Jets,Denver Broncos,-9.5,47.5
+2014,5,New England Patriots,Cincinnati Bengals,2.5,46
+2014,5,Washington Redskins,Seattle Seahawks,7,45.5
+2014,6,Houston Texans,Indianapolis Colts,2.5,46.5
+2014,6,New York Jets,Denver Broncos,9.5,47.5
 2014,6,Cleveland Browns,Pittsburgh Steelers,-1.5,46.5
 2014,6,Tennessee Titans,Jacksonville Jaguars,-4,42.5
 2014,6,Atlanta Falcons,Chicago Bears,-3.5,55.5
-2014,6,Miami Dolphins,Green Bay Packers,-1.5,47
+2014,6,Miami Dolphins,Green Bay Packers,1.5,47
 2014,6,Minnesota Vikings,Detroit Lions,-1.5,43
 2014,6,Cincinnati Bengals,Carolina Panthers,-7,44
 2014,6,Buffalo Bills,New England Patriots,-1,44
-2014,6,Tampa Bay Buccaneers,Baltimore Ravens,-3,44
-2014,6,Oakland Raiders,San Diego Chargers,-7.5,44
+2014,6,Tampa Bay Buccaneers,Baltimore Ravens,3,44
+2014,6,Oakland Raiders,San Diego Chargers,7.5,44
 2014,6,Seattle Seahawks,Dallas Cowboys,-9.5,47
 2014,6,Arizona Cardinals,Washington Redskins,-5.5,47
 2014,6,Philadelphia Eagles,New York Giants,-1.5,51
-2014,6,St. Louis Rams,San Francisco 49ers,-3.5,44.5
+2014,6,St. Louis Rams,San Francisco 49ers,3.5,44.5
 2014,7,New England Patriots,New York Jets,-9.5,44.5
 2014,7,Indianapolis Colts,Cincinnati Bengals,-3.5,50.5
 2014,7,Washington Redskins,Tennessee Titans,-6,46.5
 2014,7,Chicago Bears,Miami Dolphins,-3,47.5
-2014,7,Jacksonville Jaguars,Cleveland Browns,-4,45
-2014,7,St. Louis Rams,Seattle Seahawks,-7,43.5
+2014,7,Jacksonville Jaguars,Cleveland Browns,4,45
+2014,7,St. Louis Rams,Seattle Seahawks,7,43.5
 2014,7,Green Bay Packers,Carolina Panthers,-6.5,49
 2014,7,Baltimore Ravens,Atlanta Falcons,-6.5,49.5
 2014,7,Buffalo Bills,Minnesota Vikings,-6.5,43.5
 2014,7,Detroit Lions,New Orleans Saints,-1.5,46.5
 2014,7,San Diego Chargers,Kansas City Chiefs,-3,46
 2014,7,Dallas Cowboys,New York Giants,-5.5,47
-2014,7,Oakland Raiders,Arizona Cardinals,-3.5,46.5
+2014,7,Oakland Raiders,Arizona Cardinals,3.5,46.5
 2014,7,Denver Broncos,San Francisco 49ers,-6.5,48.5
 2014,7,Pittsburgh Steelers,Houston Texans,-3,44.5
 2014,8,Denver Broncos,San Diego Chargers,-9,51
-2014,8,Atlanta Falcons,Detroit Lions,-3.5,45.5
+2014,8,Atlanta Falcons,Detroit Lions,3.5,45.5
 2014,8,Tampa Bay Buccaneers,Minnesota Vikings,-1.5,43
 2014,8,New England Patriots,Chicago Bears,-6,52
 2014,8,Kansas City Chiefs,St. Louis Rams,-7,44
-2014,8,Carolina Panthers,Seattle Seahawks,-6,45
+2014,8,Carolina Panthers,Seattle Seahawks,6,45
 2014,8,New York Jets,Buffalo Bills,-3,40.5
-2014,8,Jacksonville Jaguars,Miami Dolphins,-7,42.5
-2014,8,Tennessee Titans,Houston Texans,-3.5,43
-2014,8,Cincinnati Bengals,Baltimore Ravens,-3,44.5
-2014,8,Arizona Cardinals,Philadelphia Eagles,-1,48.5
-2014,8,Pittsburgh Steelers,Indianapolis Colts,-4.5,48.5
+2014,8,Jacksonville Jaguars,Miami Dolphins,7,42.5
+2014,8,Tennessee Titans,Houston Texans,3.5,43
+2014,8,Cincinnati Bengals,Baltimore Ravens,3,44.5
+2014,8,Arizona Cardinals,Philadelphia Eagles,1,48.5
+2014,8,Pittsburgh Steelers,Indianapolis Colts,4.5,48.5
 2014,8,Cleveland Browns,Oakland Raiders,-6.5,44.5
 2014,8,New Orleans Saints,Green Bay Packers,-2,55
 2014,8,Dallas Cowboys,Washington Redskins,-9.5,49
-2014,9,Carolina Panthers,New Orleans Saints,-3,49
+2014,9,Carolina Panthers,New Orleans Saints,3,49
 2014,9,Miami Dolphins,San Diego Chargers,-3,45
 2014,9,Cincinnati Bengals,Jacksonville Jaguars,-10,44
 2014,9,Cleveland Browns,Tampa Bay Buccaneers,-7,44
 2014,9,Minnesota Vikings,Washington Redskins,0,44
-2014,9,Houston Texans,Philadelphia Eagles,-2,48.5
+2014,9,Houston Texans,Philadelphia Eagles,2,48.5
 2014,9,Kansas City Chiefs,New York Jets,-8.5,41.5
 2014,9,Dallas Cowboys,Arizona Cardinals,-1.5,45
 2014,9,San Francisco 49ers,St. Louis Rams,-10.5,44
-2014,9,New England Patriots,Denver Broncos,-3,52.5
+2014,9,New England Patriots,Denver Broncos,3,52.5
 2014,9,Seattle Seahawks,Oakland Raiders,-13.5,44
 2014,9,Pittsburgh Steelers,Baltimore Ravens,-2.5,47.5
-2014,9,New York Giants,Indianapolis Colts,-3,51
+2014,9,New York Giants,Indianapolis Colts,3,51
 2014,10,Cincinnati Bengals,Cleveland Browns,-6.5,46
-2014,10,Jacksonville Jaguars,Dallas Cowboys,-7.5,45
+2014,10,Jacksonville Jaguars,Dallas Cowboys,7.5,45
 2014,10,Detroit Lions,Miami Dolphins,-3,43
 2014,10,Buffalo Bills,Kansas City Chiefs,-1.5,42
 2014,10,New Orleans Saints,San Francisco 49ers,-5.5,49
 2014,10,Baltimore Ravens,Tennessee Titans,-10.5,44.5
-2014,10,New York Jets,Pittsburgh Steelers,-4.5,47
-2014,10,Tampa Bay Buccaneers,Atlanta Falcons,-3,47
-2014,10,Oakland Raiders,Denver Broncos,-12.5,51
+2014,10,New York Jets,Pittsburgh Steelers,4.5,47
+2014,10,Tampa Bay Buccaneers,Atlanta Falcons,3,47
+2014,10,Oakland Raiders,Denver Broncos,12.5,51
 2014,10,Arizona Cardinals,St. Louis Rams,-7,43
 2014,10,Seattle Seahawks,New York Giants,-9.5,45
 2014,10,Green Bay Packers,Chicago Bears,-9.5,54
@@ -1160,20 +1160,20 @@ Year,Week,Home,Away,Spread,Total
 2014,11,Chicago Bears,Minnesota Vikings,-2.5,46.5
 2014,11,Green Bay Packers,Philadelphia Eagles,-6,56
 2014,11,Kansas City Chiefs,Seattle Seahawks,0,43.5
-2014,11,Carolina Panthers,Atlanta Falcons,-2.5,47
+2014,11,Carolina Panthers,Atlanta Falcons,2.5,47
 2014,11,New Orleans Saints,Cincinnati Bengals,-8.5,51.5
 2014,11,Washington Redskins,Tampa Bay Buccaneers,-7,45.5
-2014,11,St. Louis Rams,Denver Broncos,-9,50
-2014,11,New York Giants,San Francisco 49ers,-4,44.5
+2014,11,St. Louis Rams,Denver Broncos,9,50
+2014,11,New York Giants,San Francisco 49ers,4,44.5
 2014,11,San Diego Chargers,Oakland Raiders,-10,45.5
-2014,11,Arizona Cardinals,Detroit Lions,-1,41.5
+2014,11,Arizona Cardinals,Detroit Lions,1,41.5
 2014,11,Indianapolis Colts,New England Patriots,-3,59
-2014,11,Tennessee Titans,Pittsburgh Steelers,-7,46
-2014,12,Oakland Raiders,Kansas City Chiefs,-7,42.5
+2014,11,Tennessee Titans,Pittsburgh Steelers,7,46
+2014,12,Oakland Raiders,Kansas City Chiefs,7,42.5
 2014,12,Atlanta Falcons,Cleveland Browns,-2.5,48.5
 2014,12,Philadelphia Eagles,Tennessee Titans,-11,49
 2014,12,New England Patriots,Detroit Lions,-7,47.5
-2014,12,Minnesota Vikings,Green Bay Packers,-7.5,50
+2014,12,Minnesota Vikings,Green Bay Packers,7.5,50
 2014,12,Indianapolis Colts,Jacksonville Jaguars,-13.5,49
 2014,12,Houston Texans,Cincinnati Bengals,-2.5,44.5
 2014,12,Buffalo Bills,New York Jets,-4.5,39
@@ -1182,7 +1182,7 @@ Year,Week,Home,Away,Spread,Total
 2014,12,San Diego Chargers,St. Louis Rams,-5,43.5
 2014,12,Denver Broncos,Miami Dolphins,-7,47.5
 2014,12,San Francisco 49ers,Washington Redskins,-9.5,44
-2014,12,New York Giants,Dallas Cowboys,-5,49
+2014,12,New York Giants,Dallas Cowboys,5,49
 2014,12,New Orleans Saints,Baltimore Ravens,-3,51
 2014,12,Buffalo Bills,New York Jets,-2.5,42.5
 2014,13,Detroit Lions,Chicago Bears,-7,46.5
@@ -1192,67 +1192,67 @@ Year,Week,Home,Away,Spread,Total
 2014,13,Houston Texans,Tennessee Titans,-7,43
 2014,13,Buffalo Bills,Cleveland Browns,-3,42
 2014,13,Baltimore Ravens,San Diego Chargers,-6.5,45.5
-2014,13,Jacksonville Jaguars,New York Giants,-3,44
-2014,13,Tampa Bay Buccaneers,Cincinnati Bengals,-6,43.5
+2014,13,Jacksonville Jaguars,New York Giants,3,44
+2014,13,Tampa Bay Buccaneers,Cincinnati Bengals,6,43.5
 2014,13,St. Louis Rams,Oakland Raiders,-6,43
 2014,13,Pittsburgh Steelers,New Orleans Saints,-3.5,54.5
 2014,13,Minnesota Vikings,Carolina Panthers,-2.5,41.5
-2014,13,Atlanta Falcons,Arizona Cardinals,-1.5,45
+2014,13,Atlanta Falcons,Arizona Cardinals,1.5,45
 2014,13,Green Bay Packers,New England Patriots,-3,58
 2014,13,Kansas City Chiefs,Denver Broncos,0,49.5
-2014,13,New York Jets,Miami Dolphins,-7,41.5
-2014,14,Chicago Bears,Dallas Cowboys,-4,50.5
+2014,13,New York Jets,Miami Dolphins,7,41.5
+2014,14,Chicago Bears,Dallas Cowboys,4,50.5
 2014,14,Miami Dolphins,Baltimore Ravens,-3,45
 2014,14,Cincinnati Bengals,Pittsburgh Steelers,-3,47.5
-2014,14,Cleveland Browns,Indianapolis Colts,-3,50
-2014,14,Jacksonville Jaguars,Houston Texans,-6.5,42
-2014,14,Tennessee Titans,New York Giants,-3,46.5
+2014,14,Cleveland Browns,Indianapolis Colts,3,50
+2014,14,Jacksonville Jaguars,Houston Texans,6.5,42
+2014,14,Tennessee Titans,New York Giants,3,46.5
 2014,14,New Orleans Saints,Carolina Panthers,-9,50.5
 2014,14,Detroit Lions,Tampa Bay Buccaneers,-10.5,42
-2014,14,Washington Redskins,St. Louis Rams,-3,44.5
+2014,14,Washington Redskins,St. Louis Rams,3,44.5
 2014,14,Minnesota Vikings,New York Jets,-4.5,40
 2014,14,Denver Broncos,Buffalo Bills,-9.5,47.5
-2014,14,Arizona Cardinals,Kansas City Chiefs,-2.5,41
-2014,14,Oakland Raiders,San Francisco 49ers,-9,40.5
-2014,14,Philadelphia Eagles,Seattle Seahawks,-2,48
-2014,14,San Diego Chargers,New England Patriots,-4,54
+2014,14,Arizona Cardinals,Kansas City Chiefs,2.5,41
+2014,14,Oakland Raiders,San Francisco 49ers,9,40.5
+2014,14,Philadelphia Eagles,Seattle Seahawks,2,48
+2014,14,San Diego Chargers,New England Patriots,4,54
 2014,14,Green Bay Packers,Atlanta Falcons,-13.5,54.5
 2014,15,St. Louis Rams,Arizona Cardinals,-6,40.5
 2014,15,Kansas City Chiefs,Oakland Raiders,-11,41.5
 2014,15,Baltimore Ravens,Jacksonville Jaguars,-14,44.5
-2014,15,Atlanta Falcons,Pittsburgh Steelers,-3,55.5
+2014,15,Atlanta Falcons,Pittsburgh Steelers,3,55.5
 2014,15,Indianapolis Colts,Houston Texans,-7,49
 2014,15,Cleveland Browns,Cincinnati Bengals,-2,43.5
 2014,15,New England Patriots,Miami Dolphins,-9,49
 2014,15,Carolina Panthers,Tampa Bay Buccaneers,-3.5,41
 2014,15,New York Giants,Washington Redskins,-7,46
-2014,15,Buffalo Bills,Green Bay Packers,-3.5,49
+2014,15,Buffalo Bills,Green Bay Packers,3.5,49
 2014,15,Detroit Lions,Minnesota Vikings,-8,42.5
-2014,15,Tennessee Titans,New York Jets,-3.5,42
-2014,15,San Diego Chargers,Denver Broncos,-4.5,49.5
+2014,15,Tennessee Titans,New York Jets,3.5,42
+2014,15,San Diego Chargers,Denver Broncos,4.5,49.5
 2014,15,Seattle Seahawks,San Francisco 49ers,-9.5,38.5
 2014,15,Philadelphia Eagles,Dallas Cowboys,-3.5,55
-2014,15,Chicago Bears,New Orleans Saints,-3.5,53.5
+2014,15,Chicago Bears,New Orleans Saints,3.5,53.5
 2014,16,Jacksonville Jaguars,Tennessee Titans,-4.5,39
 2014,16,San Francisco 49ers,San Diego Chargers,-1.5,40.5
-2014,16,Washington Redskins,Philadelphia Eagles,-7,51
+2014,16,Washington Redskins,Philadelphia Eagles,7,51
 2014,16,Miami Dolphins,Minnesota Vikings,-4.5,42.5
-2014,16,Tampa Bay Buccaneers,Green Bay Packers,-12,49
-2014,16,Chicago Bears,Detroit Lions,-10,44.5
+2014,16,Tampa Bay Buccaneers,Green Bay Packers,12,49
+2014,16,Chicago Bears,Detroit Lions,10,44.5
 2014,16,New Orleans Saints,Atlanta Falcons,-6,56.5
-2014,16,New York Jets,New England Patriots,-10,47
+2014,16,New York Jets,New England Patriots,10,47
 2014,16,Pittsburgh Steelers,Kansas City Chiefs,-2.5,49.5
 2014,16,Carolina Panthers,Cleveland Browns,-6,40
-2014,16,Houston Texans,Baltimore Ravens,-6.5,42
+2014,16,Houston Texans,Baltimore Ravens,6.5,42
 2014,16,St. Louis Rams,New York Giants,-6.5,43.5
-2014,16,Oakland Raiders,Buffalo Bills,-6.5,42
+2014,16,Oakland Raiders,Buffalo Bills,6.5,42
 2014,16,Dallas Cowboys,Indianapolis Colts,-3,54
-2014,16,Arizona Cardinals,Seattle Seahawks,-9,36
-2014,16,Cincinnati Bengals,Denver Broncos,-3.5,47
+2014,16,Arizona Cardinals,Seattle Seahawks,9,36
+2014,16,Cincinnati Bengals,Denver Broncos,3.5,47
 2014,17,Green Bay Packers,Detroit Lions,-8.5,46.5
 2014,17,Houston Texans,Jacksonville Jaguars,-8.5,38.5
 2014,17,Pittsburgh Steelers,Cincinnati Bengals,-3,49
-2014,17,Tennessee Titans,Indianapolis Colts,-7.5,46.5
+2014,17,Tennessee Titans,Indianapolis Colts,7.5,46.5
 2014,17,Baltimore Ravens,Cleveland Browns,-14,40
 2014,17,New England Patriots,Buffalo Bills,-4.5,44
 2014,17,Miami Dolphins,New York Jets,-7,41
@@ -1260,40 +1260,40 @@ Year,Week,Home,Away,Spread,Total
 2014,17,Minnesota Vikings,Chicago Bears,-7,47
 2014,17,Kansas City Chiefs,San Diego Chargers,-3,42
 2014,17,New York Giants,Philadelphia Eagles,-1,52
-2014,17,Washington Redskins,Dallas Cowboys,-6,47.5
-2014,17,Tampa Bay Buccaneers,New Orleans Saints,-6,46.5
+2014,17,Washington Redskins,Dallas Cowboys,6,47.5
+2014,17,Tampa Bay Buccaneers,New Orleans Saints,6,46.5
 2014,17,Seattle Seahawks,St. Louis Rams,-11.5,41.5
 2014,17,San Francisco 49ers,Arizona Cardinals,-6.5,37.5
 2014,17,Denver Broncos,Oakland Raiders,-16,48.5
 2015,1,New England Patriots,Pittsburgh Steelers,-7,51
-2015,1,Chicago Bears,Green Bay Packers,-6.5,48.5
-2015,1,Houston Texans,Kansas City Chiefs,-1,40.5
+2015,1,Chicago Bears,Green Bay Packers,6.5,48.5
+2015,1,Houston Texans,Kansas City Chiefs,1,40.5
 2015,1,New York Jets,Cleveland Browns,-3.5,38.5
-2015,1,Buffalo Bills,Indianapolis Colts,-1,44.5
-2015,1,Washington Redskins,Miami Dolphins,-4,45.5
-2015,1,Jacksonville Jaguars,Carolina Panthers,-3,41
-2015,1,Los Angeles Rams,Seattle Seahawks,-3.5,41
+2015,1,Buffalo Bills,Indianapolis Colts,1,44.5
+2015,1,Washington Redskins,Miami Dolphins,4,45.5
+2015,1,Jacksonville Jaguars,Carolina Panthers,3,41
+2015,1,Los Angeles Rams,Seattle Seahawks,3.5,41
 2015,1,Arizona Cardinals,New Orleans Saints,-2.5,49
 2015,1,San Diego Chargers,Detroit Lions,-3.5,45.5
 2015,1,Tampa Bay Buccaneers,Tennessee Titans,-3,40.5
-2015,1,Oakland Raiders,Cincinnati Bengals,-3,43
+2015,1,Oakland Raiders,Cincinnati Bengals,3,43
 2015,1,Denver Broncos,Baltimore Ravens,-4.5,46.5
 2015,1,Dallas Cowboys,New York Giants,-7,52
-2015,1,Atlanta Falcons,Philadelphia Eagles,-3,56
-2015,1,San Francisco 49ers,Minnesota Vikings,-2.5,42
+2015,1,Atlanta Falcons,Philadelphia Eagles,3,56
+2015,1,San Francisco 49ers,Minnesota Vikings,2.5,42
 2015,2,Kansas City Chiefs,Denver Broncos,-3,42
 2015,2,Carolina Panthers,Houston Texans,-3,41
 2015,2,New Orleans Saints,Tampa Bay Buccaneers,-9,47
 2015,2,Pittsburgh Steelers,San Francisco 49ers,-6,46
 2015,2,Minnesota Vikings,Detroit Lions,-2.5,44
 2015,2,Buffalo Bills,New England Patriots,-1.5,45
-2015,2,Chicago Bears,Arizona Cardinals,-2,46
-2015,2,Cleveland Browns,Tennessee Titans,-1,41
+2015,2,Chicago Bears,Arizona Cardinals,2,46
+2015,2,Cleveland Browns,Tennessee Titans,1,41
 2015,2,Cincinnati Bengals,San Diego Chargers,-3.5,48
-2015,2,Washington Redskins,St. Louis Rams,-3,41
+2015,2,Washington Redskins,St. Louis Rams,3,41
 2015,2,New York Giants,Atlanta Falcons,-2,50
-2015,2,Oakland Raiders,Baltimore Ravens,-6,42
-2015,2,Jacksonville Jaguars,Miami Dolphins,-6,42
+2015,2,Oakland Raiders,Baltimore Ravens,6,42
+2015,2,Jacksonville Jaguars,Miami Dolphins,6,42
 2015,2,Philadelphia Eagles,Dallas Cowboys,-6.5,54
 2015,2,Green Bay Packers,Seattle Seahawks,-3,49.5
 2015,2,Indianapolis Colts,New York Jets,-6,45.5
@@ -1306,24 +1306,24 @@ Year,Week,Home,Away,Spread,Total
 2015,3,New England Patriots,Jacksonville Jaguars,-14,49
 2015,3,Baltimore Ravens,Cincinnati Bengals,-1.5,45
 2015,3,Cleveland Browns,Oakland Raiders,-3.5,44
-2015,3,Tennessee Titans,Indianapolis Colts,-3.5,46.5
+2015,3,Tennessee Titans,Indianapolis Colts,3.5,46.5
 2015,3,Dallas Cowboys,Atlanta Falcons,0,43.5
 2015,3,Arizona Cardinals,San Francisco 49ers,-7,45
 2015,3,Seattle Seahawks,Chicago Bears,-16.5,43.5
 2015,3,Miami Dolphins,Buffalo Bills,-1,43.5
-2015,3,Detroit Lions,Denver Broncos,-3,45
+2015,3,Detroit Lions,Denver Broncos,3,45
 2015,3,Green Bay Packers,Kansas City Chiefs,-5.5,47.5
-2015,4,Pittsburgh Steelers,Baltimore Ravens,-3,44
-2015,4,Miami Dolphins,New York Jets,-2.5,42.5
+2015,4,Pittsburgh Steelers,Baltimore Ravens,3,44
+2015,4,Miami Dolphins,New York Jets,2.5,42.5
 2015,4,Indianapolis Colts,Jacksonville Jaguars,-4,43.5
 2015,4,Atlanta Falcons,Houston Texans,-4.5,47.5
-2015,4,Tampa Bay Buccaneers,Carolina Panthers,-3,40.5
+2015,4,Tampa Bay Buccaneers,Carolina Panthers,3,40.5
 2015,4,Buffalo Bills,New York Giants,-6.5,46.5
-2015,4,Chicago Bears,Oakland Raiders,-3,44.5
-2015,4,Washington Redskins,Philadelphia Eagles,-3,45.5
+2015,4,Chicago Bears,Oakland Raiders,3,44.5
+2015,4,Washington Redskins,Philadelphia Eagles,3,45.5
 2015,4,Cincinnati Bengals,Kansas City Chiefs,-3.5,45
 2015,4,San Diego Chargers,Cleveland Browns,-5,44.5
-2015,4,San Francisco 49ers,Green Bay Packers,-7.5,48
+2015,4,San Francisco 49ers,Green Bay Packers,7.5,48
 2015,4,Denver Broncos,Minnesota Vikings,-7,43.5
 2015,4,Arizona Cardinals,St. Louis Rams,-7,43.5
 2015,4,New Orleans Saints,Dallas Cowboys,-3,48
@@ -1337,33 +1337,33 @@ Year,Week,Home,Away,Spread,Total
 2015,5,Philadelphia Eagles,New Orleans Saints,-6.5,49.5
 2015,5,Green Bay Packers,St. Louis Rams,-9,46
 2015,5,Cincinnati Bengals,Seattle Seahawks,-3,44
-2015,5,Detroit Lions,Arizona Cardinals,-4.5,46
-2015,5,Dallas Cowboys,New England Patriots,-9,51
-2015,5,Oakland Raiders,Denver Broncos,-5.5,44.5
+2015,5,Detroit Lions,Arizona Cardinals,4.5,46
+2015,5,Dallas Cowboys,New England Patriots,9,51
+2015,5,Oakland Raiders,Denver Broncos,5.5,44.5
 2015,5,New York Giants,San Francisco 49ers,-7.5,44
 2015,5,San Diego Chargers,Pittsburgh Steelers,-4,45.5
-2015,6,New Orleans Saints,Atlanta Falcons,-3,52.5
-2015,6,Cleveland Browns,Denver Broncos,-3,42
-2015,6,Buffalo Bills,Cincinnati Bengals,-3,42.5
+2015,6,New Orleans Saints,Atlanta Falcons,3,52.5
+2015,6,Cleveland Browns,Denver Broncos,3,42
+2015,6,Buffalo Bills,Cincinnati Bengals,3,42.5
 2015,6,Minnesota Vikings,Kansas City Chiefs,-3.5,43
 2015,6,Jacksonville Jaguars,Houston Texans,-3,43
 2015,6,Detroit Lions,Chicago Bears,-3.5,45.5
 2015,6,New York Jets,Washington Redskins,-7.5,40
-2015,6,Pittsburgh Steelers,Arizona Cardinals,-6,45.5
+2015,6,Pittsburgh Steelers,Arizona Cardinals,6,45.5
 2015,6,Tennessee Titans,Miami Dolphins,-2.5,44
 2015,6,Seattle Seahawks,Carolina Panthers,-7,41
 2015,6,Green Bay Packers,San Diego Chargers,-10.5,50
-2015,6,San Francisco 49ers,Baltimore Ravens,-2.5,43.5
-2015,6,Indianapolis Colts,New England Patriots,-8.5,54
+2015,6,San Francisco 49ers,Baltimore Ravens,2.5,43.5
+2015,6,Indianapolis Colts,New England Patriots,8.5,54
 2015,6,Philadelphia Eagles,New York Giants,-3.5,51
-2015,7,San Francisco 49ers,Seattle Seahawks,-6.5,42
-2015,7,Jacksonville Jaguars,Buffalo Bills,-3.5,41
+2015,7,San Francisco 49ers,Seattle Seahawks,6.5,42
+2015,7,Jacksonville Jaguars,Buffalo Bills,3.5,41
 2015,7,St. Louis Rams,Cleveland Browns,-6,43.5
 2015,7,Kansas City Chiefs,Pittsburgh Steelers,-3,41.5
 2015,7,Miami Dolphins,Houston Texans,-4.5,45.5
 2015,7,New England Patriots,New York Jets,-7,47.5
 2015,7,Detroit Lions,Minnesota Vikings,-1,45
-2015,7,Tennessee Titans,Atlanta Falcons,-6,45.5
+2015,7,Tennessee Titans,Atlanta Falcons,6,45.5
 2015,7,Washington Redskins,Tampa Bay Buccaneers,-3,41.5
 2015,7,Indianapolis Colts,New Orleans Saints,-5.5,53
 2015,7,San Diego Chargers,Oakland Raiders,-3.5,48.5
@@ -1372,17 +1372,17 @@ Year,Week,Home,Away,Spread,Total
 2015,7,Arizona Cardinals,Baltimore Ravens,-10,50
 2015,8,New England Patriots,Miami Dolphins,-8,51.5
 2015,8,Kansas City Chiefs,Detroit Lions,-3,45
-2015,8,Chicago Bears,Minnesota Vikings,-1.5,44
+2015,8,Chicago Bears,Minnesota Vikings,1.5,44
 2015,8,Atlanta Falcons,Tampa Bay Buccaneers,-8,47.5
 2015,8,New Orleans Saints,New York Giants,-3,51.5
 2015,8,St. Louis Rams,San Francisco 49ers,-8,41
-2015,8,Cleveland Browns,Arizona Cardinals,-7,46
+2015,8,Cleveland Browns,Arizona Cardinals,7,46
 2015,8,Pittsburgh Steelers,Cincinnati Bengals,0,49.5
 2015,8,Baltimore Ravens,San Diego Chargers,-4.5,50.5
 2015,8,Houston Texans,Tennessee Titans,-3.5,43
-2015,8,Oakland Raiders,New York Jets,-3,44
-2015,8,Dallas Cowboys,Seattle Seahawks,-5.5,42
-2015,8,Denver Broncos,Green Bay Packers,-2.5,46
+2015,8,Oakland Raiders,New York Jets,3,44
+2015,8,Dallas Cowboys,Seattle Seahawks,5.5,42
+2015,8,Denver Broncos,Green Bay Packers,2.5,46
 2015,8,Carolina Panthers,Indianapolis Colts,-5,45
 2015,9,Cincinnati Bengals,Cleveland Browns,-13,45.5
 2015,9,Pittsburgh Steelers,Oakland Raiders,-6,48
@@ -1391,69 +1391,69 @@ Year,Week,Home,Away,Spread,Total
 2015,9,Buffalo Bills,Miami Dolphins,-4,44
 2015,9,New Orleans Saints,Tennessee Titans,-7,50
 2015,9,New England Patriots,Washington Redskins,-14,51.5
-2015,9,Carolina Panthers,Green Bay Packers,-2.5,46
-2015,9,San Francisco 49ers,Atlanta Falcons,-9,43.5
-2015,9,Tampa Bay Buccaneers,New York Giants,-1.5,49
-2015,9,Indianapolis Colts,Denver Broncos,-3.5,45
-2015,9,Dallas Cowboys,Philadelphia Eagles,-3,44
+2015,9,Carolina Panthers,Green Bay Packers,2.5,46
+2015,9,San Francisco 49ers,Atlanta Falcons,9,43.5
+2015,9,Tampa Bay Buccaneers,New York Giants,1.5,49
+2015,9,Indianapolis Colts,Denver Broncos,3.5,45
+2015,9,Dallas Cowboys,Philadelphia Eagles,3,44
 2015,9,San Diego Chargers,Chicago Bears,-3.5,49.5
 2015,10,New York Jets,Buffalo Bills,-2.5,42
 2015,10,Green Bay Packers,Detroit Lions,-10.5,50
-2015,10,Tampa Bay Buccaneers,Dallas Cowboys,-1,43.5
-2015,10,Tennessee Titans,Carolina Panthers,-3.5,42.5
+2015,10,Tampa Bay Buccaneers,Dallas Cowboys,1,43.5
+2015,10,Tennessee Titans,Carolina Panthers,3.5,42.5
 2015,10,St. Louis Rams,Chicago Bears,-7,42
-2015,10,Washington Redskins,New Orleans Saints,-1,52
+2015,10,Washington Redskins,New Orleans Saints,1,52
 2015,10,Philadelphia Eagles,Miami Dolphins,-6,49.5
 2015,10,Pittsburgh Steelers,Cleveland Browns,-6.5,43
 2015,10,Baltimore Ravens,Jacksonville Jaguars,-4.5,47
 2015,10,Oakland Raiders,Minnesota Vikings,-3,44
 2015,10,Denver Broncos,Kansas City Chiefs,-4,42
-2015,10,New York Giants,New England Patriots,-7,52.5
+2015,10,New York Giants,New England Patriots,7,52.5
 2015,10,Seattle Seahawks,Arizona Cardinals,-3,43.5
 2015,10,Cincinnati Bengals,Houston Texans,-10,46.5
 2015,11,Jacksonville Jaguars,Tennessee Titans,-3,42
 2015,11,Carolina Panthers,Washington Redskins,-7,44.5
-2015,11,Detroit Lions,Oakland Raiders,-1.5,50
-2015,11,Miami Dolphins,Dallas Cowboys,-2.5,45.5
+2015,11,Detroit Lions,Oakland Raiders,1.5,50
+2015,11,Miami Dolphins,Dallas Cowboys,2.5,45.5
 2015,11,Atlanta Falcons,Indianapolis Colts,-3.5,47.5
 2015,11,Baltimore Ravens,St. Louis Rams,-3,41.5
-2015,11,Houston Texans,New York Jets,-4,40
+2015,11,Houston Texans,New York Jets,4,40
 2015,11,Minnesota Vikings,Green Bay Packers,0,45
 2015,11,Philadelphia Eagles,Tampa Bay Buccaneers,-6.5,45.5
-2015,11,Chicago Bears,Denver Broncos,-2,41.5
+2015,11,Chicago Bears,Denver Broncos,2,41.5
 2015,11,Arizona Cardinals,Cincinnati Bengals,-4,48
 2015,11,Seattle Seahawks,San Francisco 49ers,-14,40
-2015,11,San Diego Chargers,Kansas City Chiefs,-3,45.5
+2015,11,San Diego Chargers,Kansas City Chiefs,3,45.5
 2015,11,New England Patriots,Buffalo Bills,-7,47.5
 2015,12,Detroit Lions,Philadelphia Eagles,-3,47
-2015,12,Dallas Cowboys,Carolina Panthers,-1,44.5
+2015,12,Dallas Cowboys,Carolina Panthers,1,44.5
 2015,12,Green Bay Packers,Chicago Bears,-8,45
 2015,12,Houston Texans,New Orleans Saints,-3.5,51
 2015,12,Atlanta Falcons,Minnesota Vikings,-2,45
 2015,12,Cincinnati Bengals,St. Louis Rams,-9.5,42
 2015,12,Indianapolis Colts,Tampa Bay Buccaneers,-3,46.5
-2015,12,Washington Redskins,New York Giants,-1.5,48
-2015,12,Tennessee Titans,Oakland Raiders,-1,45
+2015,12,Washington Redskins,New York Giants,1.5,48
+2015,12,Tennessee Titans,Oakland Raiders,1,45
 2015,12,Kansas City Chiefs,Buffalo Bills,-4.5,41
 2015,12,New York Jets,Miami Dolphins,-4.5,43.5
 2015,12,Jacksonville Jaguars,San Diego Chargers,-5,47
-2015,12,San Francisco 49ers,Arizona Cardinals,-8.5,45
+2015,12,San Francisco 49ers,Arizona Cardinals,8.5,45
 2015,12,Seattle Seahawks,Pittsburgh Steelers,-3,46.5
-2015,12,Denver Broncos,New England Patriots,-2.5,43
+2015,12,Denver Broncos,New England Patriots,2.5,43
 2015,12,Cleveland Browns,Baltimore Ravens,-6,41.5
-2015,13,Detroit Lions,Green Bay Packers,-2.5,47
+2015,13,Detroit Lions,Green Bay Packers,2.5,47
 2015,13,Chicago Bears,San Francisco 49ers,-6.5,43
-2015,13,Cleveland Browns,Cincinnati Bengals,-7.5,44.5
+2015,13,Cleveland Browns,Cincinnati Bengals,7.5,44.5
 2015,13,Tennessee Titans,Jacksonville Jaguars,-3,43.5
 2015,13,Buffalo Bills,Houston Texans,-3,42
 2015,13,Miami Dolphins,Baltimore Ravens,-3.5,43.5
-2015,13,New Orleans Saints,Carolina Panthers,-6,50.5
-2015,13,Minnesota Vikings,Seattle Seahawks,-3,43
-2015,13,St. Louis Rams,Arizona Cardinals,-3.5,43
+2015,13,New Orleans Saints,Carolina Panthers,6,50.5
+2015,13,Minnesota Vikings,Seattle Seahawks,3,43
+2015,13,St. Louis Rams,Arizona Cardinals,3.5,43
 2015,13,Tampa Bay Buccaneers,Atlanta Falcons,0,46.5
-2015,13,New York Giants,New York Jets,-2.5,46.5
-2015,13,San Diego Chargers,Denver Broncos,-6,45
-2015,13,Oakland Raiders,Kansas City Chiefs,-3,45.5
+2015,13,New York Giants,New York Jets,2.5,46.5
+2015,13,San Diego Chargers,Denver Broncos,6,45
+2015,13,Oakland Raiders,Kansas City Chiefs,3,45.5
 2015,13,New England Patriots,Philadelphia Eagles,-9.5,49
 2015,13,Pittsburgh Steelers,Indianapolis Colts,-9.5,50.5
 2015,13,Washington Redskins,Dallas Cowboys,-2,43
@@ -1463,63 +1463,63 @@ Year,Week,Home,Away,Spread,Total
 2015,14,Carolina Panthers,Atlanta Falcons,-8.5,45
 2015,14,Cleveland Browns,San Francisco 49ers,-2.5,43
 2015,14,Chicago Bears,Washington Redskins,-4,43
-2015,14,St. Louis Rams,Detroit Lions,-3,41.5
+2015,14,St. Louis Rams,Detroit Lions,3,41.5
 2015,14,Kansas City Chiefs,San Diego Chargers,-12,42
 2015,14,Tampa Bay Buccaneers,New Orleans Saints,-6,51.5
 2015,14,Jacksonville Jaguars,Indianapolis Colts,-1,46
 2015,14,New York Jets,Tennessee Titans,-8,43
-2015,14,Houston Texans,New England Patriots,-4.5,46.5
+2015,14,Houston Texans,New England Patriots,4.5,46.5
 2015,14,Denver Broncos,Oakland Raiders,-6,43.5
 2015,14,Green Bay Packers,Dallas Cowboys,-6.5,42.5
-2015,14,Baltimore Ravens,Seattle Seahawks,-10.5,42
-2015,14,Miami Dolphins,New York Giants,-2,48
+2015,14,Baltimore Ravens,Seattle Seahawks,10.5,42
+2015,14,Miami Dolphins,New York Giants,2,48
 2015,15,St. Louis Rams,Tampa Bay Buccaneers,-1,41.5
-2015,15,Dallas Cowboys,New York Jets,-3.5,41
+2015,15,Dallas Cowboys,New York Jets,3.5,41
 2015,15,Minnesota Vikings,Chicago Bears,-4,44
 2015,15,Jacksonville Jaguars,Atlanta Falcons,-2,48
 2015,15,Indianapolis Colts,Houston Texans,-2,42
-2015,15,Baltimore Ravens,Kansas City Chiefs,-6.5,41
-2015,15,Washington Redskins,Buffalo Bills,-2,46
+2015,15,Baltimore Ravens,Kansas City Chiefs,6.5,41
+2015,15,Washington Redskins,Buffalo Bills,2,46
 2015,15,New England Patriots,Tennessee Titans,-14.5,48
-2015,15,Philadelphia Eagles,Arizona Cardinals,-3.5,51
-2015,15,New York Giants,Carolina Panthers,-5,46.5
+2015,15,Philadelphia Eagles,Arizona Cardinals,3.5,51
+2015,15,New York Giants,Carolina Panthers,5,46.5
 2015,15,Seattle Seahawks,Cleveland Browns,-14.5,45
-2015,15,Oakland Raiders,Green Bay Packers,-4,47
+2015,15,Oakland Raiders,Green Bay Packers,4,47
 2015,15,San Diego Chargers,Miami Dolphins,-1,47
 2015,15,Pittsburgh Steelers,Denver Broncos,-7.5,45.5
-2015,15,San Francisco 49ers,Cincinnati Bengals,-6.5,40.5
+2015,15,San Francisco 49ers,Cincinnati Bengals,6.5,40.5
 2015,15,New Orleans Saints,Detroit Lions,-2.5,52.5
 2015,16,Oakland Raiders,San Diego Chargers,-4,45
 2015,16,Philadelphia Eagles,Washington Redskins,-3.5,48.5
 2015,16,Minnesota Vikings,New York Giants,-7,45
 2015,16,Tampa Bay Buccaneers,Chicago Bears,-3,44
-2015,16,Atlanta Falcons,Carolina Panthers,-7,46
+2015,16,Atlanta Falcons,Carolina Panthers,7,46
 2015,16,Buffalo Bills,Dallas Cowboys,-6.5,42
 2015,16,New Orleans Saints,Jacksonville Jaguars,-2.5,53
 2015,16,Detroit Lions,San Francisco 49ers,-9,42.5
 2015,16,Kansas City Chiefs,Cleveland Browns,-11.5,42.5
 2015,16,Miami Dolphins,Indianapolis Colts,-2.5,44
-2015,16,New York Jets,New England Patriots,-2.5,45.5
-2015,16,Tennessee Titans,Houston Texans,-3.5,39
+2015,16,New York Jets,New England Patriots,2.5,45.5
+2015,16,Tennessee Titans,Houston Texans,3.5,39
 2015,16,Arizona Cardinals,Green Bay Packers,-6,50.5
 2015,16,Seattle Seahawks,St. Louis Rams,-11,42
-2015,16,Baltimore Ravens,Pittsburgh Steelers,-11.5,47.5
+2015,16,Baltimore Ravens,Pittsburgh Steelers,11.5,47.5
 2015,16,Denver Broncos,Cincinnati Bengals,-4,39
-2015,17,Buffalo Bills,New York Jets,-3,41
+2015,17,Buffalo Bills,New York Jets,3,41
 2015,17,Carolina Panthers,Tampa Bay Buccaneers,-10,44.5
-2015,17,Miami Dolphins,New England Patriots,-10,46.5
+2015,17,Miami Dolphins,New England Patriots,10,46.5
 2015,17,Cincinnati Bengals,Baltimore Ravens,-9.5,40.5
 2015,17,Atlanta Falcons,New Orleans Saints,-6,53.5
 2015,17,Houston Texans,Jacksonville Jaguars,-6,45
-2015,17,Cleveland Browns,Pittsburgh Steelers,-13,47
+2015,17,Cleveland Browns,Pittsburgh Steelers,13,47
 2015,17,Kansas City Chiefs,Oakland Raiders,-6.5,43.5
 2015,17,Indianapolis Colts,Tennessee Titans,-4.5,39
 2015,17,Dallas Cowboys,Washington Redskins,-3,41
-2015,17,Chicago Bears,Detroit Lions,-2.5,45
+2015,17,Chicago Bears,Detroit Lions,2.5,45
 2015,17,New York Giants,Philadelphia Eagles,-3.5,51
 2015,17,Green Bay Packers,Minnesota Vikings,-3,44
 2015,17,Denver Broncos,San Diego Chargers,-10,42
-2015,17,San Francisco 49ers,St. Louis Rams,-3,39
+2015,17,San Francisco 49ers,St. Louis Rams,3,39
 2015,17,Arizona Cardinals,Seattle Seahawks,-6,47
 2016,1,Denver Broncos,Carolina Panthers,,
 2016,1,Atlanta Falcons,Tampa Bay Buccaneers,,
@@ -1541,115 +1541,115 @@ Year,Week,Home,Away,Spread,Total
 2016,2,Detroit Lions,Tennessee Titans,-6,48
 2016,2,Houston Texans,Kansas City Chiefs,0,42
 2016,2,New England Patriots,Miami Dolphins,-6,42
-2016,2,Cleveland Browns,Baltimore Ravens,-4.5,42
+2016,2,Cleveland Browns,Baltimore Ravens,4.5,42
 2016,2,Pittsburgh Steelers,Cincinnati Bengals,-3,48
 2016,2,Washington Redskins,Dallas Cowboys,-3.5,47
 2016,2,New York Giants,New Orleans Saints,-4,54.5
 2016,2,Carolina Panthers,San Francisco 49ers,-12.5,44.5
 2016,2,Arizona Cardinals,Tampa Bay Buccaneers,-7,49.5
-2016,2,Los Angeles Rams,Seattle Seahawks,-5.5,38
+2016,2,Los Angeles Rams,Seattle Seahawks,5.5,38
 2016,2,Denver Broncos,Indianapolis Colts,-6,47
 2016,2,Oakland Raiders,Atlanta Falcons,-4,47.5
 2016,2,San Diego Chargers,Jacksonville Jaguars,-3,47.5
-2016,2,Minnesota Vikings,Green Bay Packers,-2,43
+2016,2,Minnesota Vikings,Green Bay Packers,2,43
 2016,2,Chicago Bears,Philadelphia Eagles,-3,43
 2016,3,New England Patriots,Houston Texans,-1,38.5
 2016,3,Cincinnati Bengals,Denver Broncos,-3.5,41.5
-2016,3,Tennessee Titans,Oakland Raiders,-1.5,47
-2016,3,Buffalo Bills,Arizona Cardinals,-5.5,48
-2016,3,Jacksonville Jaguars,Baltimore Ravens,-2,45
+2016,3,Tennessee Titans,Oakland Raiders,1.5,47
+2016,3,Buffalo Bills,Arizona Cardinals,5.5,48
+2016,3,Jacksonville Jaguars,Baltimore Ravens,2,45
 2016,3,Miami Dolphins,Cleveland Browns,-10,42.5
 2016,3,New York Giants,Washington Redskins,-3.5,47
 2016,3,Green Bay Packers,Detroit Lions,-6.5,47.5
 2016,3,Carolina Panthers,Minnesota Vikings,-6.5,42.5
 2016,3,Seattle Seahawks,San Francisco 49ers,-10.5,42
 2016,3,Tampa Bay Buccaneers,Los Angeles Rams,-3.5,40.5
-2016,3,Philadelphia Eagles,Pittsburgh Steelers,-4,46.5
+2016,3,Philadelphia Eagles,Pittsburgh Steelers,4,46.5
 2016,3,Kansas City Chiefs,New York Jets,-3,44.5
 2016,3,Indianapolis Colts,San Diego Chargers,-1.5,51.5
 2016,3,Dallas Cowboys,Chicago Bears,-6.5,45
 2016,3,New Orleans Saints,Atlanta Falcons,-3,54.5
 2016,4,Cincinnati Bengals,Miami Dolphins,-7.5,46.5
-2016,4,Jacksonville Jaguars,Indianapolis Colts,-1,48.5
+2016,4,Jacksonville Jaguars,Indianapolis Colts,1,48.5
 2016,4,Washington Redskins,Cleveland Browns,-7.5,48
 2016,4,New England Patriots,Buffalo Bills,-3.5,41
 2016,4,New York Jets,Seattle Seahawks,0,40
-2016,4,Atlanta Falcons,Carolina Panthers,-3,48.5
-2016,4,Chicago Bears,Detroit Lions,-3.5,48
+2016,4,Atlanta Falcons,Carolina Panthers,3,48.5
+2016,4,Chicago Bears,Detroit Lions,3.5,48
 2016,4,Houston Texans,Tennessee Titans,-4,40
 2016,4,Baltimore Ravens,Oakland Raiders,-3.5,45
-2016,4,Tampa Bay Buccaneers,Denver Broncos,-3.5,43
-2016,4,San Francisco 49ers,Dallas Cowboys,-1.5,44
+2016,4,Tampa Bay Buccaneers,Denver Broncos,3.5,43
+2016,4,San Francisco 49ers,Dallas Cowboys,1.5,44
 2016,4,San Diego Chargers,New Orleans Saints,-4,54
 2016,4,Arizona Cardinals,Los Angeles Rams,-9.5,43.5
 2016,4,Pittsburgh Steelers,Kansas City Chiefs,-3.5,48.5
 2016,4,Minnesota Vikings,New York Giants,-4,42.5
-2016,5,San Francisco 49ers,Arizona Cardinals,-3.5,42.5
+2016,5,San Francisco 49ers,Arizona Cardinals,3.5,42.5
 2016,5,Minnesota Vikings,Houston Texans,-6,38.5
 2016,5,Miami Dolphins,Tennessee Titans,-2.5,44
-2016,5,Cleveland Browns,New England Patriots,-10,48
+2016,5,Cleveland Browns,New England Patriots,10,48
 2016,5,Pittsburgh Steelers,New York Jets,-9.5,50
 2016,5,Baltimore Ravens,Washington Redskins,-4,44.5
-2016,5,Detroit Lions,Philadelphia Eagles,-3.5,46
+2016,5,Detroit Lions,Philadelphia Eagles,3.5,46
 2016,5,Indianapolis Colts,Chicago Bears,-4,47.5
 2016,5,Denver Broncos,Atlanta Falcons,-4,44.5
-2016,5,Los Angeles Rams,Buffalo Bills,-2.5,41.5
+2016,5,Los Angeles Rams,Buffalo Bills,2.5,41.5
 2016,5,Oakland Raiders,San Diego Chargers,-3.5,51
-2016,5,Dallas Cowboys,Cincinnati Bengals,-2.5,45.5
+2016,5,Dallas Cowboys,Cincinnati Bengals,2.5,45.5
 2016,5,Green Bay Packers,New York Giants,-7,50
 2016,5,Carolina Panthers,Tampa Bay Buccaneers,-6,47
-2016,6,San Diego Chargers,Denver Broncos,-3,44.5
+2016,6,San Diego Chargers,Denver Broncos,3,44.5
 2016,6,New England Patriots,Cincinnati Bengals,-7.5,48.5
 2016,6,New York Giants,Baltimore Ravens,-3.5,42.5
-2016,6,New Orleans Saints,Carolina Panthers,-2.5,54
-2016,6,Miami Dolphins,Pittsburgh Steelers,-7.5,49.5
+2016,6,New Orleans Saints,Carolina Panthers,2.5,54
+2016,6,Miami Dolphins,Pittsburgh Steelers,7.5,49.5
 2016,6,Chicago Bears,Jacksonville Jaguars,-2.5,46
 2016,6,Buffalo Bills,San Francisco 49ers,-7.5,44
 2016,6,Detroit Lions,Los Angeles Rams,-3,44.5
 2016,6,Tennessee Titans,Cleveland Browns,-7.5,45
-2016,6,Washington Redskins,Philadelphia Eagles,-3,45
-2016,6,Oakland Raiders,Kansas City Chiefs,-2,47
+2016,6,Washington Redskins,Philadelphia Eagles,3,45
+2016,6,Oakland Raiders,Kansas City Chiefs,2,47
 2016,6,Seattle Seahawks,Atlanta Falcons,-7,45.5
 2016,6,Green Bay Packers,Dallas Cowboys,-5,47.5
 2016,6,Houston Texans,Indianapolis Colts,-3,48
 2016,6,Arizona Cardinals,New York Jets,-7,46
 2016,7,Green Bay Packers,Chicago Bears,-7.5,47
-2016,7,Los Angeles Rams,New York Giants,-3,45
-2016,7,Philadelphia Eagles,Minnesota Vikings,-3,39
+2016,7,Los Angeles Rams,New York Giants,3,45
+2016,7,Philadelphia Eagles,Minnesota Vikings,3,39
 2016,7,Kansas City Chiefs,New Orleans Saints,-6.5,51.5
-2016,7,Detroit Lions,Washington Redskins,-1,50
+2016,7,Detroit Lions,Washington Redskins,1,50
 2016,7,Cincinnati Bengals,Cleveland Browns,-11.5,46.5
-2016,7,Miami Dolphins,Buffalo Bills,-2.5,46
+2016,7,Miami Dolphins,Buffalo Bills,2.5,46
 2016,7,Jacksonville Jaguars,Oakland Raiders,-2,47.5
 2016,7,Tennessee Titans,Indianapolis Colts,-4,48.5
 2016,7,New York Jets,Baltimore Ravens,-2,40.5
 2016,7,Atlanta Falcons,San Diego Chargers,-5,53.5
 2016,7,San Francisco 49ers,Tampa Bay Buccaneers,-1,45.5
-2016,7,Pittsburgh Steelers,New England Patriots,-7.5,49.5
+2016,7,Pittsburgh Steelers,New England Patriots,7.5,49.5
 2016,7,Arizona Cardinals,Seattle Seahawks,-1.5,43
 2016,7,Denver Broncos,Houston Texans,-8.5,40
 2016,8,Tennessee Titans,Jacksonville Jaguars,-3,43.5
 2016,8,Cincinnati Bengals,Washington Redskins,-3,49
 2016,8,Atlanta Falcons,Green Bay Packers,-3,51
 2016,8,Houston Texans,Detroit Lions,-1,46.5
-2016,8,New Orleans Saints,Seattle Seahawks,-1,50
-2016,8,Buffalo Bills,New England Patriots,-6.5,48.5
-2016,8,Cleveland Browns,New York Jets,-2.5,45.5
+2016,8,New Orleans Saints,Seattle Seahawks,1,50
+2016,8,Buffalo Bills,New England Patriots,6.5,48.5
+2016,8,Cleveland Browns,New York Jets,2.5,45.5
 2016,8,Tampa Bay Buccaneers,Oakland Raiders,0,48
-2016,8,Indianapolis Colts,Kansas City Chiefs,-3,50.5
+2016,8,Indianapolis Colts,Kansas City Chiefs,3,50.5
 2016,8,Denver Broncos,San Diego Chargers,-3.5,43.5
 2016,8,Carolina Panthers,Arizona Cardinals,-2.5,45.5
 2016,8,Dallas Cowboys,Philadelphia Eagles,-5,44
-2016,8,Chicago Bears,Minnesota Vikings,-5.5,39.5
-2016,9,Tampa Bay Buccaneers,Atlanta Falcons,-4.5,49.5
+2016,8,Chicago Bears,Minnesota Vikings,5.5,39.5
+2016,9,Tampa Bay Buccaneers,Atlanta Falcons,4.5,49.5
 2016,9,Kansas City Chiefs,Jacksonville Jaguars,-7,43
 2016,9,Minnesota Vikings,Detroit Lions,-5.5,42.5
 2016,9,New York Giants,Philadelphia Eagles,-3,43
-2016,9,Cleveland Browns,Dallas Cowboys,-7,49.5
+2016,9,Cleveland Browns,Dallas Cowboys,7,49.5
 2016,9,Miami Dolphins,New York Jets,-4,45.5
-2016,9,Baltimore Ravens,Pittsburgh Steelers,-3,46
-2016,9,San Francisco 49ers,New Orleans Saints,-5.5,53
-2016,9,Los Angeles Rams,Carolina Panthers,-3,44.5
+2016,9,Baltimore Ravens,Pittsburgh Steelers,3,46
+2016,9,San Francisco 49ers,New Orleans Saints,5.5,53
+2016,9,Los Angeles Rams,Carolina Panthers,3,44.5
 2016,9,Green Bay Packers,Indianapolis Colts,-7.5,52
 2016,9,San Diego Chargers,Tennessee Titans,-4,47.5
 2016,9,Oakland Raiders,Denver Broncos,0,44.5
@@ -1658,11 +1658,11 @@ Year,Week,Home,Away,Spread,Total
 2016,10,Jacksonville Jaguars,Houston Texans,-3,42.5
 2016,10,Carolina Panthers,Kansas City Chiefs,-3,44
 2016,10,New Orleans Saints,Denver Broncos,-3,50
-2016,10,New York Jets,Los Angeles Rams,-1,38.5
+2016,10,New York Jets,Los Angeles Rams,1,38.5
 2016,10,Philadelphia Eagles,Atlanta Falcons,-1.5,49
 2016,10,Washington Redskins,Minnesota Vikings,-2.5,42
-2016,10,Tennessee Titans,Green Bay Packers,-3,49
-2016,10,Tampa Bay Buccaneers,Chicago Bears,-2.5,45
+2016,10,Tennessee Titans,Green Bay Packers,3,49
+2016,10,Tampa Bay Buccaneers,Chicago Bears,2.5,45
 2016,10,San Diego Chargers,Miami Dolphins,-4.5,49
 2016,10,Arizona Cardinals,San Francisco 49ers,-14,47
 2016,10,Pittsburgh Steelers,Dallas Cowboys,-3,51
@@ -1676,35 +1676,35 @@ Year,Week,Home,Away,Spread,Total
 2016,11,Minnesota Vikings,Arizona Cardinals,-2,40
 2016,11,Cincinnati Bengals,Buffalo Bills,-2.5,48
 2016,11,Dallas Cowboys,Baltimore Ravens,-7,44.5
-2016,11,Cleveland Browns,Pittsburgh Steelers,-9,45.5
-2016,11,Los Angeles Rams,Miami Dolphins,-1,38.5
-2016,11,San Francisco 49ers,New England Patriots,-12,51.5
+2016,11,Cleveland Browns,Pittsburgh Steelers,9,45.5
+2016,11,Los Angeles Rams,Miami Dolphins,1,38.5
+2016,11,San Francisco 49ers,New England Patriots,12,51.5
 2016,11,Seattle Seahawks,Philadelphia Eagles,-6.5,43
 2016,11,Washington Redskins,Green Bay Packers,-3,48.5
 2016,11,Oakland Raiders,Houston Texans,-6.5,46
 2016,12,Detroit Lions,Minnesota Vikings,-1.5,42
 2016,12,Dallas Cowboys,Washington Redskins,-5.5,53.5
-2016,12,Indianapolis Colts,Pittsburgh Steelers,-8.5,49.5
-2016,12,Houston Texans,San Diego Chargers,-2.5,46
-2016,12,Chicago Bears,Tennessee Titans,-6.5,42
+2016,12,Indianapolis Colts,Pittsburgh Steelers,8.5,49.5
+2016,12,Houston Texans,San Diego Chargers,2.5,46
+2016,12,Chicago Bears,Tennessee Titans,6.5,42
 2016,12,Buffalo Bills,Jacksonville Jaguars,-8.5,44
 2016,12,Baltimore Ravens,Cincinnati Bengals,-3.5,42
 2016,12,Atlanta Falcons,Arizona Cardinals,-4,49
 2016,12,Miami Dolphins,San Francisco 49ers,-7,45
 2016,12,New Orleans Saints,Los Angeles Rams,-8,45
-2016,12,Cleveland Browns,New York Giants,-6.5,47
-2016,12,Tampa Bay Buccaneers,Seattle Seahawks,-5.5,46
+2016,12,Cleveland Browns,New York Giants,6.5,47
+2016,12,Tampa Bay Buccaneers,Seattle Seahawks,5.5,46
 2016,12,Oakland Raiders,Carolina Panthers,-3.5,48.5
 2016,12,Denver Broncos,Kansas City Chiefs,-3.5,40
-2016,12,New York Jets,New England Patriots,-9.5,48
+2016,12,New York Jets,New England Patriots,9.5,48
 2016,12,Philadelphia Eagles,Green Bay Packers,-4,47.5
-2016,13,Minnesota Vikings,Dallas Cowboys,-3,43.5
-2016,13,Jacksonville Jaguars,Denver Broncos,-3.5,38.5
+2016,13,Minnesota Vikings,Dallas Cowboys,3,43.5
+2016,13,Jacksonville Jaguars,Denver Broncos,3.5,38.5
 2016,13,Atlanta Falcons,Kansas City Chiefs,-5,50
 2016,13,Green Bay Packers,Houston Texans,-7,44.5
 2016,13,Cincinnati Bengals,Philadelphia Eagles,-1.5,42
 2016,13,New Orleans Saints,Detroit Lions,-6.5,53.5
-2016,13,Chicago Bears,San Francisco 49ers,-1,44
+2016,13,Chicago Bears,San Francisco 49ers,1,44
 2016,13,New England Patriots,Los Angeles Rams,-13.5,44.5
 2016,13,Baltimore Ravens,Miami Dolphins,-3.5,41.5
 2016,13,Oakland Raiders,Buffalo Bills,-3,49
@@ -1717,43 +1717,43 @@ Year,Week,Home,Away,Spread,Total
 2016,14,Tennessee Titans,Denver Broncos,-2,44
 2016,14,Carolina Panthers,San Diego Chargers,-1,48.5
 2016,14,Indianapolis Colts,Houston Texans,-6.5,47.5
-2016,14,Cleveland Browns,Cincinnati Bengals,-5,41.5
-2016,14,Buffalo Bills,Pittsburgh Steelers,-2,45.5
-2016,14,Miami Dolphins,Arizona Cardinals,-2,44
+2016,14,Cleveland Browns,Cincinnati Bengals,5,41.5
+2016,14,Buffalo Bills,Pittsburgh Steelers,2,45.5
+2016,14,Miami Dolphins,Arizona Cardinals,2,44
 2016,14,Detroit Lions,Chicago Bears,-7.5,42
-2016,14,Jacksonville Jaguars,Minnesota Vikings,-3.5,38
+2016,14,Jacksonville Jaguars,Minnesota Vikings,3.5,38
 2016,14,Tampa Bay Buccaneers,New Orleans Saints,-2,52
-2016,14,Philadelphia Eagles,Washington Redskins,-2.5,48.5
+2016,14,Philadelphia Eagles,Washington Redskins,2.5,48.5
 2016,14,San Francisco 49ers,New York Jets,-3,43
-2016,14,Green Bay Packers,Seattle Seahawks,-3,47
-2016,14,Los Angeles Rams,Atlanta Falcons,-5,44
-2016,14,New York Giants,Dallas Cowboys,-3.5,47
+2016,14,Green Bay Packers,Seattle Seahawks,3,47
+2016,14,Los Angeles Rams,Atlanta Falcons,5,44
+2016,14,New York Giants,Dallas Cowboys,3.5,47
 2016,14,New England Patriots,Baltimore Ravens,-6,45.5
 2016,15,Seattle Seahawks,Los Angeles Rams,-15.5,39.5
-2016,15,New York Jets,Miami Dolphins,-2.5,39.5
+2016,15,New York Jets,Miami Dolphins,2.5,39.5
 2016,15,Dallas Cowboys,Tampa Bay Buccaneers,-7,47.5
 2016,15,New York Giants,Detroit Lions,-4,42
 2016,15,Baltimore Ravens,Philadelphia Eagles,-5,41
-2016,15,Chicago Bears,Green Bay Packers,-4.5,40
+2016,15,Chicago Bears,Green Bay Packers,4.5,40
 2016,15,Minnesota Vikings,Indianapolis Colts,-5,45
 2016,15,Buffalo Bills,Cleveland Browns,-10.5,43
 2016,15,Kansas City Chiefs,Tennessee Titans,-6,43
 2016,15,Houston Texans,Jacksonville Jaguars,-3.5,39.5
 2016,15,Arizona Cardinals,New Orleans Saints,-3,48.5
 2016,15,Atlanta Falcons,San Francisco 49ers,-14,51.5
-2016,15,Denver Broncos,New England Patriots,-3,43.5
-2016,15,San Diego Chargers,Oakland Raiders,-2.5,50
-2016,15,Cincinnati Bengals,Pittsburgh Steelers,-3,46
+2016,15,Denver Broncos,New England Patriots,3,43.5
+2016,15,San Diego Chargers,Oakland Raiders,2.5,50
+2016,15,Cincinnati Bengals,Pittsburgh Steelers,3,46
 2016,15,Washington Redskins,Carolina Panthers,-7,51
 2016,16,Philadelphia Eagles,New York Giants,-1,42.5
-2016,16,Chicago Bears,Washington Redskins,-3,49
+2016,16,Chicago Bears,Washington Redskins,3,49
 2016,16,Buffalo Bills,Miami Dolphins,-4.5,44.5
 2016,16,New Orleans Saints,Tampa Bay Buccaneers,-3,53
-2016,16,Carolina Panthers,Atlanta Falcons,-3,49
+2016,16,Carolina Panthers,Atlanta Falcons,3,49
 2016,16,Green Bay Packers,Minnesota Vikings,-6.5,44.5
 2016,16,New England Patriots,New York Jets,-17,45
-2016,16,Jacksonville Jaguars,Tennessee Titans,-4.5,44
-2016,16,Cleveland Browns,San Diego Chargers,-5,45.5
+2016,16,Jacksonville Jaguars,Tennessee Titans,4.5,44
+2016,16,Cleveland Browns,San Diego Chargers,5,45.5
 2016,16,Oakland Raiders,Indianapolis Colts,-3.5,52.5
 2016,16,Los Angeles Rams,San Francisco 49ers,-6,39.5
 2016,16,Seattle Seahawks,Arizona Cardinals,-9,43.5
@@ -1762,78 +1762,78 @@ Year,Week,Home,Away,Spread,Total
 2016,16,Kansas City Chiefs,Denver Broncos,-3.5,38
 2016,16,Dallas Cowboys,Detroit Lions,-6.5,46.5
 2016,17,Tennessee Titans,Houston Texans,-3,41
-2016,17,New York Jets,Buffalo Bills,-4,43
-2016,17,Cincinnati Bengals,Baltimore Ravens,-2.5,40.5
+2016,17,New York Jets,Buffalo Bills,4,43
+2016,17,Cincinnati Bengals,Baltimore Ravens,2.5,40.5
 2016,17,Washington Redskins,New York Giants,-9,47
-2016,17,Detroit Lions,Green Bay Packers,-3.5,50.5
+2016,17,Detroit Lions,Green Bay Packers,3.5,50.5
 2016,17,Indianapolis Colts,Jacksonville Jaguars,-5.5,49
 2016,17,Philadelphia Eagles,Dallas Cowboys,-6.5,44
 2016,17,Minnesota Vikings,Chicago Bears,-6.5,44
 2016,17,Tampa Bay Buccaneers,Carolina Panthers,-3.5,44.5
 2016,17,Pittsburgh Steelers,Cleveland Browns,-3.5,41.5
 2016,17,Atlanta Falcons,New Orleans Saints,-7.5,58.5
-2016,17,Miami Dolphins,New England Patriots,-8,47
-2016,17,Los Angeles Rams,Arizona Cardinals,-7,39
-2016,17,San Diego Chargers,Kansas City Chiefs,-6,44.5
-2016,17,San Francisco 49ers,Seattle Seahawks,-11.5,45
+2016,17,Miami Dolphins,New England Patriots,8,47
+2016,17,Los Angeles Rams,Arizona Cardinals,7,39
+2016,17,San Diego Chargers,Kansas City Chiefs,6,44.5
+2016,17,San Francisco 49ers,Seattle Seahawks,11.5,45
 2016,17,Denver Broncos,Oakland Raiders,-1,40
 2017,1,New England Patriots,Kansas City Chiefs,-8,48
 2017,1,Buffalo Bills,New York Jets,-7.5,41.5
-2017,1,Chicago Bears,Atlanta Falcons,-7,48
+2017,1,Chicago Bears,Atlanta Falcons,7,48
 2017,1,Houston Texans,Jacksonville Jaguars,-6,38
-2017,1,Washington Redskins,Philadelphia Eagles,-1,49.5
-2017,1,Detroit Lions,Arizona Cardinals,-2,48.5
+2017,1,Washington Redskins,Philadelphia Eagles,1,49.5
+2017,1,Detroit Lions,Arizona Cardinals,2,48.5
 2017,1,Tennessee Titans,Oakland Raiders,-2.5,50.5
-2017,1,Miami Dolphins,Tampa Bay Buccaneers,-2.5,41.5
+2017,1,Miami Dolphins,Tampa Bay Buccaneers,2.5,41.5
 2017,1,Cincinnati Bengals,Baltimore Ravens,-3,41.5
-2017,1,Cleveland Browns,Pittsburgh Steelers,-10,47
+2017,1,Cleveland Browns,Pittsburgh Steelers,10,47
 2017,1,Los Angeles Rams,Indianapolis Colts,-3.5,41.5
 2017,1,Green Bay Packers,Seattle Seahawks,-3,50
-2017,1,San Francisco 49ers,Carolina Panthers,-5,45
+2017,1,San Francisco 49ers,Carolina Panthers,5,45
 2017,1,Dallas Cowboys,New York Giants,-6,46.5
 2017,1,Minnesota Vikings,New Orleans Saints,-3,47.5
 2017,1,Denver Broncos,Los Angeles Chargers,-3,41.5
 2017,2,Cincinnati Bengals,Houston Texans,-5.5,38.5
-2017,2,Jacksonville Jaguars,Tennessee Titans,-1.5,41.5
+2017,2,Jacksonville Jaguars,Tennessee Titans,1.5,41.5
 2017,2,Baltimore Ravens,Cleveland Browns,-7.5,39.5
 2017,2,Carolina Panthers,Buffalo Bills,-6.5,43.5
-2017,2,New Orleans Saints,New England Patriots,-6,55
-2017,2,Indianapolis Colts,Arizona Cardinals,-7,44
+2017,2,New Orleans Saints,New England Patriots,6,55
+2017,2,Indianapolis Colts,Arizona Cardinals,7,44
 2017,2,Kansas City Chiefs,Philadelphia Eagles,-4.5,47
 2017,2,Pittsburgh Steelers,Minnesota Vikings,-8.5,43
 2017,2,Tampa Bay Buccaneers,Chicago Bears,-7,44
 2017,2,Los Angeles Chargers,Miami Dolphins,-3.5,46.5
 2017,2,Oakland Raiders,New York Jets,-14,43.5
 2017,2,Los Angeles Rams,Washington Redskins,-3,46.5
-2017,2,Denver Broncos,Dallas Cowboys,-2.5,44
+2017,2,Denver Broncos,Dallas Cowboys,2.5,44
 2017,2,Seattle Seahawks,San Francisco 49ers,-13.5,41
 2017,2,Atlanta Falcons,Green Bay Packers,-3,55
 2017,2,New York Giants,Detroit Lions,-3,42.5
-2017,3,San Francisco 49ers,Los Angeles Rams,-3,40
-2017,3,Jacksonville Jaguars,Baltimore Ravens,-3,38.5
-2017,3,Indianapolis Colts,Cleveland Browns,-1,42
-2017,3,Chicago Bears,Pittsburgh Steelers,-7,43.5
-2017,3,New York Jets,Miami Dolphins,-5.5,43
-2017,3,Buffalo Bills,Denver Broncos,-3.5,39.5
+2017,3,San Francisco 49ers,Los Angeles Rams,3,40
+2017,3,Jacksonville Jaguars,Baltimore Ravens,3,38.5
+2017,3,Indianapolis Colts,Cleveland Browns,1,42
+2017,3,Chicago Bears,Pittsburgh Steelers,7,43.5
+2017,3,New York Jets,Miami Dolphins,5.5,43
+2017,3,Buffalo Bills,Denver Broncos,3.5,39.5
 2017,3,New England Patriots,Houston Texans,-13.5,44.5
 2017,3,Carolina Panthers,New Orleans Saints,-5.5,46.5
-2017,3,Minnesota Vikings,Tampa Bay Buccaneers,-1,41
-2017,3,Detroit Lions,Atlanta Falcons,-3,51
+2017,3,Minnesota Vikings,Tampa Bay Buccaneers,1,41
+2017,3,Detroit Lions,Atlanta Falcons,3,51
 2017,3,Philadelphia Eagles,New York Giants,-5.5,42.5
 2017,3,Tennessee Titans,Seattle Seahawks,-2.5,41.5
-2017,3,Los Angeles Chargers,Kansas City Chiefs,-3,48
+2017,3,Los Angeles Chargers,Kansas City Chiefs,3,48
 2017,3,Green Bay Packers,Cincinnati Bengals,-7,47.5
-2017,3,Washington Redskins,Oakland Raiders,-3.5,53.5
-2017,3,Arizona Cardinals,Dallas Cowboys,-3,46.5
+2017,3,Washington Redskins,Oakland Raiders,3.5,53.5
+2017,3,Arizona Cardinals,Dallas Cowboys,3,46.5
 2017,4,Green Bay Packers,Chicago Bears,-7,44.5
-2017,4,Miami Dolphins,New Orleans Saints,-4,52
+2017,4,Miami Dolphins,New Orleans Saints,4,52
 2017,4,New England Patriots,Carolina Panthers,-9.5,48
 2017,4,Dallas Cowboys,Los Angeles Rams,-5.5,50.5
 2017,4,Minnesota Vikings,Detroit Lions,-2.5,43.5
-2017,4,Houston Texans,Tennessee Titans,-2.5,43
-2017,4,New York Jets,Jacksonville Jaguars,-4,38.5
-2017,4,Cleveland Browns,Cincinnati Bengals,-3.5,41.5
-2017,4,Baltimore Ravens,Pittsburgh Steelers,-3.5,42
+2017,4,Houston Texans,Tennessee Titans,2.5,43
+2017,4,New York Jets,Jacksonville Jaguars,4,38.5
+2017,4,Cleveland Browns,Cincinnati Bengals,3.5,41.5
+2017,4,Baltimore Ravens,Pittsburgh Steelers,3.5,42
 2017,4,Atlanta Falcons,Buffalo Bills,-8,48.5
 2017,4,Tampa Bay Buccaneers,New York Giants,-2.5,45.5
 2017,4,Los Angeles Chargers,Philadelphia Eagles,-2,48
@@ -1841,10 +1841,10 @@ Year,Week,Home,Away,Spread,Total
 2017,4,Denver Broncos,Oakland Raiders,-3.5,44
 2017,4,Seattle Seahawks,Indianapolis Colts,-12.5,41.5
 2017,4,Kansas City Chiefs,Washington Redskins,-6.5,47.5
-2017,5,Tampa Bay Buccaneers,New England Patriots,-4,54.5
+2017,5,Tampa Bay Buccaneers,New England Patriots,4,54.5
 2017,5,New York Giants,Los Angeles Chargers,-3,45.5
 2017,5,Cincinnati Bengals,Buffalo Bills,-3,39
-2017,5,Cleveland Browns,New York Jets,-1.5,41.5
+2017,5,Cleveland Browns,New York Jets,1.5,41.5
 2017,5,Pittsburgh Steelers,Jacksonville Jaguars,-7.5,41.5
 2017,5,Miami Dolphins,Tennessee Titans,-1,41.5
 2017,5,Indianapolis Colts,San Francisco 49ers,-1.5,44
@@ -1853,193 +1853,193 @@ Year,Week,Home,Away,Spread,Total
 2017,5,Los Angeles Rams,Seattle Seahawks,-2,47
 2017,5,Oakland Raiders,Baltimore Ravens,-3,40.5
 2017,5,Dallas Cowboys,Green Bay Packers,-2.5,52.5
-2017,5,Houston Texans,Kansas City Chiefs,-2,45
-2017,5,Chicago Bears,Minnesota Vikings,-3.5,41
+2017,5,Houston Texans,Kansas City Chiefs,2,45
+2017,5,Chicago Bears,Minnesota Vikings,3.5,41
 2017,6,Carolina Panthers,Philadelphia Eagles,-3,44
 2017,6,Houston Texans,Cleveland Browns,-7.5,46
-2017,6,New York Jets,New England Patriots,-9.5,48.5
+2017,6,New York Jets,New England Patriots,9.5,48.5
 2017,6,Atlanta Falcons,Miami Dolphins,-13.5,46
 2017,6,New Orleans Saints,Detroit Lions,-5.5,50.5
-2017,6,Minnesota Vikings,Green Bay Packers,-3,46
+2017,6,Minnesota Vikings,Green Bay Packers,3,46
 2017,6,Baltimore Ravens,Chicago Bears,-5.5,39.5
 2017,6,Washington Redskins,San Francisco 49ers,-11,46.5
 2017,6,Jacksonville Jaguars,Los Angeles Rams,-1,42
-2017,6,Arizona Cardinals,Tampa Bay Buccaneers,-2.5,47
+2017,6,Arizona Cardinals,Tampa Bay Buccaneers,2.5,47
 2017,6,Kansas City Chiefs,Pittsburgh Steelers,-3.5,46
 2017,6,Oakland Raiders,Los Angeles Chargers,-3,48
 2017,6,Denver Broncos,New York Giants,-13.5,37.5
 2017,6,Tennessee Titans,Indianapolis Colts,-7,46.5
-2017,7,Oakland Raiders,Kansas City Chiefs,-3,46.5
-2017,7,Cleveland Browns,Tennessee Titans,-6,42.5
-2017,7,Indianapolis Colts,Jacksonville Jaguars,-3,41.5
+2017,7,Oakland Raiders,Kansas City Chiefs,3,46.5
+2017,7,Cleveland Browns,Tennessee Titans,6,42.5
+2017,7,Indianapolis Colts,Jacksonville Jaguars,3,41.5
 2017,7,Pittsburgh Steelers,Cincinnati Bengals,-4,40
 2017,7,Minnesota Vikings,Baltimore Ravens,-5,38
 2017,7,Miami Dolphins,New York Jets,-3,39.5
 2017,7,Buffalo Bills,Tampa Bay Buccaneers,-3,46
-2017,7,Chicago Bears,Carolina Panthers,-3,39.5
-2017,7,Green Bay Packers,New Orleans Saints,-4,45.5
+2017,7,Chicago Bears,Carolina Panthers,3,39.5
+2017,7,Green Bay Packers,New Orleans Saints,4,45.5
 2017,7,Los Angeles Rams,Arizona Cardinals,-3,45.5
-2017,7,San Francisco 49ers,Dallas Cowboys,-6.5,48
-2017,7,New York Giants,Seattle Seahawks,-4,39
-2017,7,Los Angeles Chargers,Denver Broncos,-1,41
+2017,7,San Francisco 49ers,Dallas Cowboys,6.5,48
+2017,7,New York Giants,Seattle Seahawks,4,39
+2017,7,Los Angeles Chargers,Denver Broncos,1,41
 2017,7,New England Patriots,Atlanta Falcons,-3,57
 2017,7,Philadelphia Eagles,Washington Redskins,-5.5,49
 2017,8,Baltimore Ravens,Miami Dolphins,-3,38
-2017,8,Cleveland Browns,Minnesota Vikings,-11,38.5
+2017,8,Cleveland Browns,Minnesota Vikings,11,38.5
 2017,8,New Orleans Saints,Chicago Bears,-8.5,46
-2017,8,New York Jets,Atlanta Falcons,-6.5,44
+2017,8,New York Jets,Atlanta Falcons,6.5,44
 2017,8,Tampa Bay Buccaneers,Carolina Panthers,-1,46
 2017,8,Philadelphia Eagles,San Francisco 49ers,-13,44.5
 2017,8,Buffalo Bills,Oakland Raiders,-2,47.5
 2017,8,Cincinnati Bengals,Indianapolis Colts,-10.5,44
 2017,8,New England Patriots,Los Angeles Chargers,-7,49
 2017,8,Seattle Seahawks,Houston Texans,-6.5,45
-2017,8,Washington Redskins,Dallas Cowboys,-3,46.5
-2017,8,Detroit Lions,Pittsburgh Steelers,-3,45
+2017,8,Washington Redskins,Dallas Cowboys,3,46.5
+2017,8,Detroit Lions,Pittsburgh Steelers,3,45
 2017,8,Kansas City Chiefs,Denver Broncos,-7,42
-2017,9,New York Jets,Buffalo Bills,-3.5,42.5
+2017,9,New York Jets,Buffalo Bills,3.5,42.5
 2017,9,Philadelphia Eagles,Denver Broncos,-7,41
-2017,9,New York Giants,Los Angeles Rams,-6,42.5
+2017,9,New York Giants,Los Angeles Rams,6,42.5
 2017,9,New Orleans Saints,Tampa Bay Buccaneers,-7,54.5
 2017,9,Jacksonville Jaguars,Cincinnati Bengals,-5.5,38
-2017,9,Carolina Panthers,Atlanta Falcons,-3,42
+2017,9,Carolina Panthers,Atlanta Falcons,3,42
 2017,9,Houston Texans,Indianapolis Colts,-6,45
 2017,9,Tennessee Titans,Baltimore Ravens,-3,41
-2017,9,San Francisco 49ers,Arizona Cardinals,-2.5,39
+2017,9,San Francisco 49ers,Arizona Cardinals,2.5,39
 2017,9,Seattle Seahawks,Washington Redskins,-8.5,44.5
 2017,9,Dallas Cowboys,Kansas City Chiefs,-2.5,53
-2017,9,Miami Dolphins,Oakland Raiders,-3,45
-2017,9,Green Bay Packers,Detroit Lions,-2.5,43
-2017,10,Arizona Cardinals,Seattle Seahawks,-6,40.5
-2017,10,Washington Redskins,Minnesota Vikings,-1,43
+2017,9,Miami Dolphins,Oakland Raiders,3,45
+2017,9,Green Bay Packers,Detroit Lions,2.5,43
+2017,10,Arizona Cardinals,Seattle Seahawks,6,40.5
+2017,10,Washington Redskins,Minnesota Vikings,1,43
 2017,10,Chicago Bears,Green Bay Packers,-5,37.5
-2017,10,Indianapolis Colts,Pittsburgh Steelers,-11,47
+2017,10,Indianapolis Colts,Pittsburgh Steelers,11,47
 2017,10,Jacksonville Jaguars,Los Angeles Chargers,-5,40.5
 2017,10,Tampa Bay Buccaneers,New York Jets,-1,44.5
 2017,10,Tennessee Titans,Cincinnati Bengals,-4.5,40.5
-2017,10,Buffalo Bills,New Orleans Saints,-2,48
+2017,10,Buffalo Bills,New Orleans Saints,2,48
 2017,10,Detroit Lions,Cleveland Browns,-10,42.5
 2017,10,Los Angeles Rams,Houston Texans,-13,45.5
 2017,10,Atlanta Falcons,Dallas Cowboys,-3.5,49
-2017,10,San Francisco 49ers,New York Giants,-3,41.5
-2017,10,Denver Broncos,New England Patriots,-7,45
+2017,10,San Francisco 49ers,New York Giants,3,41.5
+2017,10,Denver Broncos,New England Patriots,7,45
 2017,10,Carolina Panthers,Miami Dolphins,-8,38.5
 2017,11,Pittsburgh Steelers,Tennessee Titans,-7,44.5
-2017,11,Chicago Bears,Detroit Lions,-3,41
-2017,11,New York Giants,Kansas City Chiefs,-10,45
-2017,11,Miami Dolphins,Tampa Bay Buccaneers,-1.5,44
-2017,11,Green Bay Packers,Baltimore Ravens,-2.5,38.5
+2017,11,Chicago Bears,Detroit Lions,3,41
+2017,11,New York Giants,Kansas City Chiefs,10,45
+2017,11,Miami Dolphins,Tampa Bay Buccaneers,1.5,44
+2017,11,Green Bay Packers,Baltimore Ravens,2.5,38.5
 2017,11,Minnesota Vikings,Los Angeles Rams,-1.5,46.5
 2017,11,Houston Texans,Arizona Cardinals,-2.5,38
-2017,11,Cleveland Browns,Jacksonville Jaguars,-7,37
+2017,11,Cleveland Browns,Jacksonville Jaguars,7,37
 2017,11,New Orleans Saints,Washington Redskins,-9.5,53
 2017,11,Los Angeles Chargers,Buffalo Bills,-7,41.5
 2017,11,Denver Broncos,Cincinnati Bengals,-2.5,37.5
-2017,11,Oakland Raiders,New England Patriots,-7,55.5
-2017,11,Dallas Cowboys,Philadelphia Eagles,-6.5,48.5
-2017,11,Seattle Seahawks,Atlanta Falcons,-1,46
-2017,12,Detroit Lions,Minnesota Vikings,-2.5,46
-2017,12,Dallas Cowboys,Los Angeles Chargers,-1,46.5
+2017,11,Oakland Raiders,New England Patriots,7,55.5
+2017,11,Dallas Cowboys,Philadelphia Eagles,6.5,48.5
+2017,11,Seattle Seahawks,Atlanta Falcons,1,46
+2017,12,Detroit Lions,Minnesota Vikings,2.5,46
+2017,12,Dallas Cowboys,Los Angeles Chargers,1,46.5
 2017,12,Washington Redskins,New York Giants,-7,44
 2017,12,Cincinnati Bengals,Cleveland Browns,-7.5,39
 2017,12,Philadelphia Eagles,Chicago Bears,-13.5,43.5
 2017,12,New England Patriots,Miami Dolphins,-16.5,49
 2017,12,Kansas City Chiefs,Buffalo Bills,-9,47
 2017,12,Atlanta Falcons,Tampa Bay Buccaneers,-10,47
-2017,12,New York Jets,Carolina Panthers,-6,39.5
-2017,12,Indianapolis Colts,Tennessee Titans,-3,46.5
-2017,12,San Francisco 49ers,Seattle Seahawks,-7,45
+2017,12,New York Jets,Carolina Panthers,6,39.5
+2017,12,Indianapolis Colts,Tennessee Titans,3,46.5
+2017,12,San Francisco 49ers,Seattle Seahawks,7,45
 2017,12,Los Angeles Rams,New Orleans Saints,-2.5,54
-2017,12,Arizona Cardinals,Jacksonville Jaguars,-6,37
+2017,12,Arizona Cardinals,Jacksonville Jaguars,6,37
 2017,12,Oakland Raiders,Denver Broncos,-4,41
 2017,12,Pittsburgh Steelers,Green Bay Packers,-14,43
 2017,12,Baltimore Ravens,Houston Texans,-7.5,39.5
-2017,13,Dallas Cowboys,Washington Redskins,-1.5,47
+2017,13,Dallas Cowboys,Washington Redskins,1.5,47
 2017,13,Baltimore Ravens,Detroit Lions,-2.5,43
 2017,13,Chicago Bears,San Francisco 49ers,-2.5,42
 2017,13,Atlanta Falcons,Minnesota Vikings,-2,48.5
-2017,13,Buffalo Bills,New England Patriots,-7.5,49
-2017,13,Miami Dolphins,Denver Broncos,-1.5,41
+2017,13,Buffalo Bills,New England Patriots,7.5,49
+2017,13,Miami Dolphins,Denver Broncos,1.5,41
 2017,13,Tennessee Titans,Houston Texans,-7,42.5
 2017,13,Jacksonville Jaguars,Indianapolis Colts,-10,41
 2017,13,Green Bay Packers,Tampa Bay Buccaneers,-3,45
-2017,13,New York Jets,Kansas City Chiefs,-4,44
+2017,13,New York Jets,Kansas City Chiefs,4,44
 2017,13,New Orleans Saints,Carolina Panthers,-6,48
 2017,13,Los Angeles Chargers,Cleveland Browns,-13.5,44.5
-2017,13,Arizona Cardinals,Los Angeles Rams,-7,43
+2017,13,Arizona Cardinals,Los Angeles Rams,7,43
 2017,13,Oakland Raiders,New York Giants,-9.5,43
-2017,13,Seattle Seahawks,Philadelphia Eagles,-4,46.5
-2017,13,Cincinnati Bengals,Pittsburgh Steelers,-4.5,43
+2017,13,Seattle Seahawks,Philadelphia Eagles,4,46.5
+2017,13,Cincinnati Bengals,Pittsburgh Steelers,4.5,43
 2017,14,Atlanta Falcons,New Orleans Saints,-2.5,52
 2017,14,Tampa Bay Buccaneers,Detroit Lions,0,48
 2017,14,Cincinnati Bengals,Chicago Bears,-6,40
 2017,14,Buffalo Bills,Indianapolis Colts,-3,36.5
 2017,14,Jacksonville Jaguars,Seattle Seahawks,-2.5,41
 2017,14,Kansas City Chiefs,Oakland Raiders,-4.5,48.5
-2017,14,Carolina Panthers,Minnesota Vikings,-2.5,40.5
-2017,14,Cleveland Browns,Green Bay Packers,-2.5,38.5
+2017,14,Carolina Panthers,Minnesota Vikings,2.5,40.5
+2017,14,Cleveland Browns,Green Bay Packers,2.5,38.5
 2017,14,Houston Texans,San Francisco 49ers,-1.5,45.5
 2017,14,Los Angeles Chargers,Washington Redskins,-6,46.5
-2017,14,Denver Broncos,New York Jets,-1,40.5
-2017,14,Arizona Cardinals,Tennessee Titans,-3,42
-2017,14,Los Angeles Rams,Philadelphia Eagles,-1,47.5
-2017,14,New York Giants,Dallas Cowboys,-4,42.5
+2017,14,Denver Broncos,New York Jets,1,40.5
+2017,14,Arizona Cardinals,Tennessee Titans,3,42
+2017,14,Los Angeles Rams,Philadelphia Eagles,1,47.5
+2017,14,New York Giants,Dallas Cowboys,4,42.5
 2017,14,Pittsburgh Steelers,Baltimore Ravens,-6,43
-2017,14,Miami Dolphins,New England Patriots,-10.5,48
-2017,15,Indianapolis Colts,Denver Broncos,-3,40.5
+2017,14,Miami Dolphins,New England Patriots,10.5,48
+2017,15,Indianapolis Colts,Denver Broncos,3,40.5
 2017,15,Detroit Lions,Chicago Bears,-5,43.5
 2017,15,Kansas City Chiefs,Los Angeles Chargers,0,47
-2017,15,New York Giants,Philadelphia Eagles,-7.5,41
+2017,15,New York Giants,Philadelphia Eagles,7.5,41
 2017,15,Carolina Panthers,Green Bay Packers,-3,47
 2017,15,Minnesota Vikings,Cincinnati Bengals,-13,42.5
 2017,15,Buffalo Bills,Miami Dolphins,-3.5,40
 2017,15,Jacksonville Jaguars,Houston Texans,-10.5,39.5
 2017,15,New Orleans Saints,New York Jets,-16,47
 2017,15,Washington Redskins,Arizona Cardinals,-4,40
-2017,15,Cleveland Browns,Baltimore Ravens,-7,42.5
+2017,15,Cleveland Browns,Baltimore Ravens,7,42.5
 2017,15,Seattle Seahawks,Los Angeles Rams,0,47.5
-2017,15,Pittsburgh Steelers,New England Patriots,-2.5,53
+2017,15,Pittsburgh Steelers,New England Patriots,2.5,53
 2017,15,San Francisco 49ers,Tennessee Titans,-2.5,44.5
-2017,15,Oakland Raiders,Dallas Cowboys,-3,46
-2017,15,Tampa Bay Buccaneers,Atlanta Falcons,-7,49.5
+2017,15,Oakland Raiders,Dallas Cowboys,3,46
+2017,15,Tampa Bay Buccaneers,Atlanta Falcons,7,49.5
 2017,16,Baltimore Ravens,Indianapolis Colts,-13.5,41
-2017,16,Green Bay Packers,Minnesota Vikings,-9,41
-2017,16,Cincinnati Bengals,Detroit Lions,-3,43.5
-2017,16,New York Jets,Los Angeles Chargers,-7,42.5
-2017,16,Tennessee Titans,Los Angeles Rams,-6,46
+2017,16,Green Bay Packers,Minnesota Vikings,9,41
+2017,16,Cincinnati Bengals,Detroit Lions,3,43.5
+2017,16,New York Jets,Los Angeles Chargers,7,42.5
+2017,16,Tennessee Titans,Los Angeles Rams,6,46
 2017,16,Chicago Bears,Cleveland Browns,-5.5,36.5
 2017,16,Carolina Panthers,Tampa Bay Buccaneers,-10,47
 2017,16,New Orleans Saints,Atlanta Falcons,-5.5,52
 2017,16,Washington Redskins,Denver Broncos,-3,39
 2017,16,Kansas City Chiefs,Miami Dolphins,-11,43.5
 2017,16,New England Patriots,Buffalo Bills,-11,47.5
-2017,16,San Francisco 49ers,Jacksonville Jaguars,-4,43
+2017,16,San Francisco 49ers,Jacksonville Jaguars,4,43
 2017,16,Arizona Cardinals,New York Giants,-3,39.5
 2017,16,Dallas Cowboys,Seattle Seahawks,-4.5,47.5
-2017,16,Houston Texans,Pittsburgh Steelers,-9,45.5
+2017,16,Houston Texans,Pittsburgh Steelers,9,45.5
 2017,16,Philadelphia Eagles,Oakland Raiders,-10,46
 2017,17,Baltimore Ravens,Cincinnati Bengals,-8,40
 2017,17,Detroit Lions,Green Bay Packers,-7,45
-2017,17,Miami Dolphins,Buffalo Bills,-2.5,41.5
+2017,17,Miami Dolphins,Buffalo Bills,2.5,41.5
 2017,17,Atlanta Falcons,Carolina Panthers,-5,44.5
-2017,17,Tampa Bay Buccaneers,New Orleans Saints,-6,49
+2017,17,Tampa Bay Buccaneers,New Orleans Saints,6,49
 2017,17,Tennessee Titans,Jacksonville Jaguars,-2.5,40.5
 2017,17,New England Patriots,New York Jets,-16,43
 2017,17,Indianapolis Colts,Houston Texans,-5.5,42
 2017,17,Pittsburgh Steelers,Cleveland Browns,-5,38
-2017,17,New York Giants,Washington Redskins,-5,41
+2017,17,New York Giants,Washington Redskins,5,41
 2017,17,Minnesota Vikings,Chicago Bears,-13,38
-2017,17,Philadelphia Eagles,Dallas Cowboys,-4,41
+2017,17,Philadelphia Eagles,Dallas Cowboys,4,41
 2017,17,Los Angeles Chargers,Oakland Raiders,-7,43
 2017,17,Seattle Seahawks,Arizona Cardinals,-8,38
 2017,17,Denver Broncos,Kansas City Chiefs,-3,37.5
-2017,17,Los Angeles Rams,San Francisco 49ers,-6.5,44
+2017,17,Los Angeles Rams,San Francisco 49ers,6.5,44
 2018,1,Philadelphia Eagles,Atlanta Falcons,0,44.5
-2018,1,Cleveland Browns,Pittsburgh Steelers,-3.5,41
+2018,1,Cleveland Browns,Pittsburgh Steelers,3.5,41
 2018,1,Minnesota Vikings,San Francisco 49ers,-6.5,46
-2018,1,Indianapolis Colts,Cincinnati Bengals,-1,47.5
+2018,1,Indianapolis Colts,Cincinnati Bengals,1,47.5
 2018,1,Baltimore Ravens,Buffalo Bills,-8,38.5
-2018,1,New York Giants,Jacksonville Jaguars,-3,42.5
+2018,1,New York Giants,Jacksonville Jaguars,3,42.5
 2018,1,New Orleans Saints,Tampa Bay Buccaneers,-10,49.5
 2018,1,New England Patriots,Houston Texans,-6,49.5
 2018,1,Miami Dolphins,Tennessee Titans,0,43.5
@@ -2049,20 +2049,20 @@ Year,Week,Home,Away,Spread,Total
 2018,1,Arizona Cardinals,Washington Redskins,-2.5,43.5
 2018,1,Green Bay Packers,Chicago Bears,-7,45
 2018,1,Detroit Lions,New York Jets,-7,44
-2018,1,Oakland Raiders,Los Angeles Rams,-6.5,47.5
-2018,2,Cincinnati Bengals,Baltimore Ravens,-1,43.5
+2018,1,Oakland Raiders,Los Angeles Rams,6.5,47.5
+2018,2,Cincinnati Bengals,Baltimore Ravens,1,43.5
 2018,2,Washington Redskins,Indianapolis Colts,-6,48
 2018,2,Atlanta Falcons,Carolina Panthers,-5.5,43.5
-2018,2,Green Bay Packers,Minnesota Vikings,-1.5,45
-2018,2,Buffalo Bills,Los Angeles Chargers,-7.5,41.5
-2018,2,Tennessee Titans,Houston Texans,-3.5,41
+2018,2,Green Bay Packers,Minnesota Vikings,1.5,45
+2018,2,Buffalo Bills,Los Angeles Chargers,7.5,41.5
+2018,2,Tennessee Titans,Houston Texans,3.5,41
 2018,2,Pittsburgh Steelers,Kansas City Chiefs,-4.5,52.5
 2018,2,New York Jets,Miami Dolphins,-3,43
-2018,2,Tampa Bay Buccaneers,Philadelphia Eagles,-3,46.5
+2018,2,Tampa Bay Buccaneers,Philadelphia Eagles,3,46.5
 2018,2,New Orleans Saints,Cleveland Browns,-9.5,51
 2018,2,Los Angeles Rams,Arizona Cardinals,-13,43.5
 2018,2,San Francisco 49ers,Detroit Lions,-6,48.5
-2018,2,Jacksonville Jaguars,New England Patriots,-1.5,44.5
+2018,2,Jacksonville Jaguars,New England Patriots,1.5,44.5
 2018,2,Denver Broncos,Oakland Raiders,-6,44.5
 2018,2,Dallas Cowboys,New York Giants,-3,42
 2018,2,Chicago Bears,Seattle Seahawks,-4.5,42.5
@@ -2080,148 +2080,148 @@ Year,Week,Home,Away,Spread,Total
 2018,3,Los Angeles Rams,Los Angeles Chargers,,
 2018,3,Arizona Cardinals,Chicago Bears,,
 2018,3,Seattle Seahawks,Dallas Cowboys,-1.5,40
-2018,3,Detroit Lions,New England Patriots,-7,55.5
+2018,3,Detroit Lions,New England Patriots,7,55.5
 2018,3,Tampa Bay Buccaneers,Pittsburgh Steelers,-1,55
 2018,4,Los Angeles Rams,Minnesota Vikings,-7,49
 2018,4,New England Patriots,Miami Dolphins,-6.5,50.5
-2018,4,Indianapolis Colts,Houston Texans,-1,48.5
+2018,4,Indianapolis Colts,Houston Texans,1,48.5
 2018,4,Atlanta Falcons,Cincinnati Bengals,-3.5,52.5
 2018,4,Green Bay Packers,Buffalo Bills,-9,44
 2018,4,Dallas Cowboys,Detroit Lions,-2.5,44
 2018,4,Jacksonville Jaguars,New York Jets,-7.5,40
 2018,4,Chicago Bears,Tampa Bay Buccaneers,-3,46
-2018,4,Tennessee Titans,Philadelphia Eagles,-3,41.5
-2018,4,Arizona Cardinals,Seattle Seahawks,-3.5,40
+2018,4,Tennessee Titans,Philadelphia Eagles,3,41.5
+2018,4,Arizona Cardinals,Seattle Seahawks,3.5,40
 2018,4,Oakland Raiders,Cleveland Browns,-2.5,44.5
 2018,4,Los Angeles Chargers,San Francisco 49ers,-10,46.5
-2018,4,New York Giants,New Orleans Saints,-3,52
+2018,4,New York Giants,New Orleans Saints,3,52
 2018,4,Pittsburgh Steelers,Baltimore Ravens,-3,51.5
-2018,4,Denver Broncos,Kansas City Chiefs,-3.5,53.5
+2018,4,Denver Broncos,Kansas City Chiefs,3.5,53.5
 2018,5,New England Patriots,Indianapolis Colts,-11,50
-2018,5,Cleveland Browns,Baltimore Ravens,-3.5,44.5
+2018,5,Cleveland Browns,Baltimore Ravens,3.5,44.5
 2018,5,Kansas City Chiefs,Jacksonville Jaguars,-3,48
-2018,5,Buffalo Bills,Tennessee Titans,-6,38
+2018,5,Buffalo Bills,Tennessee Titans,6,38
 2018,5,Carolina Panthers,New York Giants,-6.5,43.5
-2018,5,New York Jets,Denver Broncos,-1,42.5
+2018,5,New York Jets,Denver Broncos,1,42.5
 2018,5,Pittsburgh Steelers,Atlanta Falcons,-3.5,57.5
 2018,5,Detroit Lions,Green Bay Packers,-1,50.5
 2018,5,Cincinnati Bengals,Miami Dolphins,-6,48
 2018,5,Los Angeles Chargers,Oakland Raiders,-5.5,51.5
 2018,5,San Francisco 49ers,Arizona Cardinals,-3,40.5
 2018,5,Philadelphia Eagles,Minnesota Vikings,-3.5,48.5
-2018,5,Seattle Seahawks,Los Angeles Rams,-7.5,50.5
+2018,5,Seattle Seahawks,Los Angeles Rams,7.5,50.5
 2018,5,Houston Texans,Dallas Cowboys,-3.5,45.5
 2018,5,New Orleans Saints,Washington Redskins,-6,52
-2018,6,New York Giants,Philadelphia Eagles,-2,45
+2018,6,New York Giants,Philadelphia Eagles,2,45
 2018,6,Minnesota Vikings,Arizona Cardinals,-9.5,43.5
 2018,6,Cleveland Browns,Los Angeles Chargers,-1,47
-2018,6,Miami Dolphins,Chicago Bears,-7,40.5
-2018,6,Washington Redskins,Carolina Panthers,-1.5,44.5
+2018,6,Miami Dolphins,Chicago Bears,7,40.5
+2018,6,Washington Redskins,Carolina Panthers,1.5,44.5
 2018,6,New York Jets,Indianapolis Colts,-2.5,48
 2018,6,Cincinnati Bengals,Pittsburgh Steelers,-1.5,50
 2018,6,Atlanta Falcons,Tampa Bay Buccaneers,-3,57.5
-2018,6,Oakland Raiders,Seattle Seahawks,-3,48
+2018,6,Oakland Raiders,Seattle Seahawks,3,48
 2018,6,Houston Texans,Buffalo Bills,-10,40
-2018,6,Denver Broncos,Los Angeles Rams,-7,50
-2018,6,Dallas Cowboys,Jacksonville Jaguars,-3,39.5
-2018,6,Tennessee Titans,Baltimore Ravens,-2.5,43.5
+2018,6,Denver Broncos,Los Angeles Rams,7,50
+2018,6,Dallas Cowboys,Jacksonville Jaguars,3,39.5
+2018,6,Tennessee Titans,Baltimore Ravens,2.5,43.5
 2018,6,New England Patriots,Kansas City Chiefs,-4,59.5
 2018,6,Green Bay Packers,San Francisco 49ers,-9.5,46.5
-2018,7,Arizona Cardinals,Denver Broncos,-1,42.5
+2018,7,Arizona Cardinals,Denver Broncos,1,42.5
 2018,7,Los Angeles Chargers,Tennessee Titans,-6.5,46
-2018,7,Chicago Bears,New England Patriots,-2,49.5
+2018,7,Chicago Bears,New England Patriots,2,49.5
 2018,7,Tampa Bay Buccaneers,Cleveland Browns,-3.5,52.5
-2018,7,Miami Dolphins,Detroit Lions,-3,47
+2018,7,Miami Dolphins,Detroit Lions,3,47
 2018,7,Philadelphia Eagles,Carolina Panthers,-5,45
 2018,7,Indianapolis Colts,Buffalo Bills,-7,43.5
 2018,7,Kansas City Chiefs,Cincinnati Bengals,-6.5,56.5
-2018,7,New York Jets,Minnesota Vikings,-3.5,45
+2018,7,New York Jets,Minnesota Vikings,3.5,45
 2018,7,Jacksonville Jaguars,Houston Texans,-3.5,42.5
 2018,7,Baltimore Ravens,New Orleans Saints,-2.5,49.5
-2018,7,Washington Redskins,Dallas Cowboys,-1.5,40.5
-2018,7,San Francisco 49ers,Los Angeles Rams,-9,52
+2018,7,Washington Redskins,Dallas Cowboys,1.5,40.5
+2018,7,San Francisco 49ers,Los Angeles Rams,9,52
 2018,7,Atlanta Falcons,New York Giants,-4.5,52.5
 2018,8,Houston Texans,Miami Dolphins,-7.5,45
-2018,8,Jacksonville Jaguars,Philadelphia Eagles,-4,44.5
+2018,8,Jacksonville Jaguars,Philadelphia Eagles,4,44.5
 2018,8,Pittsburgh Steelers,Cleveland Browns,-8.5,47.5
 2018,8,Kansas City Chiefs,Denver Broncos,-9,53.5
 2018,8,Chicago Bears,New York Jets,-8.5,42.5
-2018,8,New York Giants,Washington Redskins,-1,44
+2018,8,New York Giants,Washington Redskins,1,44
 2018,8,Detroit Lions,Seattle Seahawks,-3,48
 2018,8,Cincinnati Bengals,Tampa Bay Buccaneers,-3.5,55
-2018,8,Carolina Panthers,Baltimore Ravens,-2.5,44.5
-2018,8,Oakland Raiders,Indianapolis Colts,-3.5,51
-2018,8,Arizona Cardinals,San Francisco 49ers,-2.5,40
+2018,8,Carolina Panthers,Baltimore Ravens,2.5,44.5
+2018,8,Oakland Raiders,Indianapolis Colts,3.5,51
+2018,8,Arizona Cardinals,San Francisco 49ers,2.5,40
 2018,8,Los Angeles Rams,Green Bay Packers,-7.5,57
-2018,8,Minnesota Vikings,New Orleans Saints,-2.5,54.5
-2018,8,Buffalo Bills,New England Patriots,-14,44.5
-2018,9,San Francisco 49ers,Oakland Raiders,-1.5,44
+2018,8,Minnesota Vikings,New Orleans Saints,2.5,54.5
+2018,8,Buffalo Bills,New England Patriots,14,44.5
+2018,9,San Francisco 49ers,Oakland Raiders,1.5,44
 2018,9,Minnesota Vikings,Detroit Lions,-5,47
-2018,9,Cleveland Browns,Kansas City Chiefs,-8.5,51.5
+2018,9,Cleveland Browns,Kansas City Chiefs,8.5,51.5
 2018,9,Baltimore Ravens,Pittsburgh Steelers,-1.5,47
 2018,9,Carolina Panthers,Tampa Bay Buccaneers,-6,55.5
 2018,9,Miami Dolphins,New York Jets,-3,43
 2018,9,Washington Redskins,Atlanta Falcons,-1.5,47
-2018,9,Buffalo Bills,Chicago Bears,-10,38
+2018,9,Buffalo Bills,Chicago Bears,10,38
 2018,9,Denver Broncos,Houston Texans,-1,46.5
 2018,9,Seattle Seahawks,Los Angeles Chargers,-1,48.5
-2018,9,New Orleans Saints,Los Angeles Rams,-2,57.5
+2018,9,New Orleans Saints,Los Angeles Rams,2,57.5
 2018,9,New England Patriots,Green Bay Packers,-5,56.5
 2018,9,Dallas Cowboys,Tennessee Titans,-5,40
 2018,10,Pittsburgh Steelers,Carolina Panthers,-3.5,51
 2018,10,New York Jets,Buffalo Bills,-7,37.5
-2018,10,Cleveland Browns,Atlanta Falcons,-5.5,49.5
-2018,10,Cincinnati Bengals,New Orleans Saints,-6,53.5
+2018,10,Cleveland Browns,Atlanta Falcons,5.5,49.5
+2018,10,Cincinnati Bengals,New Orleans Saints,6,53.5
 2018,10,Tampa Bay Buccaneers,Washington Redskins,-3.5,51
-2018,10,Tennessee Titans,New England Patriots,-6.5,46.5
+2018,10,Tennessee Titans,New England Patriots,6.5,46.5
 2018,10,Green Bay Packers,Miami Dolphins,-12.5,49
 2018,10,Indianapolis Colts,Jacksonville Jaguars,-3,48
 2018,10,Chicago Bears,Detroit Lions,-7,44.5
 2018,10,Kansas City Chiefs,Arizona Cardinals,-16,49.5
-2018,10,Oakland Raiders,Los Angeles Chargers,-10.5,50.5
+2018,10,Oakland Raiders,Los Angeles Chargers,10.5,50.5
 2018,10,Los Angeles Rams,Seattle Seahawks,-9.5,51
 2018,10,Philadelphia Eagles,Dallas Cowboys,-7.5,45.5
 2018,10,San Francisco 49ers,New York Giants,-3,45
 2018,11,Seattle Seahawks,Green Bay Packers,-3,49.5
-2018,11,Detroit Lions,Carolina Panthers,-4,48
+2018,11,Detroit Lions,Carolina Panthers,4,48
 2018,11,Atlanta Falcons,Dallas Cowboys,-3.5,50
 2018,11,Baltimore Ravens,Cincinnati Bengals,-6.5,44
 2018,11,Chicago Bears,Minnesota Vikings,-2.5,44
 2018,11,New Orleans Saints,Philadelphia Eagles,-7,57
 2018,11,Indianapolis Colts,Tennessee Titans,-1.5,50
-2018,11,Washington Redskins,Houston Texans,-3,41
+2018,11,Washington Redskins,Houston Texans,3,41
 2018,11,New York Giants,Tampa Bay Buccaneers,-3,54
 2018,11,Los Angeles Chargers,Denver Broncos,-7,47
 2018,11,Arizona Cardinals,Oakland Raiders,-4.5,41
-2018,11,Jacksonville Jaguars,Pittsburgh Steelers,-4,47
+2018,11,Jacksonville Jaguars,Pittsburgh Steelers,4,47
 2018,11,Los Angeles Rams,Kansas City Chiefs,-3,63.5
-2018,12,Detroit Lions,Chicago Bears,-3,42.5
+2018,12,Detroit Lions,Chicago Bears,3,42.5
 2018,12,Dallas Cowboys,Washington Redskins,-7,40
 2018,12,New Orleans Saints,Atlanta Falcons,-12.5,61.5
-2018,12,Buffalo Bills,Jacksonville Jaguars,-3,36.5
+2018,12,Buffalo Bills,Jacksonville Jaguars,3,36.5
 2018,12,Baltimore Ravens,Oakland Raiders,-13,42
 2018,12,Tampa Bay Buccaneers,San Francisco 49ers,-2,54.5
 2018,12,Philadelphia Eagles,New York Giants,-5,50
 2018,12,Cincinnati Bengals,Cleveland Browns,0,47
-2018,12,New York Jets,New England Patriots,-12.5,47
+2018,12,New York Jets,New England Patriots,12.5,47
 2018,12,Carolina Panthers,Seattle Seahawks,-3,46.5
 2018,12,Indianapolis Colts,Miami Dolphins,-9,52.5
 2018,12,Los Angeles Chargers,Arizona Cardinals,-14,43.5
-2018,12,Denver Broncos,Pittsburgh Steelers,-3,47.5
+2018,12,Denver Broncos,Pittsburgh Steelers,3,47.5
 2018,12,Minnesota Vikings,Green Bay Packers,-3.5,48.5
 2018,12,Houston Texans,Tennessee Titans,-3.5,42.5
-2018,13,Dallas Cowboys,New Orleans Saints,-7.5,51.5
-2018,13,Jacksonville Jaguars,Indianapolis Colts,-4.5,45.5
+2018,13,Dallas Cowboys,New Orleans Saints,7.5,51.5
+2018,13,Jacksonville Jaguars,Indianapolis Colts,4.5,45.5
 2018,13,Pittsburgh Steelers,Los Angeles Chargers,-3,53.5
-2018,13,Tampa Bay Buccaneers,Carolina Panthers,-3.5,52
+2018,13,Tampa Bay Buccaneers,Carolina Panthers,3.5,52
 2018,13,Atlanta Falcons,Baltimore Ravens,-2.5,46.5
 2018,13,Houston Texans,Cleveland Browns,-5,48
 2018,13,Miami Dolphins,Buffalo Bills,-3.5,40
-2018,13,New York Giants,Chicago Bears,-3.5,43.5
-2018,13,Cincinnati Bengals,Denver Broncos,-4,45
-2018,13,Detroit Lions,Los Angeles Rams,-10,54
+2018,13,New York Giants,Chicago Bears,3.5,43.5
+2018,13,Cincinnati Bengals,Denver Broncos,4,45
+2018,13,Detroit Lions,Los Angeles Rams,10,54
 2018,13,Green Bay Packers,Arizona Cardinals,-13.5,41
-2018,13,Oakland Raiders,Kansas City Chiefs,-14,53.5
+2018,13,Oakland Raiders,Kansas City Chiefs,14,53.5
 2018,13,Tennessee Titans,New York Jets,-9.5,40.5
 2018,13,New England Patriots,Minnesota Vikings,-6,50
 2018,13,Seattle Seahawks,San Francisco 49ers,-9.5,45
@@ -2229,21 +2229,21 @@ Year,Week,Home,Away,Spread,Total
 2018,14,Tennessee Titans,Jacksonville Jaguars,-5.5,37
 2018,14,Kansas City Chiefs,Baltimore Ravens,-6.5,49
 2018,14,Houston Texans,Indianapolis Colts,-4,49
-2018,14,Cleveland Browns,Carolina Panthers,-1,48
+2018,14,Cleveland Browns,Carolina Panthers,1,48
 2018,14,Green Bay Packers,Atlanta Falcons,-4,50.5
-2018,14,Tampa Bay Buccaneers,New Orleans Saints,-9.5,55
+2018,14,Tampa Bay Buccaneers,New Orleans Saints,9.5,55
 2018,14,Buffalo Bills,New York Jets,-4.5,37
-2018,14,Miami Dolphins,New England Patriots,-9,49.5
-2018,14,Chicago Bears,Los Angeles Rams,-3,50.5
-2018,14,Washington Redskins,New York Giants,-3,40
-2018,14,San Francisco 49ers,Denver Broncos,-3,45.5
+2018,14,Miami Dolphins,New England Patriots,9,49.5
+2018,14,Chicago Bears,Los Angeles Rams,3,50.5
+2018,14,Washington Redskins,New York Giants,3,40
+2018,14,San Francisco 49ers,Denver Broncos,3,45.5
 2018,14,Los Angeles Chargers,Cincinnati Bengals,-16.5,48.5
-2018,14,Arizona Cardinals,Detroit Lions,-2.5,40
+2018,14,Arizona Cardinals,Detroit Lions,2.5,40
 2018,14,Dallas Cowboys,Philadelphia Eagles,-3.5,45.5
-2018,14,Oakland Raiders,Pittsburgh Steelers,-10,51
+2018,14,Oakland Raiders,Pittsburgh Steelers,10,51
 2018,14,Seattle Seahawks,Minnesota Vikings,-3,45.5
 2018,15,Kansas City Chiefs,Los Angeles Chargers,-3.5,54.5
-2018,15,New York Jets,Houston Texans,-7,44.5
+2018,15,New York Jets,Houston Texans,7,44.5
 2018,15,Denver Broncos,Cleveland Browns,-1.5,47
 2018,15,Minnesota Vikings,Miami Dolphins,-7.5,45
 2018,15,Cincinnati Bengals,Oakland Raiders,-3,46
@@ -2251,61 +2251,61 @@ Year,Week,Home,Away,Spread,Total
 2018,15,Indianapolis Colts,Dallas Cowboys,-3,47
 2018,15,Buffalo Bills,Detroit Lions,-2.5,39.5
 2018,15,Chicago Bears,Green Bay Packers,-5.5,46.5
-2018,15,New York Giants,Tennessee Titans,-2.5,42
+2018,15,New York Giants,Tennessee Titans,2.5,42
 2018,15,Jacksonville Jaguars,Washington Redskins,-7,36.5
 2018,15,Atlanta Falcons,Arizona Cardinals,-9,43.5
-2018,15,San Francisco 49ers,Seattle Seahawks,-4,44
-2018,15,Pittsburgh Steelers,New England Patriots,-2.5,55
+2018,15,San Francisco 49ers,Seattle Seahawks,4,44
+2018,15,Pittsburgh Steelers,New England Patriots,2.5,55
 2018,15,Los Angeles Rams,Philadelphia Eagles,-13.5,52.5
-2018,15,Carolina Panthers,New Orleans Saints,-6,50.5
+2018,15,Carolina Panthers,New Orleans Saints,6,50.5
 2018,16,Tennessee Titans,Washington Redskins,-11,38
 2018,16,Los Angeles Chargers,Baltimore Ravens,-4,42.5
 2018,16,Dallas Cowboys,Tampa Bay Buccaneers,-7,48
 2018,16,New England Patriots,Buffalo Bills,-13.5,45
-2018,16,Carolina Panthers,Atlanta Falcons,-3,46.5
+2018,16,Carolina Panthers,Atlanta Falcons,3,46.5
 2018,16,Miami Dolphins,Jacksonville Jaguars,-3,39.5
 2018,16,Indianapolis Colts,New York Giants,-9.5,48
 2018,16,Philadelphia Eagles,Houston Texans,-2,47
-2018,16,Detroit Lions,Minnesota Vikings,-6.5,42
-2018,16,New York Jets,Green Bay Packers,-3,47
+2018,16,Detroit Lions,Minnesota Vikings,6.5,42
+2018,16,New York Jets,Green Bay Packers,3,47
 2018,16,Cleveland Browns,Cincinnati Bengals,-9.5,44
-2018,16,Arizona Cardinals,Los Angeles Rams,-14,43.5
-2018,16,San Francisco 49ers,Chicago Bears,-3.5,44
+2018,16,Arizona Cardinals,Los Angeles Rams,14,43.5
+2018,16,San Francisco 49ers,Chicago Bears,3.5,44
 2018,16,New Orleans Saints,Pittsburgh Steelers,-6.5,53.5
-2018,16,Seattle Seahawks,Kansas City Chiefs,-1,54.5
-2018,16,Oakland Raiders,Denver Broncos,-2.5,42.5
+2018,16,Seattle Seahawks,Kansas City Chiefs,1,54.5
+2018,16,Oakland Raiders,Denver Broncos,2.5,42.5
 2018,17,New York Giants,Dallas Cowboys,-7,38.5
 2018,17,Kansas City Chiefs,Oakland Raiders,-14,53.5
 2018,17,New Orleans Saints,Carolina Panthers,-7.5,41.5
 2018,17,New England Patriots,New York Jets,-14,47
-2018,17,Washington Redskins,Philadelphia Eagles,-6,42.5
+2018,17,Washington Redskins,Philadelphia Eagles,6,42.5
 2018,17,Green Bay Packers,Detroit Lions,-7.5,44.5
 2018,17,Houston Texans,Jacksonville Jaguars,-7,39.5
 2018,17,Baltimore Ravens,Cleveland Browns,-7,40.5
-2018,17,Tampa Bay Buccaneers,Atlanta Falcons,-2.5,52
+2018,17,Tampa Bay Buccaneers,Atlanta Falcons,2.5,52
 2018,17,Buffalo Bills,Miami Dolphins,-5.5,39.5
-2018,17,Tennessee Titans,Indianapolis Colts,-5,42.5
+2018,17,Tennessee Titans,Indianapolis Colts,5,42.5
 2018,17,Pittsburgh Steelers,Cincinnati Bengals,-13.5,45.5
 2018,17,Minnesota Vikings,Chicago Bears,-6,40
-2018,17,Denver Broncos,Los Angeles Chargers,-7,43.5
+2018,17,Denver Broncos,Los Angeles Chargers,7,43.5
 2018,17,Seattle Seahawks,Arizona Cardinals,-15,40
 2018,17,Los Angeles Rams,San Francisco 49ers,-10.5,50
-2019,1,Chicago Bears,Green Bay Packers,-3.5,46
+2019,1,Chicago Bears,Green Bay Packers,-3,46
 2019,1,Minnesota Vikings,Atlanta Falcons,-4,47.5
-2019,1,Philadelphia Eagles,Washington Redskins,-8.5,46.5
-2019,1,New York Jets,Buffalo Bills,-3,38.5
-2019,1,Miami Dolphins,Baltimore Ravens,-4.5,37.5
-2019,1,Tampa Bay Buccaneers,San Francisco 49ers,-1,49
-2019,1,Jacksonville Jaguars,Kansas City Chiefs,-4,52.5
+2019,1,Philadelphia Eagles,Washington Redskins,-8.5,46
+2019,1,New York Jets,Buffalo Bills,-3,39.5
+2019,1,Miami Dolphins,Baltimore Ravens,4.5,37.5
+2019,1,Tampa Bay Buccaneers,San Francisco 49ers,-1,49.5
+2019,1,Jacksonville Jaguars,Kansas City Chiefs,4,52.5
 2019,1,Cleveland Browns,Tennessee Titans,-5.5,45.5
-2019,1,Carolina Panthers,Los Angeles Rams,-3,51
-2019,1,Arizona Cardinals,Detroit Lions,-2.5,47.5
+2019,1,Carolina Panthers,Los Angeles Rams,3,51
+2019,1,Arizona Cardinals,Detroit Lions,2.5,47.5
 2019,1,Seattle Seahawks,Cincinnati Bengals,-9.5,43.5
 2019,1,Los Angeles Chargers,Indianapolis Colts,-3,47.5
-2019,1,Dallas Cowboys,New York Giants,-7.5,46.5
+2019,1,Dallas Cowboys,New York Giants,-7,45.5
 2019,1,New England Patriots,Pittsburgh Steelers,-6,51.5
 2019,1,New Orleans Saints,Houston Texans,-7,53.5
-2019,1,Oakland Raiders,Denver Broncos,-2,43.5
+2019,1,Oakland Raiders,Denver Broncos,-1.5,43.5
 2019,2,Carolina Panthers,Tampa Bay Buccaneers,,
 2019,2,Tennessee Titans,Indianapolis Colts,,
 2019,2,Detroit Lions,Los Angeles Chargers,,

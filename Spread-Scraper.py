@@ -60,7 +60,7 @@ for year in range(2010,2020):
             #Writes Spread and Total to Game list
             if len(vi_list) == max_len:
                 if '-' in vi_list[1]:
-                    game_data[4] = vi_list[1]
+                    game_data[4] = vi_list[1][1:]
                 elif vi_list[1] == 'PK':
                     game_data[4] = '0'
                 elif '-' not in gdata:
