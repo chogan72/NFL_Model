@@ -46,7 +46,7 @@ os.chdir(first_directory)
 change_directory('/Model/')
 database('PS-Win-Total-Model', head)  
 
-for year in range(2012, 2020):
+for year in range(2010, 2020):
     teams = []
     w_teams = []
 
@@ -92,9 +92,3 @@ for year in range(2012, 2020):
 
     for row in w_teams:
         database('PS-Win-Total-Model', row)                
-            
-
-
-
-
-
