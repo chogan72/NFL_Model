@@ -1521,22 +1521,22 @@ Year,Week,Home,Away,Spread,Total
 2015,17,Denver Broncos,San Diego Chargers,-10,42
 2015,17,San Francisco 49ers,St. Louis Rams,3,39
 2015,17,Arizona Cardinals,Seattle Seahawks,-6,47
-2016,1,Denver Broncos,Carolina Panthers,,
-2016,1,Atlanta Falcons,Tampa Bay Buccaneers,,
-2016,1,Tennessee Titans,Minnesota Vikings,,
-2016,1,Philadelphia Eagles,Cleveland Browns,,
-2016,1,New York Jets,Cincinnati Bengals,,
-2016,1,New Orleans Saints,Oakland Raiders,,
-2016,1,Kansas City Chiefs,Los Angeles Chargers,,
-2016,1,Baltimore Ravens,Buffalo Bills,,
-2016,1,Houston Texans,Chicago Bears,,
-2016,1,Jacksonville Jaguars,Green Bay Packers,,
-2016,1,Seattle Seahawks,Miami Dolphins,,
-2016,1,Dallas Cowboys,New York Giants,,
-2016,1,Indianapolis Colts,Detroit Lions,,
-2016,1,Arizona Cardinals,New England Patriots,,
-2016,1,Washington Redskins,Pittsburgh Steelers,,
-2016,1,San Francisco 49ers,Los Angeles Rams,,
+2016,1,Denver Broncos,Carolina Panthers,3,40.5
+2016,1,Atlanta Falcons,Tampa Bay Buccaneers,-2.5,47
+2016,1,Tennessee Titans,Minnesota Vikings,2.5,40
+2016,1,Philadelphia Eagles,Cleveland Browns,-3.5,41
+2016,1,New York Jets,Cincinnati Bengals,1,42
+2016,1,New Orleans Saints,Oakland Raiders,-3,50.5
+2016,1,Kansas City Chiefs,Los Angeles Chargers,-6.5,46
+2016,1,Baltimore Ravens,Buffalo Bills,-3,44.5
+2016,1,Houston Texans,Chicago Bears,-5.5,42.5
+2016,1,Jacksonville Jaguars,Green Bay Packers,3.5,47.5
+2016,1,Seattle Seahawks,Miami Dolphins,-10.5,44
+2016,1,Dallas Cowboys,New York Giants,1,47.5
+2016,1,Indianapolis Colts,Detroit Lions,-2.5,51.5
+2016,1,Arizona Cardinals,New England Patriots,-8.5,44
+2016,1,Washington Redskins,Pittsburgh Steelers,2.5,49
+2016,1,San Francisco 49ers,Los Angeles Rams,2.5,43.5
 2016,2,Buffalo Bills,New York Jets,0,40.5
 2016,2,Detroit Lions,Tennessee Titans,-6,48
 2016,2,Houston Texans,Kansas City Chiefs,0,42
@@ -2074,11 +2074,11 @@ Year,Week,Home,Away,Spread,Total
 2018,3,Baltimore Ravens,Denver Broncos,-5.5,46
 2018,3,Houston Texans,New York Giants,-6,44.5
 2018,3,Miami Dolphins,Oakland Raiders,-3,46
-2018,3,Washington Redskins,Green Bay Packers,,
-2018,3,Minnesota Vikings,Buffalo Bills,,
-2018,3,Kansas City Chiefs,San Francisco 49ers,,
-2018,3,Los Angeles Rams,Los Angeles Chargers,,
-2018,3,Arizona Cardinals,Chicago Bears,,
+2018,3,Washington Redskins,Green Bay Packers,2.5,46
+2018,3,Minnesota Vikings,Buffalo Bills,-17,41
+2018,3,Kansas City Chiefs,San Francisco 49ers,-6,53.5
+2018,3,Los Angeles Rams,Los Angeles Chargers,-7,49
+2018,3,Arizona Cardinals,Chicago Bears,5.5,39
 2018,3,Seattle Seahawks,Dallas Cowboys,-1.5,40
 2018,3,Detroit Lions,New England Patriots,7,55.5
 2018,3,Tampa Bay Buccaneers,Pittsburgh Steelers,-1,55
@@ -2294,14 +2294,14 @@ Year,Week,Home,Away,Spread,Total
 2019,1,Minnesota Vikings,Atlanta Falcons,-4,47.5
 2019,1,Philadelphia Eagles,Washington Redskins,-8.5,46
 2019,1,New York Jets,Buffalo Bills,-3,39.5
-2019,1,Miami Dolphins,Baltimore Ravens,4.5,37.5
-2019,1,Tampa Bay Buccaneers,San Francisco 49ers,-1,49.5
+2019,1,Miami Dolphins,Baltimore Ravens,5,37.5
+2019,1,Tampa Bay Buccaneers,San Francisco 49ers,-1,49
 2019,1,Jacksonville Jaguars,Kansas City Chiefs,4,52.5
 2019,1,Cleveland Browns,Tennessee Titans,-5.5,45.5
 2019,1,Carolina Panthers,Los Angeles Rams,3,51
 2019,1,Arizona Cardinals,Detroit Lions,2.5,47.5
 2019,1,Seattle Seahawks,Cincinnati Bengals,-9.5,43.5
-2019,1,Los Angeles Chargers,Indianapolis Colts,-3,47.5
+2019,1,Los Angeles Chargers,Indianapolis Colts,-4,47.5
 2019,1,Dallas Cowboys,New York Giants,-7,45.5
 2019,1,New England Patriots,Pittsburgh Steelers,-6,51.5
 2019,1,New Orleans Saints,Houston Texans,-7,53.5

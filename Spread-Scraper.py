@@ -23,6 +23,8 @@ game_data = ['Year', 'Week', 'Home', 'Away', 'Spread', 'Total']
 vi_list = []
 database('Spread-Database', game_data)
 
+spread_fix = [['2016','1','Denver Broncos','Carolina Panthers','3','40.5'],['2016','1','Atlanta Falcons','Tampa Bay Buccaneers','-2.5','47'],['2016','1','Tennessee Titans','Minnesota Vikings','2.5','40'],['2016','1','Philadelphia Eagles','Cleveland Browns','-3.5','41'],['2016','1','New York Jets','Cincinnati Bengals','1','42'],['2016','1','New Orleans Saints','Oakland Raiders','-3','50.5'],['2016','1','Kansas City Chiefs','Los Angeles Chargers','-6.5','46'],['2016','1','Baltimore Ravens','Buffalo Bills','-3','44.5'],['2016','1','Houston Texans','Chicago Bears','-5.5','42.5'],['2016','1','Jacksonville Jaguars','Green Bay Packers','3.5','47.5'],['2016','1','Seattle Seahawks','Miami Dolphins','-10.5','44'],['2016','1','Dallas Cowboys','New York Giants','1','47.5'],['2016','1','Indianapolis Colts','Detroit Lions','-2.5','51.5'],['2016','1','Arizona Cardinals','New England Patriots','-8.5','44'],['2016','1','Washington Redskins','Pittsburgh Steelers','2.5','49'],['2016','1','San Francisco 49ers','Los Angeles Rams','2.5','43.5'],['2018','3','Washington Redskins','Green Bay Packers','2.5','46'],['2018','3','Minnesota Vikings','Buffalo Bills','-17','41'],['2018','3','Kansas City Chiefs','San Francisco 49ers','-6','53.5'],['2018','3','Los Angeles Rams','Los Angeles Chargers','-7','49'],['2018','3','Arizona Cardinals','Chicago Bears','5.5','39']]
+
 #beautifulsoup4 link
 for year in range(2010,2020):
     for week in range(1,18):
@@ -84,9 +86,17 @@ for year in range(2010,2020):
                     elif '-' not in gdata:
                         game_data[5] = vi_list[5]
 
-                #Writes list to CSV file
+                #Write Year and Week
                 game_data[0] = year
                 game_data[1] = week
+
+                #Fix for broken games
+                if '2016' == str(year) and '1' == str(week) or '2018' == str(year) and '3' == str(week):
+                    for fix in spread_fix:
+                        if fix[2] == game_data[2] and fix[0] == str(year) and fix[1] == str(week):
+                            game_data = fix
+
+                #Writes list to CSV file
                 database('Spread-Database', game_data)
                 game_data = ['','','','','','']
 
