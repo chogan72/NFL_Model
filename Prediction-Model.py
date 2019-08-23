@@ -44,8 +44,8 @@ change_directory('/Model/')
 win_list = database_reader('PS-Win-Total-Model.csv', win_head)
 
 
-head = ['Year','Week','Matchup','Spread','Away Wins','Home Wins','ADV','ADV Team']
-database('Prediction-Model', head)  
+head = ['Year','Week','Matchup','Spread','Away Wins','Home Wins','Advantage','ADV Team']
+#database('Prediction-Model', head)  
 
 for year in range(2019, 2020):
     for week in range(1, 2):
@@ -66,4 +66,4 @@ for year in range(2019, 2020):
                     head[7] = game[3]
                 elif advantage > 0:
                     head[7] = game[2]
-                database('Prediction-Model', head)
+                #database('Prediction-Model', head)
