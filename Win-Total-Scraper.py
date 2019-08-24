@@ -52,6 +52,3 @@ for year in range(2010,2020):
             game_data = [year, '', '', '']
 
         index += 1
-        
-
-        
