@@ -40,4 +40,14 @@ for year in range(2010, 2020):
                         game_list[4] = s_value
                     elif s_key == 'away_score':
                         game_list[5] = s_value
+                        
+                    if game_list[2] == 'San Diego Chargers':
+                        game_list[2] = 'Los Angeles Chargers'
+                    if game_list[4] == 'San Diego Chargers':
+                        game_list[4] = 'Los Angeles Chargers'
+                    if game_list[2] == 'St. Louis Rams':
+                        game_list[2] = 'Los Angeles Rams'
+                    if game_list[4] == 'St. Louis Rams':
+                        game_list[4] = 'Los Angeles Rams'
+
                 database('Boxscore-Database', game_list)

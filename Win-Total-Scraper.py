@@ -46,6 +46,11 @@ for year in range(2010,2020):
             else:
                 game_data[2] = gdata
 
+        if game_data[1] == 'San Diego Chargers':
+            game_data[1] = 'Los Angeles Chargers'
+        if game_data[1] == 'St Louis Rams':
+            game_data[1] = 'Los Angeles Rams'
+
         elif index == 5:
             game_data[3] = gdata
             database('Win-Total-Database', game_data)

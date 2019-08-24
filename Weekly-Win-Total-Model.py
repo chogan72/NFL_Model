@@ -69,8 +69,6 @@ for year in range(2010, 2020):
             index = 0
 
             for team in w_teams:
-                if 'St Louis Rams' == team[2]:
-                    team[2] = 'St. Louis Rams'
                 fp = 0
                 ap = 0
                 #Finds season points for and against

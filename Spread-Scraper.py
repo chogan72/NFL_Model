@@ -96,6 +96,15 @@ for year in range(2010,2020):
                         if fix[2] == game_data[2] and fix[0] == str(year) and fix[1] == str(week):
                             game_data = fix
 
+                if game_data[2] == 'San Diego Chargers':
+                    game_data[2] = 'Los Angeles Chargers'
+                if game_data[3] == 'San Diego Chargers':
+                    game_data[3] = 'Los Angeles Chargers'
+                if game_data[2] == 'St. Louis Rams':
+                    game_data[2] = 'Los Angeles Rams'
+                if game_data[3] == 'St. Louis Rams':
+                    game_data[3] = 'Los Angeles Rams' 
+                
                 #Writes list to CSV file
                 database('Spread-Database', game_data)
                 game_data = ['','','','','','']
