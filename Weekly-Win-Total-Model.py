@@ -39,14 +39,13 @@ win_head = ['Year', 'Team', 'Win Total', 'Actual Wins']
 
 #Create lists of database
 boxscore_list = database_reader('Boxscore-Database.csv', boxscore_head)
-win_list = database_reader('Win-Total-Database.csv', win_head)
+win_list = database_reader('Win-Total-Database.csv', win_head) 
 
-head = ['Year','Week','Team','Wins']
-os.chdir(first_directory)
-change_directory('/Model/')
-database('Weekly-Win-Total-Model', head)  
-
-for year in range(2010, 2020):
+for year in range(2019, 2020):
+    head = ['Year','Week','Team','Wins']
+    os.chdir(first_directory)
+    change_directory('/Model/')
+    database(str(year) + '-Weekly-Win-Total-Model', head) 
     teams = []
     w_teams = []
     for week in range (1, 18):
@@ -92,11 +91,11 @@ for year in range(2010, 2020):
                     new = 0
                     for points in boxscore_list:
                         if str(year) == points[0] and int(points[1]) == week -1 and team[2] == points[2]:
-                            new = (float(points[3]) - float(points[5])) * .015
+                            new = (float(points[3]) - float(points[5])) * .016
                         elif str(year) == points[0] and int(points[1]) == week -1 and team[2] == points[4]:
-                            new = (float(points[5]) - float(points[3])) * .015
+                            new = (float(points[5]) - float(points[3])) * .016
                     new_list = [year,week,team[2],team[3] +  new]
                     w_teams.append(new_list)
 
     for row in w_teams:
-        database('Weekly-Win-Total-Model', row)                
+        database(str(year) + '-Weekly-Win-Total-Model', row)                
