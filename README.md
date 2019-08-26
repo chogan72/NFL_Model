@@ -13,13 +13,13 @@ As of right now the model is ready to go for the 2019 Season.
 * Spread Scraper
   * This is used to scrape http://www.vegasinsider.com/nfl/matchups/matchups.cfm/week/1/season/2019 to find the spreads and totals for each game.
   * It used to find historical spreads as well as ones for the current week
-  * This is used to create Database/Spread-Database
+  * This is used to create Database/Spread-Database.csv (2010-2019)
 * Win Total Scraper
   * This is used to scrape https://www.sportsoddshistory.com/nfl-win/?y=2019&sa=nfl&t=win&o=t to find season win totals and actual wins.
-  * This is used to create Database/Win-Total-Database.csv
+  * This is used to create Database/Win-Total-Database.csv (2010-2019)
 * Boxscore API
   * This uses the sportsreference api (https://sportsreference.readthedocs.io/en/stable/) to pull team stats by games. 
-  * This is used to create the files in Database/Boxscore-Database.csv
+  * This is used to create the files in Database/Boxscore-Database.csv (2010-2019)
   
   
 ## Models
