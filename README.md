@@ -1,6 +1,6 @@
 # NFL Model
 
-This analyse weekly spreads to determine an edge.
+This analysis weekly spreads to determine an edge.
 
 
 ## Current Status
@@ -28,7 +28,7 @@ As of right now the model is ready to go for the 2019 Season.
 
 #### Purpose
 
-* This model ajusts the vegas win total based on Pythagorean Differential and Weekly Point Differential
+* This model adjusts the Vegas win total based on Pythagorean Differential and Weekly Point Differential
 * This model is loosely based of this article by Adam Chernoff: https://medium.com/@adamchernoff/how-to-create-and-use-nfl-power-ratings-to-beat-the-point-spread-3fa4c3ecdc22
 
 #### Pythagorean Differential
@@ -68,5 +68,5 @@ As of right now the model is ready to go for the 2019 Season.
 #### Historical Test
 
 * Analysis of past seasons to determine the quality of the models
-* Current Margin of Victory multiplyer .016
+* Current Margin of Victory multiplier .016
 * Current best bet is over 5
