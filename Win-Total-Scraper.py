@@ -43,6 +43,8 @@ for year in range(2010,2020):
         elif index == 1:
             if year == 2011 and game_data[1] == 'Indianapolis Colts':
                 game_data[2] = 9.5
+            elif year == 2019 and game_data[1] == 'Indianapolis Colts':
+                game_data[2] = 7.5
             else:
                 game_data[2] = gdata
 
