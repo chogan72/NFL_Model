@@ -32,7 +32,7 @@ def database_reader(current_file, head_list):
 #Stores old directory
 first_directory = os.getcwd()
 
-for mult in range(10,21,1):
+for mult in range(1,52,5):
     mult = mult / 1000
     os.chdir(first_directory)
     #Headings

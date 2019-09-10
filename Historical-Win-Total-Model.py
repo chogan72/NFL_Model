@@ -32,7 +32,7 @@ def database_reader(current_file, head_list):
 #Stores old directory and changes current
 first_directory = os.getcwd()
 
-for mult in range(10,21,1):
+for mult in range(1,52,5):
     mult = mult / 1000
     os.chdir(first_directory)
     change_directory('/Database/')
@@ -40,16 +40,17 @@ for mult in range(10,21,1):
     #Headings
     boxscore_head = ['Year', 'Week', 'Home', 'Home Score', 'Away', 'Away Score', 'ID']
     win_head = ['Year', 'Team', 'Win Total', 'Actual Wins']
+    spread_head = ['Year','Week','Home','Away','Spread','Total']
 
     #Create lists of database
     boxscore_list = database_reader('Boxscore-Database.csv', boxscore_head)
     win_list = database_reader('Win-Total-Database.csv', win_head)
+    spread_list = database_reader('Spread-Database.csv', spread_head)
 
     head = ['Year','Week','Team','Wins']
     os.chdir(first_directory)
     change_directory('/Historical-Test/')
     database('Weekly-Win-Total-Model-' + str(mult)[2:], head)  
-
     for year in range(2010, 2019):
         teams = []
         w_teams = []
@@ -96,9 +97,14 @@ for mult in range(10,21,1):
                         new = 0
                         for points in boxscore_list:
                             if str(year) == points[0] and int(points[1]) == week -1 and team[2] == points[2]:
-                                new = (float(points[3]) - float(points[5])) * mult
+                                new = (float(points[3]) - float(points[5]))
                             elif str(year) == points[0] and int(points[1]) == week -1 and team[2] == points[4]:
-                                new = (float(points[5]) - float(points[3])) * mult
+                                new = (float(points[5]) - float(points[3]))
+                        for spread in spread_list:
+                            if str(year) == spread[0] and int(spread[1]) == week -1 and team[2] == spread[2]:
+                                new = (new + float(spread[4])) * mult
+                            elif str(year) == spread[0] and int(spread[1]) == week -1 and team[2] == spread[3]:
+                                new = (new - float(spread[4])) * mult           
                         new_list = [year,week,team[2],team[3] +  new]
                         w_teams.append(new_list)
 

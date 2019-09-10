@@ -35,7 +35,7 @@ change_directory('/Historical-Test/')
 final = ['First Year','Last Year','Multiplier','Range','Wins','Loses','Push','W%']
 database('Final-Test', final)
 
-for mult in range(10,22,1):
+for mult in range(1,52,5):
     os.chdir(first_directory)
     mult = mult / 1000
     
@@ -54,7 +54,7 @@ for mult in range(10,22,1):
     #database('Prediction-Model', head)  
 
     for year in range(2011,2019):
-        for adv in range(0,15):
+        for adv in range(5,6):
             ats_w = 0
             ats_l = 0
             ats_p = 0
