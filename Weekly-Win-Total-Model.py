@@ -36,10 +36,12 @@ change_directory('/Database/')
 #Headings
 boxscore_head = ['Year', 'Week', 'Home', 'Home Score', 'Away', 'Away Score', 'ID']
 win_head = ['Year', 'Team', 'Win Total', 'Actual Wins']
+spread_head = ['Year','Week','Home','Away','Spread','Total']
 
 #Create lists of database
 boxscore_list = database_reader('Boxscore-Database.csv', boxscore_head)
-win_list = database_reader('Win-Total-Database.csv', win_head) 
+win_list = database_reader('Win-Total-Database.csv', win_head)
+spread_list = database_reader('Spread-Database.csv', spread_head)
 
 for year in range(2019, 2020):
     head = ['Year','Week','Team','Wins']
@@ -48,7 +50,7 @@ for year in range(2019, 2020):
     database(str(year) + '-Weekly-Win-Total-Model', head) 
     teams = []
     w_teams = []
-    for week in range (1, 18):
+    for week in range (1, 3):
         if week == 1:
             for win_total in win_list:
                 stats = [year,week]
@@ -85,15 +87,20 @@ for year in range(2019, 2020):
                 w_teams[index][3] = w_teams[index][3] + pyth
                 index += 1
 
-        elif year != 2019:
+        else:
             for team in w_teams:
                 if year == team[0] and team[1] == week -1:
                     new = 0
                     for points in boxscore_list:
                         if str(year) == points[0] and int(points[1]) == week -1 and team[2] == points[2]:
-                            new = (float(points[3]) - float(points[5])) * .016
+                            new = (float(points[3]) - float(points[5]))
                         elif str(year) == points[0] and int(points[1]) == week -1 and team[2] == points[4]:
-                            new = (float(points[5]) - float(points[3])) * .016
+                            new = (float(points[5]) - float(points[3]))
+                    for spread in spread_list:
+                        if str(year) == spread[0] and int(spread[1]) == week -1 and team[2] == spread[2]:
+                            new = (new + float(spread[4])) * .01
+                        elif str(year) == spread[0] and int(spread[1]) == week -1 and team[2] == spread[3]:
+                            new = (new - float(spread[4])) * .01
                     new_list = [year,week,team[2],team[3] +  new]
                     w_teams.append(new_list)
 
