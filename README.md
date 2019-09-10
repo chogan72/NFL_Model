@@ -44,8 +44,8 @@ As of right now the model is ready to go for the 2019 Season.
 #### Point Differential
 
 * After every week the win totals are adjusted
-* After a win, Margin of Victory * .016 is added to the win total
-* After a loss, Margin of Victory * .016 is subtracted from the win total
+* After a win, Margin of Victory - Spread * .016 is added to the win total
+* After a loss, Margin of Victory - Spread * .016 is subtracted from the win total
 
 ### Prediction Model
 
