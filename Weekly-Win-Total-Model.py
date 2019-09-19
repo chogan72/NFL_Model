@@ -50,7 +50,7 @@ for year in range(2019, 2020):
     database(str(year) + '-Weekly-Win-Total-Model', head) 
     teams = []
     w_teams = []
-    for week in range (1, 3):
+    for week in range (1, 4):
         if week == 1:
             for win_total in win_list:
                 stats = [year,week]

@@ -46,7 +46,7 @@ head = ['Year','Week','Home','Spread','Home Wins','Away','Away Wins','Advantage'
 for year in range(2019, 2020):
     change_directory('/Model/')
     win_list = database_reader(str(year) + '-Weekly-Win-Total-Model.csv', win_head)
-    for week in range(2, 3):
+    for week in range(3, 4):
         database(str(year) + '-' + str(week) + '-Prediction-Model', head)
         for game in spread_list:
             if game[0] == str(year) and game[1] == str(week):
